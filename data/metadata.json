@@ -1,0 +1,20 @@
+{
+  "nyct-subway": {
+    "url": "http://web.mta.info/developers/data/nyct/subway/google_transit.zip"
+  },
+  "nyct-bus": {
+    "urls": {
+      "bronx": "http://web.mta.info/developers/data/nyct/bus/google_transit_bronx.zip",
+      "brooklyn": "http://web.mta.info/developers/data/nyct/bus/google_transit_brooklyn.zip",
+      "manhattan": "http://web.mta.info/developers/data/nyct/bus/google_transit_manhattan.zip",
+      "queens": "http://web.mta.info/developers/data/nyct/bus/google_transit_queens.zip",
+      "statenisland": "http://web.mta.info/developers/data/nyct/bus/google_transit_staten_island.zip"
+    }
+  },
+  "ny-lirr": {
+    "url": "http://web.mta.info/developers/data/lirr/google_transit.zip"
+  },
+  "ny-mnr": {
+    "url": "http://web.mta.info/developers/data/mnr/google_transit.zip"
+  }  
+}

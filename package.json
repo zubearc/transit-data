@@ -1,0 +1,12 @@
+{
+  "name": "transit-data",
+  "author": "zubearc",
+  "scripts": {
+    "test": "standard",
+    "fix": "standard --fix"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "standard": "^17.1.0"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "stops",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "title": "stop",
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "A unique identifier for the stop",
+        "type": "string"
+      },
+      "name": {
+        "description": "The name of the stop",
+        "type": "string",
+        "pattern": "\\S+"
+      },
+      "complexId": {
+        "description": "An ID representing a complex that this stop is apart of",
+        "type": "number"
+      },
+      "lat": {
+        "description": "The latitude of the stop",
+        "type": "number"
+      },
+      "lng": {
+        "description": "The longitude of the stop",
+        "type": "number"
+      },
+      "accessible": {
+        "description": "If this stop is accessible or not. Boolean if fully fully accessible or not, or string for note on partial accessability",
+        "type": [
+          "boolean",
+          "string"
+        ]
+      },
+      "services": {
+        "description": "The default value of an attribute",
+        "type": "array",
+        "uniqueItems": true,
+        "items": {
+          "title": "service",
+          "type": "object",
+          "properties": {
+            "agency": {
+              "name": "ID of the agency that this service pertains to",
+              "type": "string"
+            },
+            "route": {
+              "name": "ID of the route that services at this stop",
+              "type": "string"
+            }
+          }
+        }
+      },
+      "extra": {
+        "description": "Agency-specific extra data",
+        "type": "object"
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "lat",
+      "lng",
+      "default"
+    ],
+    "additionalProperties": false
+  }
+}
