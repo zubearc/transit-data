@@ -1,7 +1,7 @@
 const cp = require('child_process')
 const { join } = require('path')
 const fs = require('fs')
-const csvdata = require('csvdata')
+const dumbcsv = require('dumb-csv')
 const data = require('../data/metadata.json')
 
 const head = (url) => fetch(url, { method: 'HEAD' })
@@ -10,7 +10,7 @@ const unzip = (inp, out) => cp.execSync(`7z e ${inp} -o${out}`)
 
 const unwrapEtag = (etag) => etag.replace(/"/g, '').replace('W/', '')
 
-async function process(agency, region, fromFile) {
+async function process (agency, region, fromFile) {
   const ops = require('./process')(agency, region)
   const outDir = fromFile.replace('.zip', '')
   if (!fs.existsSync(outDir)) {
@@ -18,13 +18,13 @@ async function process(agency, region, fromFile) {
     unzip(fromFile, outDir)
   }
   // const readText = (path) => fs.readFileSync(join(outDir, path), 'utf8')
-  const readCSV = (path) => csvdata.load(join(outDir, path))
+  const readCSV = (path) => dumbcsv.fromCSV({ file: join(outDir, path) }).toJSON()
 
-  ops.handleStops(await readCSV('stops.txt'))
-  ops.handleShapes(await readCSV('shapes.txt'))
+  ops.handleStops(readCSV('stops.txt'))
+  ops.handleShapes(readCSV('shapes.txt'))
 }
 
-async function main(opts) {
+async function main (opts) {
   for (const agency in data) {
     console.log('Checking', agency)
     fs.mkdirSync(join(__dirname, `./tmp/${agency}`), { recursive: true })
