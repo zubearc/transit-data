@@ -8,7 +8,7 @@ const pp = {
       for (const stop of stops) {
         stop.accessible = 1
         // bronx
-        stop.name = stop.name.replace('BRUCKNER BL/ST JOSEPH\"S WAY', 'BRUCKNER BL/ST JOSEPH\'S WAY')
+        stop.name = stop.name.replace('BRUCKNER BL/ST JOSEPH"S WAY', "BRUCKNER BL/ST JOSEPH'S WAY")
       }
     }
   }
