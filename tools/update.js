@@ -18,11 +18,13 @@ async function process (agency, region, fromFile) {
     unzip(fromFile, outDir)
   }
   // const readText = (path) => fs.readFileSync(join(outDir, path), 'utf8')
-  const readCSV = (path) => dumbcsv.fromCSV({ file: join(outDir, path) }).toJSON()
+  function readCSV (path) {
+    try { return dumbcsv.fromCSV({ file: join(outDir, path) }).toJSON() } catch (e) { return [] }
+  }
 
   ops.handleStops(readCSV('stops.txt'))
   ops.handleShapes(readCSV('shapes.txt'))
-  ops.handleTrips(readCSV('calendar.txt'), readCSV('trips.txt'), readCSV('stop_times.txt'))
+  ops.handleTrips(readCSV('calendar.txt'), readCSV('calendar_dates.txt'), readCSV('trips.txt'), readCSV('stop_times.txt'))
 }
 
 async function main (opts) {

@@ -8,7 +8,7 @@ function secondsElapsed (hmsStr1, hmsStr2) {
   return (h2 - h1) * 3600 + (m2 - m1) * 60 + (s2 - s1)
 }
 
-module.exports = function process (agency, division, calendar, trips, stopTimes) {
+module.exports = function process (agency, division, calendar, calendarExceptions, trips, stopTimes) {
   function preprocessCalendar (lines) {
     if (agency === 'nyct-bus') {
       // nyct-bus/bronx fix missing service_id (GH_C3-Weekday-SDon -> GH_C3-Weekday)
@@ -35,8 +35,19 @@ module.exports = function process (agency, division, calendar, trips, stopTimes)
   }
   // const dayPalette = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su']
   const serviceIdToDays = {}
+  const serverIdToExceptions = {}
   for (const entry of calendar) {
     serviceIdToDays[entry.service_id] = [entry.monday, entry.tuesday, entry.wednesday, entry.thursday, entry.friday, entry.saturday, entry.sunday]
+  }
+  for (const entry of calendarExceptions) {
+    serverIdToExceptions[entry.service_id] ??= { added: [], removed: [] }
+    if (entry.exception_type === 1) {
+      serverIdToExceptions[entry.service_id].added.push(entry.date)
+    } else if (entry.exception_type === 2) {
+      serverIdToExceptions[entry.service_id].removed.push(entry.date)
+    } else {
+      throw new Error('Invalid calendar exception type: ' + entry.exception_type)
+    }
   }
 
   // console.log('Service IDs:', serviceIdToDays)
@@ -53,18 +64,22 @@ module.exports = function process (agency, division, calendar, trips, stopTimes)
     const entry = tripsByRoute[trip.route_id]
     // console.log('SID', trip.service_id)
     // const days = serviceIdToDays[trip.service_id].map((day, i) => day ? dayPalette[i] : '').filter(day => day)
-    const daysCode = parseInt(serviceIdToDays[trip.service_id].join(''), 2)
+    const daysCode = serviceIdToDays[trip.service_id] ? parseInt(serviceIdToDays[trip.service_id].join(''), 2) : 0
+    const exceptionCode = serverIdToExceptions[trip.service_id]
+      ? Object.keys(serverIdToExceptions).indexOf(trip.service_id)
+      : undefined
+
     const j = JSON.stringify(stops)
     if (entry.trips[j]) {
       const stops = stopsByTripId[trip.trip_id]
-      entry.trips[j].departs.push([daysCode, stops[0].arrival])
+      entry.trips[j].departs.push([daysCode, stops[0].arrival, exceptionCode])
       // entry.trips[j].ids.push(trip.trip_id)
     } else {
       entry.trips[j] = ({
         // ids: [trip.trip_id],
         sign: trip.trip_headsign,
         days: null,
-        departs: [[daysCode, stopsByTripId[trip.trip_id][0].arrival]],
+        departs: [[daysCode, stopsByTripId[trip.trip_id][0].arrival, exceptionCode]],
         // endTime: stopsByTripId[trip.trip_id][stopsByTripId[trip.trip_id].length - 1].arrival,
         shape: trip.shape_id,
         stops
@@ -77,8 +92,9 @@ module.exports = function process (agency, division, calendar, trips, stopTimes)
     const entry = tripsByRoute[routeId]
     entry.trips = Object.values(entry.trips)
     for (const trip of entry.trips) {
-      if (trip.departs.every(k => k[0] === trip.departs[0][0])) {
+      if (trip.departs.every(k => (k[0] === trip.departs[0][0]) && (k[2] === trip.departs[0][2]))) {
         trip.days = trip.departs[0][0]
+        trip.exception = trip.departs[0][2]
         trip.departs = trip.departs.map(k => k[1])
       } else {
         delete trip.days
@@ -86,7 +102,10 @@ module.exports = function process (agency, division, calendar, trips, stopTimes)
     }
     tripsByRoute[routeId] = entry.trips
   }
-  return tripsByRoute
+  return {
+    exceptions: serverIdToExceptions,
+    trips: tripsByRoute
+  }
 }
 
 if (!module.parent) {

@@ -1,6 +1,7 @@
 const { join } = require('path')
 const fs = require('fs')
 const googlePolyline = require('google-polyline')
+const compactStringify = require('json-stringify-pretty-compact')
 const processTrips = require('./processTrips')
 
 const pp = {
@@ -21,6 +22,7 @@ function makeOps (agency, region) {
   const dir = join(__dirname, `../data/${agency}/${region === 'base' ? '' : region}`)
   fs.mkdirSync(dir, { recursive: true })
   const writeJSON = (name, data) => fs.writeFileSync(join(dir, `${name}.json`), JSON.stringify(data, null, 2))
+  const writeJSONCompact = (name, data) => fs.writeFileSync(join(dir, `${name}.json`), compactStringify(data, { maxLength: 9999 + (agency === 'nyct-subway' ? 9999 : 100) }))
 
   function writeStops (stops) {
     const updated = []
@@ -56,10 +58,10 @@ function makeOps (agency, region) {
     return updated
   }
 
-  function handleTrips (calendar, trips, stopTimes) {
+  function handleTrips (calendar, calendarExceptions, trips, stopTimes) {
     // console.log('Processing trips', stopTimes.length, 'stop times')
-    const data = processTrips(agency, region, calendar, trips, stopTimes, agency)
-    writeJSON('trips', data)
+    const data = processTrips(agency, region, calendar, calendarExceptions, trips, stopTimes, agency)
+    writeJSONCompact('trips', data)
     return data
   }
 
