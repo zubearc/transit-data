@@ -54,11 +54,14 @@ module.exports = function process (agency, division, calendar, calendarException
 
   const tripsByRoute = {}
   for (const trip of trips) {
+    trip.service_id = String(trip.service_id)
     const stops = []
     const lastArrivalTime = stopsByTripId[trip.trip_id][0].arrival
     for (const stop of stopsByTripId[trip.trip_id]) {
       // [stopId, secondsElapsedSinceLastArrival, loiterTime]
-      stops.push([stop.stopId, secondsElapsed(lastArrivalTime, stop.arrival), secondsElapsed(stop.arrival, stop.departure)])
+      const s = [stop.stopId, secondsElapsed(lastArrivalTime, stop.arrival), secondsElapsed(stop.arrival, stop.departure)]
+      if (!s[2]) s.pop() // remove loiter time if it's 0
+      stops.push(s)
     }
     tripsByRoute[trip.route_id] ??= { trips: {} }
     const entry = tripsByRoute[trip.route_id]
@@ -79,12 +82,15 @@ module.exports = function process (agency, division, calendar, calendarException
         // ids: [trip.trip_id],
         sign: trip.trip_headsign,
         days: null,
+        exception: null,
         departs: [[daysCode, stopsByTripId[trip.trip_id][0].arrival, exceptionCode]],
         // endTime: stopsByTripId[trip.trip_id][stopsByTripId[trip.trip_id].length - 1].arrival,
         shape: trip.shape_id,
         stops
       })
     }
+    const lastDepart = entry.trips[j].departs[entry.trips[j].departs.length - 1]
+    if (lastDepart[2] == null) lastDepart.pop() // remove exception code if it's null
 
     // entry.trips = entry.trips.slice(0, 10)
   }
@@ -98,12 +104,13 @@ module.exports = function process (agency, division, calendar, calendarException
         trip.departs = trip.departs.map(k => k[1])
       } else {
         delete trip.days
+        delete trip.exception
       }
     }
     tripsByRoute[routeId] = entry.trips
   }
   return {
-    exceptions: serverIdToExceptions,
+    exceptions: Object.values(serverIdToExceptions),
     trips: tripsByRoute
   }
 }

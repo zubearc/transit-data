@@ -33,8 +33,8 @@ function makeOps (agency, region) {
         name: stop.stop_name,
         description: stop.stop_desc || '',
         accessible: stop.wheelchair_boarding,
-        lat: stop.stop_lat,
-        lng: stop.stop_lon
+        lat: parseFloat(stop.stop_lat),
+        lng: parseFloat(stop.stop_lon)
       })
     }
     pp[agency]?.stops?.(updated)
