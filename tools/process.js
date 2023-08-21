@@ -1,9 +1,12 @@
 const { join } = require('path')
 const fs = require('fs')
 const googlePolyline = require('google-polyline')
+const processTrips = require('./processTrips')
 
 const pp = {
   'nyct-bus': {
+    // notes:
+    // SDon -> school days only
     stops (stops) {
       for (const stop of stops) {
         stop.accessible = 1
@@ -53,7 +56,14 @@ function makeOps (agency, region) {
     return updated
   }
 
-  return { handleStops: writeStops, handleShapes: writeShapes }
+  function handleTrips (calendar, trips, stopTimes) {
+    // console.log('Processing trips', stopTimes.length, 'stop times')
+    const data = processTrips(agency, region, calendar, trips, stopTimes, agency)
+    writeJSON('trips', data)
+    return data
+  }
+
+  return { handleStops: writeStops, handleShapes: writeShapes, handleTrips }
 }
 
 module.exports = makeOps

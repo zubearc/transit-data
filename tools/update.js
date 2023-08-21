@@ -22,6 +22,7 @@ async function process (agency, region, fromFile) {
 
   ops.handleStops(readCSV('stops.txt'))
   ops.handleShapes(readCSV('shapes.txt'))
+  ops.handleTrips(readCSV('calendar.txt'), readCSV('trips.txt'), readCSV('stop_times.txt'))
 }
 
 async function main (opts) {
