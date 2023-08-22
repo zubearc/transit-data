@@ -22,9 +22,10 @@ async function process (agency, region, fromFile) {
     try { return dumbcsv.fromCSV({ file: join(outDir, path) }).toJSON() } catch (e) { return [] }
   }
 
-  ops.handleStops(readCSV('stops.txt'))
   ops.handleShapes(readCSV('shapes.txt'))
+  ops.handleRoutes(readCSV('routes.txt'))
   ops.handleTrips(readCSV('calendar.txt'), readCSV('calendar_dates.txt'), readCSV('trips.txt'), readCSV('stop_times.txt'))
+  ops.handleStops(readCSV('stops.txt'))
 }
 
 async function main (opts) {

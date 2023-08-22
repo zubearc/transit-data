@@ -1,0 +1,45 @@
+{
+  "title": "routes",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "title": "route",
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "A unique identifier for the stop",
+        "type": "string"
+      },
+      "name": {
+        "description": "The display name of the route",
+        "type": "string"
+      },
+      "description": {
+        "description": "A long description of the stop",
+        "type": "string"
+      },
+      "type": {
+        "description": "The GTFS stop type of the stop",
+        "type": "string"
+      },
+      "color": {
+        "description": "The color of the route in hex format",
+        "type": "string"
+      },
+      "textColor": {
+        "description": "The text color of the route in hex format",
+        "type": "string"
+      },
+      "extra": {
+        "description": "Agency-specific extra data",
+        "type": "object"
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "type"
+    ],
+    "additionalProperties": false
+  }
+}

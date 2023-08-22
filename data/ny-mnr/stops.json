@@ -4,911 +4,687 @@
     "name": "Grand Central",
     "description": "",
     "accessible": 1,
-    "lat": 40.752998,
-    "lng": -73.977056
+    "pos": [40.752998, -73.977056],
+    "services": ["1", "2", "3", "5"]
   },
   {
     "id": 4,
     "name": "Harlem-125 St",
     "description": "",
     "accessible": 1,
-    "lat": 40.805157,
-    "lng": -73.939149
+    "pos": [40.805157, -73.939149],
+    "services": ["1", "2", "3", "5"]
   },
   {
     "id": 622,
     "name": "Yankees-E 153 St",
     "description": "",
     "accessible": 1,
-    "lat": 40.8253,
-    "lng": -73.9299
+    "pos": [40.8253, -73.9299],
+    "services": ["1", "2", "3"]
   },
   {
     "id": 184,
     "name": "Highbridge Yard",
     "description": "",
     "accessible": 0,
-    "lat": 40.8359,
-    "lng": -73.9315
+    "pos": [40.8359, -73.9315],
+    "services": ["1"]
   },
   {
     "id": 9,
     "name": "Morris Heights",
     "description": "",
     "accessible": 1,
-    "lat": 40.854252,
-    "lng": -73.919583
+    "pos": [40.854252, -73.919583],
+    "services": ["1"]
   },
   {
     "id": 10,
     "name": "University Heights",
     "description": "",
     "accessible": 1,
-    "lat": 40.862248,
-    "lng": -73.91312
+    "pos": [40.862248, -73.91312],
+    "services": ["1"]
   },
   {
     "id": 11,
     "name": "Marble Hill",
     "description": "",
     "accessible": 0,
-    "lat": 40.874333,
-    "lng": -73.910941
+    "pos": [40.874333, -73.910941],
+    "services": ["1"]
   },
   {
     "id": 14,
     "name": "Spuyten Duyvil",
     "description": "",
     "accessible": 0,
-    "lat": 40.878245,
-    "lng": -73.921455
+    "pos": [40.878245, -73.921455],
+    "services": ["1"]
   },
   {
     "id": 16,
     "name": "Riverdale",
     "description": "",
     "accessible": 1,
-    "lat": 40.903981,
-    "lng": -73.914126
+    "pos": [40.903981, -73.914126],
+    "services": ["1"]
   },
-  {
-    "id": 17,
-    "name": "Ludlow",
-    "description": "",
-    "accessible": 0,
-    "lat": 40.924972,
-    "lng": -73.904612
-  },
-  {
-    "id": 18,
-    "name": "Yonkers",
-    "description": "",
-    "accessible": 1,
-    "lat": 40.935795,
-    "lng": -73.902668
-  },
-  {
-    "id": 19,
-    "name": "Glenwood",
-    "description": "",
-    "accessible": 1,
-    "lat": 40.950496,
-    "lng": -73.899062
-  },
+  {"id": 17, "name": "Ludlow", "description": "", "accessible": 0, "pos": [40.924972, -73.904612], "services": ["1"]},
+  {"id": 18, "name": "Yonkers", "description": "", "accessible": 1, "pos": [40.935795, -73.902668], "services": ["1"]},
+  {"id": 19, "name": "Glenwood", "description": "", "accessible": 1, "pos": [40.950496, -73.899062], "services": ["1"]},
   {
     "id": 20,
     "name": "Greystone",
     "description": "",
     "accessible": 1,
-    "lat": 40.972705,
-    "lng": -73.889069
+    "pos": [40.972705, -73.889069],
+    "services": ["1"]
   },
   {
     "id": 22,
     "name": "Hastings-on-Hudson",
     "description": "",
     "accessible": 1,
-    "lat": 40.994109,
-    "lng": -73.884512
+    "pos": [40.994109, -73.884512],
+    "services": ["1"]
   },
   {
     "id": 23,
     "name": "Dobbs Ferry",
     "description": "",
     "accessible": 1,
-    "lat": 41.012459,
-    "lng": -73.87949
+    "pos": [41.012459, -73.87949],
+    "services": ["1"]
   },
   {
     "id": 24,
     "name": "Ardsley-on-Hudson",
     "description": "",
     "accessible": 1,
-    "lat": 41.026198,
-    "lng": -73.876543
+    "pos": [41.026198, -73.876543],
+    "services": ["1"]
   },
   {
     "id": 25,
     "name": "Irvington",
     "description": "",
     "accessible": 0,
-    "lat": 41.039993,
-    "lng": -73.873083
+    "pos": [41.039993, -73.873083],
+    "services": ["1"]
   },
   {
     "id": 27,
     "name": "Tarrytown",
     "description": "",
     "accessible": 1,
-    "lat": 41.076473,
-    "lng": -73.864563
+    "pos": [41.076473, -73.864563],
+    "services": ["1"]
   },
   {
     "id": 29,
     "name": "Philipse Manor",
     "description": "",
     "accessible": 0,
-    "lat": 41.09492,
-    "lng": -73.869755
+    "pos": [41.09492, -73.869755],
+    "services": ["1"]
   },
   {
     "id": 30,
     "name": "Scarborough",
     "description": "",
     "accessible": 0,
-    "lat": 41.135763,
-    "lng": -73.866163
+    "pos": [41.135763, -73.866163],
+    "services": ["1"]
   },
-  {
-    "id": 31,
-    "name": "Ossining",
-    "description": "",
-    "accessible": 0,
-    "lat": 41.157663,
-    "lng": -73.869281
-  },
+  {"id": 31, "name": "Ossining", "description": "", "accessible": 0, "pos": [41.157663, -73.869281], "services": ["1"]},
   {
     "id": 33,
     "name": "Croton-Harmon",
     "description": "",
     "accessible": 1,
-    "lat": 41.189903,
-    "lng": -73.882394
+    "pos": [41.189903, -73.882394],
+    "services": ["1"]
   },
   {
     "id": 37,
     "name": "Cortlandt",
     "description": "",
     "accessible": 1,
-    "lat": 41.246259,
-    "lng": -73.921884
+    "pos": [41.246259, -73.921884],
+    "services": ["1"]
   },
-  {
-    "id": 39,
-    "name": "Peekskill",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.285962,
-    "lng": -73.93042
-  },
-  {
-    "id": 40,
-    "name": "Manitou",
-    "description": "",
-    "accessible": 0,
-    "lat": 41.332601,
-    "lng": -73.970426
-  },
-  {
-    "id": 42,
-    "name": "Garrison",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.38178,
-    "lng": -73.947202
-  },
+  {"id": 39, "name": "Peekskill", "description": "", "accessible": 1, "pos": [41.285962, -73.93042], "services": ["1"]},
+  {"id": 40, "name": "Manitou", "description": "", "accessible": 0, "pos": [41.332601, -73.970426], "services": ["1"]},
+  {"id": 42, "name": "Garrison", "description": "", "accessible": 1, "pos": [41.38178, -73.947202], "services": ["1"]},
   {
     "id": 43,
     "name": "Cold Spring",
     "description": "",
     "accessible": 1,
-    "lat": 41.415283,
-    "lng": -73.95809
+    "pos": [41.415283, -73.95809],
+    "services": ["1"]
   },
   {
     "id": 44,
     "name": "Breakneck Ridge",
     "description": "",
     "accessible": 0,
-    "lat": 41.450181,
-    "lng": -73.982449
+    "pos": [41.450181, -73.982449],
+    "services": ["1"]
   },
-  {
-    "id": 46,
-    "name": "Beacon",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.504007,
-    "lng": -73.984528
-  },
+  {"id": 46, "name": "Beacon", "description": "", "accessible": 1, "pos": [41.504007, -73.984528], "services": ["1"]},
   {
     "id": 49,
     "name": "New Hamburg",
     "description": "",
     "accessible": 0,
-    "lat": 41.587448,
-    "lng": -73.947226
+    "pos": [41.587448, -73.947226],
+    "services": ["1"]
   },
   {
     "id": 51,
     "name": "Poughkeepsie",
     "description": "",
     "accessible": 1,
-    "lat": 41.705839,
-    "lng": -73.937946
+    "pos": [41.705839, -73.937946],
+    "services": ["1"]
   },
-  {
-    "id": 54,
-    "name": "Melrose",
-    "description": "",
-    "accessible": 0,
-    "lat": 40.825761,
-    "lng": -73.915231
-  },
-  {
-    "id": 55,
-    "name": "Tremont",
-    "description": "",
-    "accessible": 0,
-    "lat": 40.847301,
-    "lng": -73.89955
-  },
+  {"id": 54, "name": "Melrose", "description": "", "accessible": 0, "pos": [40.825761, -73.915231], "services": ["2"]},
+  {"id": 55, "name": "Tremont", "description": "", "accessible": 0, "pos": [40.847301, -73.89955], "services": ["2"]},
   {
     "id": 56,
     "name": "Fordham",
     "description": "",
     "accessible": 1,
-    "lat": 40.8615,
-    "lng": -73.89058
+    "pos": [40.8615, -73.89058],
+    "services": ["2", "3"]
   },
   {
     "id": 57,
     "name": "Botanical Garden",
     "description": "",
     "accessible": 1,
-    "lat": 40.866555,
-    "lng": -73.883109
+    "pos": [40.866555, -73.883109],
+    "services": ["2"]
   },
   {
     "id": 58,
     "name": "Williams Bridge",
     "description": "",
     "accessible": 0,
-    "lat": 40.878569,
-    "lng": -73.871064
+    "pos": [40.878569, -73.871064],
+    "services": ["2"]
   },
-  {
-    "id": 59,
-    "name": "Woodlawn",
-    "description": "",
-    "accessible": 0,
-    "lat": 40.895361,
-    "lng": -73.862916
-  },
-  {
-    "id": 61,
-    "name": "Wakefield",
-    "description": "",
-    "accessible": 0,
-    "lat": 40.905936,
-    "lng": -73.85568
-  },
+  {"id": 59, "name": "Woodlawn", "description": "", "accessible": 0, "pos": [40.895361, -73.862916], "services": ["2"]},
+  {"id": 61, "name": "Wakefield", "description": "", "accessible": 0, "pos": [40.905936, -73.85568], "services": ["2"]},
   {
     "id": 62,
     "name": "Mt Vernon West",
     "description": "",
     "accessible": 1,
-    "lat": 40.912142,
-    "lng": -73.851129
+    "pos": [40.912142, -73.851129],
+    "services": ["2"]
   },
-  {
-    "id": 64,
-    "name": "Fleetwood",
-    "description": "",
-    "accessible": 1,
-    "lat": 40.92699,
-    "lng": -73.83948
-  },
+  {"id": 64, "name": "Fleetwood", "description": "", "accessible": 1, "pos": [40.92699, -73.83948], "services": ["2"]},
   {
     "id": 65,
     "name": "Bronxville",
     "description": "",
     "accessible": 0,
-    "lat": 40.93978,
-    "lng": -73.835208
+    "pos": [40.93978, -73.835208],
+    "services": ["2"]
   },
-  {
-    "id": 66,
-    "name": "Tuckahoe",
-    "description": "",
-    "accessible": 0,
-    "lat": 40.949393,
-    "lng": -73.830166
-  },
+  {"id": 66, "name": "Tuckahoe", "description": "", "accessible": 0, "pos": [40.949393, -73.830166], "services": ["2"]},
   {
     "id": 68,
     "name": "Crestwood",
     "description": "",
     "accessible": 1,
-    "lat": 40.958997,
-    "lng": -73.820564
+    "pos": [40.958997, -73.820564],
+    "services": ["2"]
   },
   {
     "id": 71,
     "name": "Scarsdale",
     "description": "",
     "accessible": 0,
-    "lat": 40.989168,
-    "lng": -73.808634
+    "pos": [40.989168, -73.808634],
+    "services": ["2"]
   },
   {
     "id": 72,
     "name": "Hartsdale",
     "description": "",
     "accessible": 0,
-    "lat": 41.010333,
-    "lng": -73.796407
+    "pos": [41.010333, -73.796407],
+    "services": ["2"]
   },
   {
     "id": 74,
     "name": "White Plains",
     "description": "",
     "accessible": 1,
-    "lat": 41.032589,
-    "lng": -73.775208
+    "pos": [41.032589, -73.775208],
+    "services": ["2"]
   },
   {
     "id": 76,
     "name": "North White Plains",
     "description": "",
     "accessible": 1,
-    "lat": 41.049806,
-    "lng": -73.773142
+    "pos": [41.049806, -73.773142],
+    "services": ["2"]
   },
-  {
-    "id": 78,
-    "name": "Valhalla",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.072819,
-    "lng": -73.772599
-  },
+  {"id": 78, "name": "Valhalla", "description": "", "accessible": 1, "pos": [41.072819, -73.772599], "services": ["2"]},
   {
     "id": 79,
     "name": "Mt Pleasant",
     "description": "",
     "accessible": 0,
-    "lat": 41.095877,
-    "lng": -73.793822
+    "pos": [41.095877, -73.793822],
+    "services": ["2"]
   },
-  {
-    "id": 80,
-    "name": "Hawthorne",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.108581,
-    "lng": -73.79625
-  },
+  {"id": 80, "name": "Hawthorne", "description": "", "accessible": 1, "pos": [41.108581, -73.79625], "services": ["2"]},
   {
     "id": 81,
     "name": "Pleasantville",
     "description": "",
     "accessible": 1,
-    "lat": 41.135222,
-    "lng": -73.792661
+    "pos": [41.135222, -73.792661],
+    "services": ["2"]
   },
   {
     "id": 83,
     "name": "Chappaqua",
     "description": "",
     "accessible": 1,
-    "lat": 41.158015,
-    "lng": -73.774885
+    "pos": [41.158015, -73.774885],
+    "services": ["2"]
   },
-  {
-    "id": 84,
-    "name": "Mt Kisco",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.208242,
-    "lng": -73.729778
-  },
+  {"id": 84, "name": "Mt Kisco", "description": "", "accessible": 1, "pos": [41.208242, -73.729778], "services": ["2"]},
   {
     "id": 85,
     "name": "Bedford Hills",
     "description": "",
     "accessible": 1,
-    "lat": 41.237316,
-    "lng": -73.699936
+    "pos": [41.237316, -73.699936],
+    "services": ["2"]
   },
-  {
-    "id": 86,
-    "name": "Katonah",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.259552,
-    "lng": -73.684155
-  },
+  {"id": 86, "name": "Katonah", "description": "", "accessible": 1, "pos": [41.259552, -73.684155], "services": ["2"]},
   {
     "id": 88,
     "name": "Goldens Bridge",
     "description": "",
     "accessible": 1,
-    "lat": 41.294338,
-    "lng": -73.677655
+    "pos": [41.294338, -73.677655],
+    "services": ["2"]
   },
-  {
-    "id": 89,
-    "name": "Purdy's",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.325775,
-    "lng": -73.659061
-  },
+  {"id": 89, "name": "Purdy's", "description": "", "accessible": 1, "pos": [41.325775, -73.659061], "services": ["2"]},
   {
     "id": 90,
     "name": "Croton Falls",
     "description": "",
     "accessible": 1,
-    "lat": 41.347722,
-    "lng": -73.662269
+    "pos": [41.347722, -73.662269],
+    "services": ["2"]
   },
-  {
-    "id": 91,
-    "name": "Brewster",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.39447,
-    "lng": -73.619802
-  },
+  {"id": 91, "name": "Brewster", "description": "", "accessible": 1, "pos": [41.39447, -73.619802], "services": ["2"]},
   {
     "id": 94,
     "name": "Southeast",
     "description": "",
     "accessible": 1,
-    "lat": 41.413203,
-    "lng": -73.623787
+    "pos": [41.413203, -73.623787],
+    "services": ["2"]
   },
   {
     "id": 97,
     "name": "Patterson",
     "description": "",
     "accessible": 1,
-    "lat": 41.511827,
-    "lng": -73.604584
+    "pos": [41.511827, -73.604584],
+    "services": ["2"]
   },
-  {
-    "id": 98,
-    "name": "Pawling",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.564205,
-    "lng": -73.600524
-  },
+  {"id": 98, "name": "Pawling", "description": "", "accessible": 1, "pos": [41.564205, -73.600524], "services": ["2"]},
   {
     "id": 99,
     "name": "Appalachian Trail",
     "description": "",
     "accessible": 0,
-    "lat": 41.592871,
-    "lng": -73.588032
+    "pos": [41.592871, -73.588032],
+    "services": ["2"]
   },
   {
     "id": 100,
     "name": "Harlem Valley-Wingdale",
     "description": "",
     "accessible": 1,
-    "lat": 41.637525,
-    "lng": -73.57145
+    "pos": [41.637525, -73.57145],
+    "services": ["2"]
   },
   {
     "id": 101,
     "name": "Dover Plains",
     "description": "",
     "accessible": 1,
-    "lat": 41.740401,
-    "lng": -73.576502
+    "pos": [41.740401, -73.576502],
+    "services": ["2"]
   },
   {
     "id": 176,
     "name": "Tenmile River",
     "description": "",
     "accessible": 1,
-    "lat": 41.779938,
-    "lng": -73.558204
+    "pos": [41.779938, -73.558204],
+    "services": ["2"]
   },
-  {
-    "id": 177,
-    "name": "Wassaic",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.814722,
-    "lng": -73.562197
-  },
+  {"id": 177, "name": "Wassaic", "description": "", "accessible": 1, "pos": [41.814722, -73.562197], "services": ["2"]},
   {
     "id": 105,
     "name": "Mt Vernon East ",
     "description": "",
     "accessible": 1,
-    "lat": 40.912161,
-    "lng": -73.832185
+    "pos": [40.912161, -73.832185],
+    "services": ["3"]
   },
-  {
-    "id": 106,
-    "name": "Pelham",
-    "description": "",
-    "accessible": 0,
-    "lat": 40.910321,
-    "lng": -73.810242
-  },
+  {"id": 106, "name": "Pelham", "description": "", "accessible": 0, "pos": [40.910321, -73.810242], "services": ["3"]},
   {
     "id": 108,
     "name": "New Rochelle",
     "description": "",
     "accessible": 1,
-    "lat": 40.911605,
-    "lng": -73.783807
+    "pos": [40.911605, -73.783807],
+    "services": ["3"]
   },
   {
     "id": 110,
     "name": "Larchmont",
     "description": "",
     "accessible": 1,
-    "lat": 40.933394,
-    "lng": -73.759792
+    "pos": [40.933394, -73.759792],
+    "services": ["3"]
   },
   {
     "id": 111,
     "name": "Mamaroneck",
     "description": "",
     "accessible": 0,
-    "lat": 40.954061,
-    "lng": -73.736125
+    "pos": [40.954061, -73.736125],
+    "services": ["3"]
   },
   {
     "id": 112,
     "name": "Harrison",
     "description": "",
     "accessible": 1,
-    "lat": 40.969432,
-    "lng": -73.712964
+    "pos": [40.969432, -73.712964],
+    "services": ["3"]
   },
-  {
-    "id": 114,
-    "name": "Rye",
-    "description": "",
-    "accessible": 1,
-    "lat": 40.985922,
-    "lng": -73.682553
-  },
+  {"id": 114, "name": "Rye", "description": "", "accessible": 1, "pos": [40.985922, -73.682553], "services": ["3"]},
   {
     "id": 115,
     "name": "Port Chester",
     "description": "",
     "accessible": 0,
-    "lat": 41.000732,
-    "lng": -73.6647
+    "pos": [41.000732, -73.6647],
+    "services": ["3"]
   },
   {
     "id": 116,
     "name": "Greenwich",
     "description": "",
     "accessible": 1,
-    "lat": 41.021277,
-    "lng": -73.624621
+    "pos": [41.021277, -73.624621],
+    "services": ["3", "5"]
   },
-  {
-    "id": 118,
-    "name": "Cos Cob",
-    "description": "",
-    "accessible": 0,
-    "lat": 41.030171,
-    "lng": -73.598306
-  },
+  {"id": 118, "name": "Cos Cob", "description": "", "accessible": 0, "pos": [41.030171, -73.598306], "services": ["3"]},
   {
     "id": 120,
     "name": "Riverside",
     "description": "",
     "accessible": 0,
-    "lat": 41.031682,
-    "lng": -73.588173
+    "pos": [41.031682, -73.588173],
+    "services": ["3"]
   },
   {
     "id": 121,
     "name": "Old Greenwich",
     "description": "",
     "accessible": 0,
-    "lat": 41.033817,
-    "lng": -73.565859
+    "pos": [41.033817, -73.565859],
+    "services": ["3"]
   },
   {
     "id": 124,
     "name": "Stamford",
     "description": "",
     "accessible": 1,
-    "lat": 41.046611,
-    "lng": -73.542846
+    "pos": [41.046611, -73.542846],
+    "services": ["3", "4", "5"]
   },
   {
     "id": 153,
     "name": "Glenbrook",
     "description": "",
     "accessible": 1,
-    "lat": 41.070547,
-    "lng": -73.520021
+    "pos": [41.070547, -73.520021],
+    "services": ["4"]
   },
   {
     "id": 651,
     "name": "Springdale MW Facility",
     "description": "",
     "accessible": 0,
-    "lat": 41.082147,
-    "lng": -73.519675
+    "pos": [41.082147, -73.519675],
+    "services": []
   },
   {
     "id": 154,
     "name": "Springdale",
     "description": "",
     "accessible": 1,
-    "lat": 41.08876,
-    "lng": -73.517828
+    "pos": [41.08876, -73.517828],
+    "services": ["4"]
   },
   {
     "id": 155,
     "name": "Talmadge Hill",
     "description": "",
     "accessible": 1,
-    "lat": 41.116012,
-    "lng": -73.498149
+    "pos": [41.116012, -73.498149],
+    "services": ["4"]
   },
   {
     "id": 157,
     "name": "New Canaan",
     "description": "",
     "accessible": 1,
-    "lat": 41.146305,
-    "lng": -73.495626
+    "pos": [41.146305, -73.495626],
+    "services": ["4"]
   },
   {
     "id": 127,
     "name": "Noroton Heights",
     "description": "",
     "accessible": 0,
-    "lat": 41.069041,
-    "lng": -73.49788
+    "pos": [41.069041, -73.49788],
+    "services": ["3", "5"]
   },
   {
     "id": 128,
     "name": "Darien",
     "description": "",
     "accessible": 1,
-    "lat": 41.076913,
-    "lng": -73.472966
+    "pos": [41.076913, -73.472966],
+    "services": ["3", "5"]
   },
   {
     "id": 129,
     "name": "Rowayton",
     "description": "",
     "accessible": 0,
-    "lat": 41.077456,
-    "lng": -73.445527
+    "pos": [41.077456, -73.445527],
+    "services": ["3", "5"]
   },
   {
     "id": 131,
     "name": "South Norwalk",
     "description": "",
     "accessible": 1,
-    "lat": 41.09673,
-    "lng": -73.421132
+    "pos": [41.09673, -73.421132],
+    "services": ["3", "5"]
   },
   {
     "id": 158,
     "name": "Merritt 7",
     "description": "",
     "accessible": 0,
-    "lat": 41.146618,
-    "lng": -73.427859
+    "pos": [41.146618, -73.427859],
+    "services": ["5"]
   },
-  {
-    "id": 160,
-    "name": "Wilton",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.196202,
-    "lng": -73.432434
-  },
+  {"id": 160, "name": "Wilton", "description": "", "accessible": 1, "pos": [41.196202, -73.432434], "services": ["5"]},
   {
     "id": 161,
     "name": "Cannondale",
     "description": "",
     "accessible": 1,
-    "lat": 41.21662,
-    "lng": -73.426703
+    "pos": [41.21662, -73.426703],
+    "services": ["5"]
   },
   {
     "id": 162,
     "name": "Branchville",
     "description": "",
     "accessible": 1,
-    "lat": 41.26763,
-    "lng": -73.441421
+    "pos": [41.26763, -73.441421],
+    "services": ["5"]
   },
-  {
-    "id": 163,
-    "name": "Redding",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.325684,
-    "lng": -73.4338
-  },
-  {
-    "id": 164,
-    "name": "Bethel",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.376225,
-    "lng": -73.418171
-  },
-  {
-    "id": 165,
-    "name": "Danbury",
-    "description": "",
-    "accessible": 1,
-    "lat": 41.396146,
-    "lng": -73.44879
-  },
+  {"id": 163, "name": "Redding", "description": "", "accessible": 1, "pos": [41.325684, -73.4338], "services": ["5"]},
+  {"id": 164, "name": "Bethel", "description": "", "accessible": 1, "pos": [41.376225, -73.418171], "services": ["5"]},
+  {"id": 165, "name": "Danbury", "description": "", "accessible": 1, "pos": [41.396146, -73.44879], "services": ["5"]},
   {
     "id": 133,
     "name": "East Norwalk",
     "description": "",
     "accessible": 0,
-    "lat": 41.103996,
-    "lng": -73.404588
+    "pos": [41.103996, -73.404588],
+    "services": ["3"]
   },
   {
     "id": 134,
     "name": "Westport",
     "description": "",
     "accessible": 1,
-    "lat": 41.118928,
-    "lng": -73.371413
+    "pos": [41.118928, -73.371413],
+    "services": ["3"]
   },
   {
     "id": 136,
     "name": "Green's Farms",
     "description": "",
     "accessible": 0,
-    "lat": 41.122265,
-    "lng": -73.315408
+    "pos": [41.122265, -73.315408],
+    "services": ["3"]
   },
   {
     "id": 137,
     "name": "Southport",
     "description": "",
     "accessible": 0,
-    "lat": 41.134844,
-    "lng": -73.28897
+    "pos": [41.134844, -73.28897],
+    "services": ["3"]
   },
   {
     "id": 138,
     "name": "Fairfield",
     "description": "",
     "accessible": 0,
-    "lat": 41.143077,
-    "lng": -73.257742
+    "pos": [41.143077, -73.257742],
+    "services": ["3"]
   },
   {
     "id": 188,
     "name": "Fairfield Metro",
     "description": "",
     "accessible": 0,
-    "lat": 41.161,
-    "lng": -73.234336
+    "pos": [41.161, -73.234336],
+    "services": ["3"]
   },
   {
     "id": 140,
     "name": "Bridgeport",
     "description": "",
     "accessible": 1,
-    "lat": 41.178677,
-    "lng": -73.187076
+    "pos": [41.178677, -73.187076],
+    "services": ["3", "6"]
   },
   {
     "id": 143,
     "name": "Stratford",
     "description": "",
     "accessible": 0,
-    "lat": 41.194255,
-    "lng": -73.131532
+    "pos": [41.194255, -73.131532],
+    "services": ["3", "6"]
   },
   {
     "id": 167,
     "name": "Derby-Shelton",
     "description": "",
     "accessible": 0,
-    "lat": 41.319718,
-    "lng": -73.083548
+    "pos": [41.319718, -73.083548],
+    "services": ["6"]
   },
-  {
-    "id": 168,
-    "name": "Ansonia",
-    "description": "",
-    "accessible": 0,
-    "lat": 41.344156,
-    "lng": -73.079892
-  },
-  {
-    "id": 169,
-    "name": "Seymour",
-    "description": "",
-    "accessible": 0,
-    "lat": 41.395139,
-    "lng": -73.072499
-  },
+  {"id": 168, "name": "Ansonia", "description": "", "accessible": 0, "pos": [41.344156, -73.079892], "services": ["6"]},
+  {"id": 169, "name": "Seymour", "description": "", "accessible": 0, "pos": [41.395139, -73.072499], "services": ["6"]},
   {
     "id": 170,
     "name": "Beacon Falls",
     "description": "",
     "accessible": 0,
-    "lat": 41.441752,
-    "lng": -73.06359
+    "pos": [41.441752, -73.06359],
+    "services": ["6"]
   },
   {
     "id": 171,
     "name": "Naugatuck",
     "description": "",
     "accessible": 0,
-    "lat": 41.494204,
-    "lng": -73.052655
+    "pos": [41.494204, -73.052655],
+    "services": ["6"]
   },
   {
     "id": 172,
     "name": "Waterbury",
     "description": "",
     "accessible": 1,
-    "lat": 41.552728,
-    "lng": -73.046126
+    "pos": [41.552728, -73.046126],
+    "services": ["6"]
   },
-  {
-    "id": 145,
-    "name": "Milford",
-    "description": "",
-    "accessible": 0,
-    "lat": 41.223231,
-    "lng": -73.057647
-  },
+  {"id": 145, "name": "Milford", "description": "", "accessible": 0, "pos": [41.223231, -73.057647], "services": ["3"]},
   {
     "id": 190,
     "name": "West Haven",
     "description": "",
     "accessible": 0,
-    "lat": 41.27142,
-    "lng": -72.963488
+    "pos": [41.27142, -72.963488],
+    "services": ["3"]
   },
   {
     "id": 149,
     "name": "New Haven",
     "description": "",
     "accessible": 1,
-    "lat": 41.296501,
-    "lng": -72.92829
+    "pos": [41.296501, -72.92829],
+    "services": ["3"]
   },
   {
     "id": 151,
     "name": "New Haven-State St",
     "description": "",
     "accessible": 1,
-    "lat": 41.304979,
-    "lng": -72.921747
+    "pos": [41.304979, -72.921747],
+    "services": ["3"]
   }
 ]

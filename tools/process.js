@@ -22,9 +22,13 @@ function makeOps (agency, region) {
   const dir = join(__dirname, `../data/${agency}/${region === 'base' ? '' : region}`)
   fs.mkdirSync(dir, { recursive: true })
   const writeJSON = (name, data) => fs.writeFileSync(join(dir, `${name}.json`), JSON.stringify(data, null, 2))
-  const writeJSONCompact = (name, data) => fs.writeFileSync(join(dir, `${name}.json`), compactStringify(data, { maxLength: 9999 + (agency === 'nyct-subway' ? 9999 : 100) }))
+  const writeJSONCompact = (name, data, maxWidth = 9999) =>
+    fs.writeFileSync(join(dir, `${name}.json`), compactStringify(data, { maxLength: maxWidth }))
+
+  const servicesAtStop = {}
 
   function writeStops (stops) {
+    if (!Object.keys(servicesAtStop).length) throw new Error('Need to call handleTrips first')
     const updated = []
     for (const stop of stops) {
       updated.push({
@@ -33,12 +37,12 @@ function makeOps (agency, region) {
         name: stop.stop_name,
         description: stop.stop_desc || '',
         accessible: stop.wheelchair_boarding,
-        lat: parseFloat(stop.stop_lat),
-        lng: parseFloat(stop.stop_lon)
+        pos: [parseFloat(stop.stop_lat), parseFloat(stop.stop_lon)],
+        services: servicesAtStop[stop.stop_id] || []
       })
     }
     pp[agency]?.stops?.(updated)
-    writeJSON('stops', updated)
+    writeJSONCompact('stops', updated, 120)
     return updated
   }
 
@@ -58,14 +62,40 @@ function makeOps (agency, region) {
     return updated
   }
 
+  function handleRoutes (routes) {
+    const result = []
+    for (const route of routes) {
+      result.push({
+        id: route.route_id,
+        name: route.route_short_name,
+        description: route.route_long_name,
+        type: route.route_type,
+        color: route.route_color,
+        textColor: route.route_text_color
+      })
+    }
+    writeJSON('routes', result)
+    return result
+  }
+
   function handleTrips (calendar, calendarExceptions, trips, stopTimes) {
     // console.log('Processing trips', stopTimes.length, 'stop times')
     const data = processTrips(agency, region, calendar, calendarExceptions, trips, stopTimes, agency)
-    writeJSONCompact('trips', data)
+    writeJSONCompact('trips', data, 9999 + agency === 'nyct-subway' ? 9999 : 100)
+
+    for (const routeId in data.trips) {
+      for (const trip of data.trips[routeId]) {
+        for (const [stopId] of trip.stops) {
+          servicesAtStop[stopId] ??= []
+          if (!servicesAtStop[stopId].includes(routeId)) { servicesAtStop[stopId].push(routeId) }
+        }
+      }
+    }
+
     return data
   }
 
-  return { handleStops: writeStops, handleShapes: writeShapes, handleTrips }
+  return { handleStops: writeStops, handleShapes: writeShapes, handleRoutes, handleTrips }
 }
 
 module.exports = makeOps

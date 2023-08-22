@@ -19,13 +19,14 @@
         "description": "An ID representing a complex that this stop is apart of",
         "type": "number"
       },
-      "lat": {
-        "description": "The latitude of the stop",
-        "type": "number"
-      },
-      "lng": {
-        "description": "The longitude of the stop",
-        "type": "number"
+      "pos": {
+        "description": "The latitude / longitude of the stop",
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 2,
+        "items": {
+          "type": "number"
+        }
       },
       "accessible": {
         "description": "If this stop is accessible or not. Boolean if fully fully accessible or not, or string for note on partial accessability",

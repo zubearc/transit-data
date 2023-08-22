@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": 1,
+    "description": "Broadway - 7 Avenue Local",
+    "type": 1,
+    "color": "EE352E",
+    "textColor": ""
+  },
+  {
+    "id": 2,
+    "name": 2,
+    "description": "7 Avenue Express",
+    "type": 1,
+    "color": "EE352E",
+    "textColor": " "
+  },
+  {
+    "id": 3,
+    "name": 3,
+    "description": "7 Avenue Express",
+    "type": 1,
+    "color": "EE352E",
+    "textColor": ""
+  },
+  {
+    "id": 4,
+    "name": 4,
+    "description": "Lexington Avenue Express",
+    "type": 1,
+    "color": "00933C",
+    "textColor": ""
+  },
+  {
+    "id": 5,
+    "name": 5,
+    "description": "Lexington Avenue Express",
+    "type": 1,
+    "color": "00933C",
+    "textColor": ""
+  },
+  {
+    "id": "5X",
+    "name": "5X",
+    "description": "Lexington Avenue Express",
+    "type": 1,
+    "color": "00933C",
+    "textColor": ""
+  },
+  {
+    "id": 6,
+    "name": 6,
+    "description": "Lexington Avenue Local",
+    "type": 1,
+    "color": "00933C",
+    "textColor": ""
+  },
+  {
+    "id": "6X",
+    "name": "6X",
+    "description": "Pelham Bay Park Express",
+    "type": 1,
+    "color": "00933C",
+    "textColor": ""
+  },
+  {
+    "id": 7,
+    "name": 7,
+    "description": "Flushing Local",
+    "type": 1,
+    "color": "B933AD",
+    "textColor": ""
+  },
+  {
+    "id": "7X",
+    "name": "7X",
+    "description": "Flushing Express",
+    "type": 1,
+    "color": "B933AD",
+    "textColor": ""
+  },
+  {
+    "id": "GS",
+    "name": "S",
+    "description": "42 St Shuttle",
+    "type": 1,
+    "color": "6D6E71",
+    "textColor": ""
+  },
+  {
+    "id": "A",
+    "name": "A",
+    "description": "8 Avenue Express",
+    "type": 1,
+    "color": "2850AD",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "B",
+    "name": "B",
+    "description": "6 Avenue Express",
+    "type": 1,
+    "color": "FF6319",
+    "textColor": ""
+  },
+  {
+    "id": "C",
+    "name": "C",
+    "description": "8 Avenue Local",
+    "type": 1,
+    "color": "2850AD",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "D",
+    "name": "D",
+    "description": "6 Avenue Express",
+    "type": 1,
+    "color": "FF6319",
+    "textColor": ""
+  },
+  {
+    "id": "E",
+    "name": "E",
+    "description": "8 Avenue Local",
+    "type": 1,
+    "color": "2850AD",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "F",
+    "name": "F",
+    "description": "Queens Blvd Express/ 6 Av Local",
+    "type": 1,
+    "color": "FF6319",
+    "textColor": ""
+  },
+  {
+    "id": "FX",
+    "name": "FX",
+    "description": "Brooklyn F Express",
+    "type": 1,
+    "color": "FF6319",
+    "textColor": ""
+  },
+  {
+    "id": "FS",
+    "name": "S",
+    "description": "Franklin Avenue Shuttle",
+    "type": 1,
+    "color": "",
+    "textColor": ""
+  },
+  {
+    "id": "G",
+    "name": "G",
+    "description": "Brooklyn-Queens Crosstown",
+    "type": 1,
+    "color": "6CBE45",
+    "textColor": ""
+  },
+  {
+    "id": "J",
+    "name": "J",
+    "description": "Nassau St Local",
+    "type": 1,
+    "color": 996633,
+    "textColor": ""
+  },
+  {
+    "id": "L",
+    "name": "L",
+    "description": "14 St-Canarsie Local",
+    "type": 1,
+    "color": "A7A9AC",
+    "textColor": ""
+  },
+  {
+    "id": "M",
+    "name": "M",
+    "description": "Queens Blvd Local/6 Av Local",
+    "type": 1,
+    "color": "FF6319",
+    "textColor": ""
+  },
+  {
+    "id": "N",
+    "name": "N",
+    "description": "Broadway Local",
+    "type": 1,
+    "color": "FCCC0A",
+    "textColor": ""
+  },
+  {
+    "id": "Q",
+    "name": "Q",
+    "description": "Broadway Express",
+    "type": 1,
+    "color": "FCCC0A",
+    "textColor": ""
+  },
+  {
+    "id": "R",
+    "name": "R",
+    "description": "Broadway Local",
+    "type": 1,
+    "color": "FCCC0A",
+    "textColor": ""
+  },
+  {
+    "id": "H",
+    "name": "S",
+    "description": "Rockaway Park Shuttle",
+    "type": 1,
+    "color": "",
+    "textColor": ""
+  },
+  {
+    "id": "W",
+    "name": "W",
+    "description": "Broadway Local",
+    "type": 1,
+    "color": "FCCC0A",
+    "textColor": ""
+  },
+  {
+    "id": "Z",
+    "name": "Z",
+    "description": "Nassau St Express",
+    "type": 1,
+    "color": 996633,
+    "textColor": ""
+  },
+  {
+    "id": "SI",
+    "name": "SIR",
+    "description": "Staten Island Railway",
+    "type": 2,
+    "color": "",
+    "textColor": ""
+  }
+]

@@ -4,1015 +4,1015 @@
     "name": "Albertson",
     "description": "I.U. Willets Road and Albertson Avenue, between Willis Avenue and Roslyn Road.",
     "accessible": 1,
-    "lat": 40.772063168484,
-    "lng": -73.641690951778
+    "pos": [40.772063168484, -73.641690951778],
+    "services": ["3"]
   },
   {
     "id": 100,
     "name": "Islip",
     "description": "Islip Avenue (Route 111), between Sunrise Highway (Route 27) and Montauk Highway (Route 27A).  North of Union Boulevard, south of Moffitt Boulevard.",
     "accessible": 1,
-    "lat": 40.735834489563,
-    "lng": -73.209321448531
+    "pos": [40.735834489563, -73.209321448531],
+    "services": ["5"]
   },
   {
     "id": 101,
     "name": "Inwood",
     "description": "Off Doughty Boulevard, 2 blocks West of Central Avenue.",
     "accessible": 1,
-    "lat": 40.612287734083,
-    "lng": -73.744183542466
+    "pos": [40.612287734083, -73.744183542466],
+    "services": ["7"]
   },
   {
     "id": 102,
     "name": "Jamaica",
     "description": "93-02 Sutphin Blvd., Jamaica, NY 11435.  Corner of Sutphin Boulevard and Archer Avenue, 2 blocks south of Jamaica Avenue..The easiest way to Kennedy Airport is by Air Train.   AirTrain JFK leaves from the terminal adjacent to the Long Island Rail Road's Jamaica Station every 2 to 12 minutes, depending upon the time of day.",
     "accessible": 1,
-    "lat": 40.699608169502,
-    "lng": -73.808529871584
+    "pos": [40.699608169502, -73.808529871584],
+    "services": ["1", "2", "3", "4", "5", "6", "7", "8", "10", "12"]
   },
   {
     "id": 107,
     "name": "Kew Gardens",
     "description": "Austin Street and Lefferts Boulevard, between Queens Boulevard and Metropolitan Avenue.",
     "accessible": 1,
-    "lat": 40.709649173337,
-    "lng": -73.830888068322
+    "pos": [40.709649173337, -73.830888068322],
+    "services": ["1", "2", "4", "6", "7", "8", "10", "12"]
   },
   {
     "id": 11,
     "name": "Broadway",
     "description": "Intersection of 162nd Street and Northern Boulevard.  ",
     "accessible": 1,
-    "lat": 40.761653179863,
-    "lng": -73.801766123794
+    "pos": [40.761653179863, -73.801766123794],
+    "services": ["9"]
   },
   {
     "id": 111,
     "name": "Kings Park",
     "description": "Indian Head Road and Main Street, just South of Route 25A.",
     "accessible": 1,
-    "lat": 40.883666594112,
-    "lng": -73.256247569798
+    "pos": [40.883666594112, -73.256247569798],
+    "services": ["10"]
   },
   {
     "id": 113,
     "name": "Long Beach",
     "description": "Park Place and Park Avenue, 1/4 mile West of Long Beach Road.",
     "accessible": 1,
-    "lat": 40.590181700395,
-    "lng": -73.664818219871
+    "pos": [40.590181700395, -73.664818219871],
+    "services": ["6"]
   },
   {
     "id": 114,
     "name": "Lawrence",
     "description": "Lawrence Avenue and Bayview Avenue, 2 blocks West of Central Avenue.",
     "accessible": 1,
-    "lat": 40.615734701373,
-    "lng": -73.735899552581
+    "pos": [40.615734701373, -73.735899552581],
+    "services": ["7"]
   },
   {
     "id": 117,
     "name": "Lindenhurst",
     "description": "Wellwood Avenue and East Hoffman Avenue between Sunrise Highway (Route 27) and Montauk Highway (Route 27A).",
     "accessible": 2,
-    "lat": 40.688265039296,
-    "lng": -73.36921149343
+    "pos": [40.688265039296, -73.36921149343],
+    "services": ["1"]
   },
   {
     "id": 118,
     "name": "Long Island City",
     "description": "Borden Avenue and 2nd Street",
     "accessible": 1,
-    "lat": 40.741343427306,
-    "lng": -73.957639216355
+    "pos": [40.741343427306, -73.957639216355],
+    "services": ["3", "5", "10"]
   },
   {
     "id": 119,
     "name": "Locust Manor",
     "description": "Farmers Boulevard and Bedell Street.",
     "accessible": 2,
-    "lat": 40.675139071202,
-    "lng": -73.76504303069
+    "pos": [40.675139071202, -73.76504303069],
+    "services": ["6", "7"]
   },
   {
     "id": 120,
     "name": "Little Neck",
     "description": "Little Neck Parkway and 39th Road, just north of Northern Boulevard. ",
     "accessible": 1,
-    "lat": 40.775043932267,
-    "lng": -73.74064662099
+    "pos": [40.775043932267, -73.74064662099],
+    "services": ["9"]
   },
   {
     "id": 122,
     "name": "Laurelton",
     "description": "224th Street and 141st Roadjust East of Springfield Boulevard.",
     "accessible": 2,
-    "lat": 40.668483044044,
-    "lng": -73.751746866857
+    "pos": [40.668483044044, -73.751746866857],
+    "services": ["6", "7"]
   },
   {
     "id": 123,
     "name": "Locust Valley",
     "description": "Birch Hill Road / Piping Rock Road, just South of Forest Avenue.  ",
     "accessible": 1,
-    "lat": 40.874466974435,
-    "lng": -73.598302844258
+    "pos": [40.874466974435, -73.598302844258],
+    "services": ["3"]
   },
   {
     "id": 124,
     "name": "Lakeview",
     "description": "Woodfield Road and Eagle Avenue.",
     "accessible": 1,
-    "lat": 40.685855824382,
-    "lng": -73.652137774307
+    "pos": [40.685855824382, -73.652137774307],
+    "services": ["8"]
   },
   {
     "id": 125,
     "name": "Lynbrook",
     "description": "Sunrise Highway and between Peninsula Boulevard and Broadway. ",
     "accessible": 1,
-    "lat": 40.656058137013,
-    "lng": -73.676070834658
+    "pos": [40.656058137013, -73.676070834658],
+    "services": ["1", "6"]
   },
   {
     "id": 126,
     "name": "Mattituck",
     "description": "Love Lane and Pike Street, just North of Route 25.",
     "accessible": 1,
-    "lat": 40.991793540658,
-    "lng": -72.536062427146
+    "pos": [40.991793540658, -72.536062427146],
+    "services": ["4"]
   },
   {
     "id": 127,
     "name": "Merillon Avenue",
     "description": "Nassau Boulevard and Merillon Avenue, just South of Jericho Turnpike (Route 25).",
     "accessible": 1,
-    "lat": 40.735169029401,
-    "lng": -73.662521484606
+    "pos": [40.735169029401, -73.662521484606],
+    "services": ["4", "10"]
   },
   {
     "id": 129,
     "name": "Medford",
     "description": "Medford Avenue (Route 112) and Long Island Avenue, 1/4 mile South of Exit 64 off the Long Island Expressway.",
     "accessible": 1,
-    "lat": 40.817396646608,
-    "lng": -72.998909462422
+    "pos": [40.817396646608, -72.998909462422],
+    "services": ["4"]
   },
   {
     "id": 13,
     "name": "Bridgehampton",
     "description": "Maple Lane and Butter Lane, 1/4 mile north of Montauk Highway (Route 27A).",
     "accessible": 1,
-    "lat": 40.938983784659,
-    "lng": -72.310045934299
+    "pos": [40.938983784659, -72.310045934299],
+    "services": ["5"]
   },
   {
     "id": 130,
     "name": "Murray Hill",
     "description": "150th Street and 41st Avenue, just south of Roosevelt Avenue.",
     "accessible": 1,
-    "lat": 40.762709261196,
-    "lng": -73.814539282071
+    "pos": [40.762709261196, -73.814539282071],
+    "services": ["9"]
   },
   {
     "id": 131,
     "name": "Manhasset",
     "description": "Plandome Road and Maple Place, off Park Avenue.  Five blocks North of Route 25A.",
     "accessible": 1,
-    "lat": 40.796724100129,
-    "lng": -73.699899085184
+    "pos": [40.796724100129, -73.699899085184],
+    "services": ["9"]
   },
   {
     "id": 132,
     "name": "Mineola",
     "description": "Front Street and Mineola Boulevard, one block north of Old Country Road.    ",
     "accessible": 1,
-    "lat": 40.740347428794,
-    "lng": -73.640862925027
+    "pos": [40.740347428794, -73.640862925027],
+    "services": ["3", "4", "5", "10"]
   },
   {
     "id": 135,
     "name": "Massapequa Park",
     "description": "Sunrise Highway (Route 27) and Park Boulevard.",
     "accessible": 2,
-    "lat": 40.677859099302,
-    "lng": -73.454737237713
+    "pos": [40.677859099302, -73.454737237713],
+    "services": ["1"]
   },
   {
     "id": 136,
     "name": "Massapequa",
     "description": "Sunrise Highway (Route 27), just East of Broadway and Route 107.",
     "accessible": 1,
-    "lat": 40.676930139365,
-    "lng": -73.469055515159
+    "pos": [40.676930139365, -73.469055515159],
+    "services": ["1"]
   },
   {
     "id": 14,
     "name": "Stony Brook",
     "description": "North Country Road (Route 25A) and Chapman Street, just West of Nicolls Road.",
     "accessible": 1,
-    "lat": 40.920322518837,
-    "lng": -73.128549431354
+    "pos": [40.920322518837, -73.128549431354],
+    "services": ["10"]
   },
   {
     "id": 140,
     "name": "Mastic Shirley",
     "description": "William Floyd Parkway and Northern Boulevard, just South of 27A.",
     "accessible": 1,
-    "lat": 40.798988151573,
-    "lng": -72.864422717948
+    "pos": [40.798988151573, -72.864422717948],
+    "services": ["5"]
   },
   {
     "id": 141,
     "name": "Montauk",
     "description": "Edgemere Street and Fort Pond Road.  One mile north Old Montauk Highway.",
     "accessible": 1,
-    "lat": 41.047108960897,
-    "lng": -71.953881026163
+    "pos": [41.047108960897, -71.953881026163],
+    "services": ["5"]
   },
   {
     "id": 142,
     "name": "Malverne",
     "description": "Hempstead Avenue and Utterby Road",
     "accessible": 1,
-    "lat": 40.675478439206,
-    "lng": -73.668863639489
+    "pos": [40.675478439206, -73.668863639489],
+    "services": ["8"]
   },
   {
     "id": 148,
     "name": "Nostrand Avenue",
     "description": "Nostrand Avenue and Atlantic Avenue.",
     "accessible": 1,
-    "lat": 40.678387847361,
-    "lng": -73.948221083404
+    "pos": [40.678387847361, -73.948221083404],
+    "services": ["1", "2", "6", "7", "8", "10", "12"]
   },
   {
     "id": 149,
     "name": "Nassau Boulevard",
     "description": "Nassau Boulevard and South Avenue, 4 blocks South of Stewart Avenue.",
     "accessible": 1,
-    "lat": 40.722962452273,
-    "lng": -73.662698233573
+    "pos": [40.722962452273, -73.662698233573],
+    "services": ["2"]
   },
   {
     "id": 152,
     "name": "New Hyde Park",
     "description": "New Hyde Park Road and 2nd Avenue, just South of Jericho Turnpike (Route 25).",
     "accessible": 1,
-    "lat": 40.730757075652,
-    "lng": -73.680958864193
+    "pos": [40.730757075652, -73.680958864193],
+    "services": ["4", "10"]
   },
   {
     "id": 153,
     "name": "Northport",
     "description": "Larkfield Road and Bellerose Avenue, North of Pulaski Road.",
     "accessible": 1,
-    "lat": 40.880649715577,
-    "lng": -73.328485131567
+    "pos": [40.880649715577, -73.328485131567],
+    "services": ["10"]
   },
   {
     "id": 154,
     "name": "Oyster Bay",
     "description": "Off Maxwell Avenue, between Shore and Larabee Avenues.",
     "accessible": 1,
-    "lat": 40.875337735301,
-    "lng": -73.534033663087
+    "pos": [40.875337735301, -73.534033663087],
+    "services": ["3"]
   },
   {
     "id": 155,
     "name": "Oceanside",
     "description": "Weidner Avenue and LawsonBoulevard.",
     "accessible": 1,
-    "lat": 40.634721021217,
-    "lng": -73.654665821473
+    "pos": [40.634721021217, -73.654665821473],
+    "services": ["6"]
   },
   {
     "id": 157,
     "name": "Oakdale",
     "description": "Montauk Highway (Route 27A) and Oakdale-Bohemia Road.",
     "accessible": 1,
-    "lat": 40.74343274705,
-    "lng": -73.132435494821
+    "pos": [40.74343274705, -73.132435494821],
+    "services": ["5"]
   },
   {
     "id": 16,
     "name": "Bellmore",
     "description": "Sunrise Highway (Route 27) and Bedford Avenue, North side of Sunrise Highway, between Newbridge Road and Bellmore Avenue.",
     "accessible": 1,
-    "lat": 40.668800434534,
-    "lng": -73.528860158895
+    "pos": [40.668800434534, -73.528860158895],
+    "services": ["1"]
   },
   {
     "id": 162,
     "name": "Plandome",
     "description": "Off Stonytown Road and Rockwood Road, near W. Circle Drive and Colonial Drive.",
     "accessible": 1,
-    "lat": 40.810698532132,
-    "lng": -73.69521437574
+    "pos": [40.810698532132, -73.69521437574],
+    "services": ["9"]
   },
   {
     "id": 163,
     "name": "Patchogue",
     "description": "Division Street and Ocean Avenue, Just South of Main Street.",
     "accessible": 1,
-    "lat": 40.761879012377,
-    "lng": -73.015744510946
+    "pos": [40.761879012377, -73.015744510946],
+    "services": ["5"]
   },
   {
     "id": 164,
     "name": "Port Jefferson",
     "description": "Route 112 (Main Street) and Oakland Avenue ",
     "accessible": 1,
-    "lat": 40.934553101142,
-    "lng": -73.052501636367
+    "pos": [40.934553101142, -73.052501636367],
+    "services": ["10"]
   },
   {
     "id": 165,
     "name": "Pinelawn",
     "description": "Wellwood Avenue and Long Island Avenue (on Cemetery grounds).The LIRR platform is ADA accessible, but the building at the station site, maintained by the cemetery, is not.",
     "accessible": 1,
-    "lat": 40.745358512169,
-    "lng": -73.399600923985
+    "pos": [40.745358512169, -73.399600923985],
+    "services": ["4"]
   },
   {
     "id": 171,
     "name": "Port Washington",
     "description": "Main Street, between Haven Avenue and South Bayles Avenue",
     "accessible": 1,
-    "lat": 40.829035331198,
-    "lng": -73.687401000545
+    "pos": [40.829035331198, -73.687401000545],
+    "services": ["9"]
   },
   {
     "id": 175,
     "name": "Queens Village",
     "description": "Springfield Boulevard, between 219th Street and 97th Avenue, just South of Jamaica Avenue.",
     "accessible": 1,
-    "lat": 40.717457854779,
-    "lng": -73.736459889162
+    "pos": [40.717457854779, -73.736459889162],
+    "services": ["2", "4", "10"]
   },
   {
     "id": 176,
     "name": "Riverhead",
     "description": "Osborne Avenue and Railroad Street, just North of West Main Street (Route 25).",
     "accessible": 1,
-    "lat": 40.9198392787,
-    "lng": -72.666910535036
+    "pos": [40.9198392787, -72.666910535036],
+    "services": ["4"]
   },
   {
     "id": 179,
     "name": "Ronkonkoma",
     "description": "Hawkins Avenue, 2 blocks South of the Long Island Expressway Exit 60.",
     "accessible": 1,
-    "lat": 40.808086130523,
-    "lng": -73.105940225025
+    "pos": [40.808086130523, -73.105940225025],
+    "services": ["4"]
   },
   {
     "id": 180,
     "name": "Rosedale",
     "description": "Francis Lewis Boulevard and Sunrise Highway",
     "accessible": 1,
-    "lat": 40.665949330793,
-    "lng": -73.7355481613
+    "pos": [40.665949330793, -73.7355481613],
+    "services": ["6", "7"]
   },
   {
     "id": 182,
     "name": "Roslyn",
     "description": "Lincoln Avenue and Railroad Avenue,  just West of Roslyn Road.",
     "accessible": 1,
-    "lat": 40.790478098785,
-    "lng": -73.643261754201
+    "pos": [40.790478098785, -73.643261754201],
+    "services": ["3"]
   },
   {
     "id": 183,
     "name": "Rockville Centre",
     "description": "North Village Avenue and Front Street, just North of Sunrise Highway (Route 27).",
     "accessible": 1,
-    "lat": 40.658318110666,
-    "lng": -73.646549348655
+    "pos": [40.658318110666, -73.646549348655],
+    "services": ["1"]
   },
   {
     "id": 184,
     "name": "St. Albans",
     "description": "Linden Boulevard and Montauk Street, off 180th Street.",
     "accessible": 2,
-    "lat": 40.69118348287,
-    "lng": -73.76550936909
+    "pos": [40.69118348287, -73.76550936909],
+    "services": ["1", "8"]
   },
   {
     "id": 185,
     "name": "Sea Cliff",
     "description": "Sea Cliff Avenue, East of Glen Cove Avenue and just West of Route 107.",
     "accessible": 1,
-    "lat": 40.852368045296,
-    "lng": -73.62541695304
+    "pos": [40.852368045296, -73.62541695304],
+    "services": ["3"]
   },
   {
     "id": 187,
     "name": "Seaford",
     "description": "Sunrise Highway (Route 27) and Jackson Avenue.",
     "accessible": 1,
-    "lat": 40.67572393081,
-    "lng": -73.486568465649
+    "pos": [40.67572393081, -73.486568465649],
+    "services": ["1"]
   },
   {
     "id": 190,
     "name": "Southold",
     "description": "Youngs Avenue and Traveler Street, just North of Main Road (Route 25).",
     "accessible": 1,
-    "lat": 41.066320888031,
-    "lng": -72.427880303874
+    "pos": [41.066320888031, -72.427880303874],
+    "services": ["4"]
   },
   {
     "id": 191,
     "name": "Southampton",
     "description": "North Main Street, between Prospect and Willow.  One mile north of Montauk Highway.",
     "accessible": 1,
-    "lat": 40.894718742702,
-    "lng": -72.390123758063
+    "pos": [40.894718742702, -72.390123758063],
+    "services": ["5"]
   },
   {
     "id": 193,
     "name": "St. James",
     "description": "Lake Avenue and 2nd Street, just South of Route 25A and North of Route 25. ",
     "accessible": 1,
-    "lat": 40.882169306824,
-    "lng": -73.159507246848
+    "pos": [40.882169306824, -73.159507246848],
+    "services": ["10"]
   },
   {
     "id": 195,
     "name": "Stewart Manor",
     "description": "New Hyde Park Road and Manor Road, South of Stewart Avenue., North of Plaza Road.",
     "accessible": 1,
-    "lat": 40.723027708732,
-    "lng": -73.68102040763
+    "pos": [40.723027708732, -73.68102040763],
+    "services": ["2"]
   },
   {
     "id": 198,
     "name": "Speonk",
     "description": "Phillips Avenue and Depot Road, just North of Montauk Highway (Route 27A).",
     "accessible": 1,
-    "lat": 40.821315163654,
-    "lng": -72.705262245283
+    "pos": [40.821315163654, -72.705262245283],
+    "services": ["5"]
   },
   {
     "id": 199,
     "name": "Mets-Willets Point",
     "description": "Flushing Meadow Park, south of Roosevelt Avenue.",
     "accessible": 2,
-    "lat": 40.75239834607,
-    "lng": -73.843700590557
+    "pos": [40.75239834607, -73.843700590557],
+    "services": ["9"]
   },
   {
     "id": 2,
     "name": "Auburndale",
     "description": "Off Station Road, between 192nd Street and 39th Avenue, just north of Northern Boulevard.",
     "accessible": 1,
-    "lat": 40.761442879546,
-    "lng": -73.789959265817
+    "pos": [40.761442879546, -73.789959265817],
+    "services": ["9"]
   },
   {
     "id": 20,
     "name": "Bethpage",
     "description": "Stewart Avenue and Jackson Avenue, 1 mile North of Hempstead Turnpike (Route 24), off Railroad Avenue.",
     "accessible": 1,
-    "lat": 40.743039240046,
-    "lng": -73.483438209526
+    "pos": [40.743039240046, -73.483438209526],
+    "services": ["4"]
   },
   {
     "id": 202,
     "name": "Smithtown",
     "description": "Redwood Lane and Scott Lane, off Main Street and just West of Route 111.",
     "accessible": 1,
-    "lat": 40.856547553946,
-    "lng": -73.198032354995
+    "pos": [40.856547553946, -73.198032354995],
+    "services": ["10"]
   },
   {
     "id": 204,
     "name": "Sayville",
     "description": "Lakeland Avenue, 1 mile South of Sunrise Highway (Route 27).",
     "accessible": 1,
-    "lat": 40.740353734002,
-    "lng": -73.086455307829
+    "pos": [40.740353734002, -73.086455307829],
+    "services": ["5"]
   },
   {
     "id": 205,
     "name": "Syosset",
     "description": "Oyster Bay Road (also known as Jackson Avenue) and Underhill Boulevard, 1 mile North of Jericho Turnpike (Route 25)",
     "accessible": 1,
-    "lat": 40.824857463326,
-    "lng": -73.500445595649
+    "pos": [40.824857463326, -73.500445595649],
+    "services": ["10"]
   },
   {
     "id": 21,
     "name": "Bellport",
     "description": "Station Road and Montauk Highway, South side of Main Street (Route 27A).",
     "accessible": 1,
-    "lat": 40.773738904482,
-    "lng": -72.943965742491
+    "pos": [40.773738904482, -72.943965742491],
+    "services": ["5"]
   },
   {
     "id": 211,
     "name": "Valley Stream",
     "description": "Franklin Avenue and Sunrise Highway, just West of Rockaway Avenue. ",
     "accessible": 1,
-    "lat": 40.661517619013,
-    "lng": -73.704758752089
+    "pos": [40.661517619013, -73.704758752089],
+    "services": ["1", "6", "7"]
   },
   {
     "id": 213,
     "name": "Westbury",
     "description": "Union and Post Avenues, 1/4 mile North of Old Country Road.",
     "accessible": 1,
-    "lat": 40.75345386364,
-    "lng": -73.585866101374
+    "pos": [40.75345386364, -73.585866101374],
+    "services": ["4", "10"]
   },
   {
     "id": 214,
     "name": "Woodside",
     "description": "61st Street and Roosevelt Avenue",
     "accessible": 1,
-    "lat": 40.745850668789,
-    "lng": -73.902975162886
+    "pos": [40.745850668789, -73.902975162886],
+    "services": ["1", "2", "4", "6", "7", "8", "9", "10", "12"]
   },
   {
     "id": 215,
     "name": "Wantagh",
     "description": "Wantagh Avenue and Railroad Avenue, just North of Sunrise Highway (Route 27).",
     "accessible": 1,
-    "lat": 40.672990158071,
-    "lng": -73.508964843715
+    "pos": [40.672990158071, -73.508964843715],
+    "services": ["1"]
   },
   {
     "id": 216,
     "name": "West Hempstead",
     "description": "Hempstead Avenue and Hempstead Gardens Drive.",
     "accessible": 1,
-    "lat": 40.701960987421,
-    "lng": -73.641643611755
+    "pos": [40.701960987421, -73.641643611755],
+    "services": ["8"]
   },
   {
     "id": 217,
     "name": "Woodmere",
     "description": "Woodmere Boulevard and Cedar Lane, between Central Avenue and West Broadway.",
     "accessible": 1,
-    "lat": 40.631336456456,
-    "lng": -73.71371544423
+    "pos": [40.631336456456, -73.71371544423],
+    "services": ["7"]
   },
   {
     "id": 219,
     "name": "Westwood",
     "description": "The intersection of Foster Avenue and Motley Street, 1/2 mile North of East Merrick Road.",
     "accessible": 1,
-    "lat": 40.668372272644,
-    "lng": -73.681208783237
+    "pos": [40.668372272644, -73.681208783237],
+    "services": ["8"]
   },
   {
     "id": 220,
     "name": "Wyandanch",
     "description": "Straight Path and Long Island Avenue, off Acorn Street.",
     "accessible": 1,
-    "lat": 40.754801009129,
-    "lng": -73.358065881626
+    "pos": [40.754801009129, -73.358065881626],
+    "services": ["4"]
   },
   {
     "id": 223,
     "name": "Yaphank",
     "description": "Yaphank Avenue and Park Street, 1 mile North of Highway 27 (Exit 57).",
     "accessible": 1,
-    "lat": 40.825613186792,
-    "lng": -72.915878482553
+    "pos": [40.825613186792, -72.915878482553],
+    "services": ["4"]
   },
   {
     "id": 225,
     "name": "Baldwin",
     "description": "Sunrise Highway and Grand Avenue, North side of Sunrise Highway (Route 27).",
     "accessible": 1,
-    "lat": 40.656732235482,
-    "lng": -73.607162453643
+    "pos": [40.656732235482, -73.607162453643],
+    "services": ["1"]
   },
   {
     "id": 226,
     "name": "Merrick",
     "description": "Sunrise Highway (Route 27), between Hewlett Avenue and Merrick Avenue.",
     "accessible": 1,
-    "lat": 40.663800403938,
-    "lng": -73.55062102286
+    "pos": [40.663800403938, -73.55062102286],
+    "services": ["1"]
   },
   {
     "id": 23,
     "name": "Bellerose",
     "description": "Commonwealth Boulevard and Superior Road,  1/4 mile South of Jericho Turnpike.",
     "accessible": 2,
-    "lat": 40.72220443209,
-    "lng": -73.716652885972
+    "pos": [40.72220443209, -73.716652885972],
+    "services": ["2"]
   },
   {
     "id": 233,
     "name": "Westhampton",
     "description": "Station Road and Depot Road, 1/2 mile North of Montauk Highway (Route 27A).",
     "accessible": 1,
-    "lat": 40.830305321957,
-    "lng": -72.650324540393
+    "pos": [40.830305321957, -72.650324540393],
+    "services": ["5"]
   },
   {
     "id": 237,
     "name": "Penn Station",
     "description": "34th Street between 7th & 8th Avenues. ",
     "accessible": 1,
-    "lat": 40.750588444578,
-    "lng": -73.993584084919
+    "pos": [40.750588444578, -73.993584084919],
+    "services": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12"]
   },
   {
     "id": 24,
     "name": "Belmont Park",
     "description": "At Belmont Park.",
     "accessible": 1,
-    "lat": 40.713687541089,
-    "lng": -73.728297219953
+    "pos": [40.713687541089, -73.728297219953],
+    "services": []
   },
   {
     "id": 241,
     "name": "Atlantic Terminal",
     "description": "Intersection of Atlantic and Flatbush Avenues and Hanson Place.",
     "accessible": 1,
-    "lat": 40.683595959933,
-    "lng": -73.975671116775
+    "pos": [40.683595959933, -73.975671116775],
+    "services": ["1", "2", "6", "7", "8", "10", "12"]
   },
   {
     "id": 25,
     "name": "Bayside",
     "description": "213th Street and  41st Avenue, off Bell Boulevard and just north of Northern Boulevard.",
     "accessible": 1,
-    "lat": 40.763152407322,
-    "lng": -73.771249864065
+    "pos": [40.763152407322, -73.771249864065],
+    "services": ["9"]
   },
   {
     "id": 26,
     "name": "Bay Shore",
     "description": "Park Avenue and Oak Street to Railroad Plaza, just North of Union Boulevard.",
     "accessible": 1,
-    "lat": 40.724433435417,
-    "lng": -73.254082948452
+    "pos": [40.724433435417, -73.254082948452],
+    "services": ["5"]
   },
   {
     "id": 27,
     "name": "Babylon",
     "description": "Railroad Avenue just West of Deer Park Avenue, 1 mile South of Sunrise Highway (Route 27).",
     "accessible": 1,
-    "lat": 40.700689424802,
-    "lng": -73.324055613067
+    "pos": [40.700689424802, -73.324055613067],
+    "services": ["1", "5"]
   },
   {
     "id": 29,
     "name": "Brentwood",
     "description": "Brentwood Road and Suffolk Avenue, 1/2 mile East of Brentwood Road, just South of Suffolk Avenue.",
     "accessible": 1,
-    "lat": 40.780834744876,
-    "lng": -73.243610738835
+    "pos": [40.780834744876, -73.243610738835],
+    "services": ["4"]
   },
   {
     "id": 31,
     "name": "Centre Avenue",
     "description": "Forest Avenue between Rocklyn and Centre Avenue, 1 block East of Atlantic Avenue.",
     "accessible": 1,
-    "lat": 40.648318354302,
-    "lng": -73.663967495726
+    "pos": [40.648318354302, -73.663967495726],
+    "services": ["6"]
   },
   {
     "id": 32,
     "name": "Cedarhurst",
     "description": "Cedarhurst Avenue and Chestnut Street, 2 blocks West of Broadway.",
     "accessible": 1,
-    "lat": 40.622174510272,
-    "lng": -73.726182753764
+    "pos": [40.622174510272, -73.726182753764],
+    "services": ["7"]
   },
   {
     "id": 33,
     "name": "Central Islip",
     "description": "Lowell and Suffolk Avenues, 1/2 mile East of Wheelers Road, 1 mile West of Veteran's Highway.",
     "accessible": 1,
-    "lat": 40.791853124851,
-    "lng": -73.194860817475
+    "pos": [40.791853124851, -73.194860817475],
+    "services": ["4"]
   },
   {
     "id": 349,
     "name": "Grand Central",
     "description": "From 42nd to 48th Streets between Madison and Vanderbilt Avenues",
     "accessible": 1,
-    "lat": 40.755162,
-    "lng": -73.975455
+    "pos": [40.755162, -73.975455],
+    "services": ["1", "2", "4", "6", "7", "8", "9", "10"]
   },
   {
     "id": 359,
     "name": "Elmont-UBS Arena",
     "description": "Take free shuttle bus from UBS Arena to station.",
     "accessible": 1,
-    "lat": 40.720074,
-    "lng": -73.725549
+    "pos": [40.720074, -73.725549],
+    "services": ["2", "4", "10"]
   },
   {
     "id": 36,
     "name": "Country Life Press",
     "description": "Intersection of Damson and Saint James Street.",
     "accessible": 1,
-    "lat": 40.721456558004,
-    "lng": -73.629673860041
+    "pos": [40.721456558004, -73.629673860041],
+    "services": ["2"]
   },
   {
     "id": 38,
     "name": "Copiague",
     "description": "Marconi Boulevard and Great Neck Road, just North of Oak Street.",
     "accessible": 2,
-    "lat": 40.681015284497,
-    "lng": -73.398340272601
+    "pos": [40.681015284497, -73.398340272601],
+    "services": ["1"]
   },
   {
     "id": 39,
     "name": "Carle Place",
     "description": "Cherry Lane and Atlantic Avenue, 1/4 mile North of Old Country Road.",
     "accessible": 1,
-    "lat": 40.749207043991,
-    "lng": -73.603652420643
+    "pos": [40.749207043991, -73.603652420643],
+    "services": ["4", "10"]
   },
   {
     "id": 4,
     "name": "Amagansett",
     "description": "Main Street and Abrams Landing Road.",
     "accessible": 1,
-    "lat": 40.98003964435,
-    "lng": -72.132334158689
+    "pos": [40.98003964435, -72.132334158689],
+    "services": ["5"]
   },
   {
     "id": 40,
     "name": "Cold Spring Harbor",
     "description": "West Pulaski Road and East Gate Drive, just South of Woodbury Road.",
     "accessible": 1,
-    "lat": 40.835638317706,
-    "lng": -73.451085909868
+    "pos": [40.835638317706, -73.451085909868],
+    "services": ["10"]
   },
   {
     "id": 42,
     "name": "Douglaston",
     "description": "235th Street and 41st Avenue, off Douglaston Parkway and Wainscott Avenue.  Just north of Northern Boulevard.",
     "accessible": 1,
-    "lat": 40.768068624919,
-    "lng": -73.749412651705
+    "pos": [40.768068624919, -73.749412651705],
+    "services": ["9"]
   },
   {
     "id": 44,
     "name": "Deer Park",
     "description": "Intersection of Pineaire Drive, Grant (Executive) Avenue, and Long Island Avenue, between Commack Road and Sagtikos Parkway.",
     "accessible": 1,
-    "lat": 40.76948363844,
-    "lng": -73.293564944726
+    "pos": [40.76948363844, -73.293564944726],
+    "services": ["4"]
   },
   {
     "id": 48,
     "name": "East Hampton",
     "description": "Newtown Lane and Race Lane, 1/4 mile north of Main Street.",
     "accessible": 1,
-    "lat": 40.965086290451,
-    "lng": -72.193242380184
+    "pos": [40.965086290451, -72.193242380184],
+    "services": ["5"]
   },
   {
     "id": 50,
     "name": "East New York",
     "description": "Atlantic Avenue and Williams ",
     "accessible": 2,
-    "lat": 40.67581191072,
-    "lng": -73.902808815532
+    "pos": [40.67581191072, -73.902808815532],
+    "services": ["1", "2", "6", "7", "8", "10", "12"]
   },
   {
     "id": 51,
     "name": "East Rockaway",
     "description": "Ocean Avenue and Davison Place, 2 blocks North of Atlantic Avenue next to Shopping Plaza.",
     "accessible": 1,
-    "lat": 40.642210853009,
-    "lng": -73.65821625512
+    "pos": [40.642210853009, -73.65821625512],
+    "services": ["6"]
   },
   {
     "id": 52,
     "name": "East Williston",
     "description": "Hillside Avenue and Pennsylvania Avenue, between Willis Avenue and Roslyn Road.",
     "accessible": 1,
-    "lat": 40.756019095916,
-    "lng": -73.63940763571
+    "pos": [40.756019095916, -73.63940763571],
+    "services": ["3"]
   },
   {
     "id": 55,
     "name": "Forest Hills",
     "description": "Continental Avenue  (71st Ave) & Austin Street, 2 blocks South of Queens Boulevard.",
     "accessible": 1,
-    "lat": 40.719575563308,
-    "lng": -73.844814015321
+    "pos": [40.719575563308, -73.844814015321],
+    "services": ["1", "2", "4", "6", "7", "10"]
   },
   {
     "id": 56,
     "name": "Flushing Main Street",
     "description": "Main Street and 41st Avenue, off Kissena Boulevard.",
     "accessible": 1,
-    "lat": 40.75789494155,
-    "lng": -73.831346838214
+    "pos": [40.75789494155, -73.831346838214],
+    "services": ["9"]
   },
   {
     "id": 59,
     "name": "Farmingdale",
     "description": "Off Secatague Avenue, on Front Street and Atlantic Avenue, just North of Conklin Street.",
     "accessible": 1,
-    "lat": 40.735915026597,
-    "lng": -73.441238780657
+    "pos": [40.735915026597, -73.441238780657],
+    "services": ["4"]
   },
   {
     "id": 63,
     "name": "Floral Park",
     "description": "Tulip and Atlantic Avenue, 1/4 mile South of Jericho Turnpike.",
     "accessible": 1,
-    "lat": 40.724637249062,
-    "lng": -73.706397140779
+    "pos": [40.724637249062, -73.706397140779],
+    "services": ["2", "4", "10"]
   },
   {
     "id": 64,
     "name": "Freeport",
     "description": "Between Henry Street and Benson Place, north of Sunrise Highway (Route 27).",
     "accessible": 1,
-    "lat": 40.657457992806,
-    "lng": -73.582324012042
+    "pos": [40.657457992806, -73.582324012042],
+    "services": ["1"]
   },
   {
     "id": 65,
     "name": "Far Rockaway",
     "description": "Nameoke Street and Redfern Avenue, off Central Avenue.",
     "accessible": 1,
-    "lat": 40.609143108666,
-    "lng": -73.750541345398
+    "pos": [40.609143108666, -73.750541345398],
+    "services": ["7"]
   },
   {
     "id": 66,
     "name": "Gibson",
     "description": "The intersection of Gibson and Munro Boulevards, South of Sunrise Highway.",
     "accessible": 1,
-    "lat": 40.649251729218,
-    "lng": -73.701834833438
+    "pos": [40.649251729218, -73.701834833438],
+    "services": ["7"]
   },
   {
     "id": 67,
     "name": "Glen Cove",
     "description": "Duck Pond Road and Pearsall Avenue, off Norfolk Lane.",
     "accessible": 1,
-    "lat": 40.865834207355,
-    "lng": -73.616166144678
+    "pos": [40.865834207355, -73.616166144678],
+    "services": ["3"]
   },
   {
     "id": 68,
     "name": "Garden City",
     "description": "7th Street between Hilton and Cathedral Avenues.",
     "accessible": 1,
-    "lat": 40.723101558546,
-    "lng": -73.640361065047
+    "pos": [40.723101558546, -73.640361065047],
+    "services": ["2"]
   },
   {
     "id": 71,
     "name": "Glen Head",
     "description": "Glen Head Road and School Street",
     "accessible": 1,
-    "lat": 40.832225307517,
-    "lng": -73.626118215387
+    "pos": [40.832225307517, -73.626118215387],
+    "services": ["3"]
   },
   {
     "id": 72,
     "name": "Great Neck",
     "description": "Middle Neck Road and Station Plaza at Great Neck Road, 1/4 mile North of Route 25A. ",
     "accessible": 1,
-    "lat": 40.787216474398,
-    "lng": -73.726100459101
+    "pos": [40.787216474398, -73.726100459101],
+    "services": ["9"]
   },
   {
     "id": 73,
     "name": "Greenport",
     "description": "Wiggins and 4th Streets at Ferry Dock.",
     "accessible": 1,
-    "lat": 41.099709911981,
-    "lng": -72.363103955853
+    "pos": [41.099709911981, -72.363103955853],
+    "services": ["4"]
   },
   {
     "id": 74,
     "name": "Great River",
     "description": "Connetquot Avenue and Hawthorne Avenue, between Sunrise Highway (Route 27) and Montauk Highway (Route 27A).",
     "accessible": 1,
-    "lat": 40.740444435855,
-    "lng": -73.170195850396
+    "pos": [40.740444435855, -73.170195850396],
+    "services": ["5"]
   },
   {
     "id": 76,
     "name": "Glen Street",
     "description": "Cedar Swamp Road (Glen Street) and Elm Avenue, just east of Glen Cove Highway (Route 107).",
     "accessible": 1,
-    "lat": 40.857981115698,
-    "lng": -73.621217154137
+    "pos": [40.857981115698, -73.621217154137],
+    "services": ["3"]
   },
   {
     "id": 77,
     "name": "Greenvale",
     "description": "Off Helen Street, between Glen Cove Avenue and Glen Cove Road.   Three blocks North of 25A (Northern Boulevard).",
     "accessible": 1,
-    "lat": 40.815715660905,
-    "lng": -73.62687151863
+    "pos": [40.815715660905, -73.62687151863],
+    "services": ["3"]
   },
   {
     "id": 78,
     "name": "Greenlawn",
     "description": "Broadway (Centerport Road) and Boulevard Avenue, 1/4 mile North of Pulaski Road.",
     "accessible": 1,
-    "lat": 40.868665240936,
-    "lng": -73.362849768605
+    "pos": [40.868665240936, -73.362849768605],
+    "services": ["10"]
   },
   {
     "id": 8,
     "name": "Amityville",
     "description": "John Street, between Sunrise Highway (Route 27) and Route 27A, just west of Route 110.",
     "accessible": 2,
-    "lat": 40.680248589464,
-    "lng": -73.420311922548
+    "pos": [40.680248589464, -73.420311922548],
+    "services": ["1"]
   },
   {
     "id": 83,
     "name": "Hampton Bays",
     "description": "Springville Road and Goodground Road, just west of Ponquogue Avenue.",
     "accessible": 1,
-    "lat": 40.876609161601,
-    "lng": -72.523949360691
+    "pos": [40.876609161601, -72.523949360691],
+    "services": ["5"]
   },
   {
     "id": 84,
     "name": "Hempstead",
     "description": "Off West Columbia Street and Main Street",
     "accessible": 1,
-    "lat": 40.713296628618,
-    "lng": -73.625032394185
+    "pos": [40.713296628618, -73.625032394185],
+    "services": ["2"]
   },
   {
     "id": 85,
     "name": "Hempstead Gardens",
     "description": "Hempstead Gardens Drive and Chestnut Street, just East of Woodfield Road.",
     "accessible": 1,
-    "lat": 40.694913561152,
-    "lng": -73.646208879636
+    "pos": [40.694913561152, -73.646208879636],
+    "services": ["8"]
   },
   {
     "id": 86,
     "name": "Hillside Facility",
     "description": "Employees Only",
     "accessible": 1,
-    "lat": 40.7077358183,
-    "lng": -73.7769585093
+    "pos": [40.7077358183, -73.7769585093],
+    "services": ["2", "3", "4", "5", "10"]
   },
   {
     "id": 89,
     "name": "Hollis",
     "description": "193rd Street and Woodhull Avenue, just South of Jamaica Avenue.",
     "accessible": 2,
-    "lat": 40.71018150656,
-    "lng": -73.766752522213
+    "pos": [40.71018150656, -73.766752522213],
+    "services": ["2", "4", "10"]
   },
   {
     "id": 90,
     "name": "Hunterspoint Avenue",
     "description": "Hunterspoint Avenue and Skillman Avenue off Van Dam Street.",
     "accessible": 2,
-    "lat": 40.742390460189,
-    "lng": -73.946789974163
+    "pos": [40.742390460189, -73.946789974163],
+    "services": ["3", "5", "10"]
   },
   {
     "id": 91,
     "name": "Huntington",
     "description": "New York Avenue (Route 110) and Broadway, 2 miles North of Jericho Turnpike.  ",
     "accessible": 1,
-    "lat": 40.85300971226,
-    "lng": -73.409525763223
+    "pos": [40.85300971226, -73.409525763223],
+    "services": ["10"]
   },
   {
     "id": 92,
     "name": "Hicksville",
     "description": "Newbridge Road (Route 106) and West Barclay Street.  One mile South of Exit 41 South off Long Island Expressway, or Exit 35 South off the Northern State Parkway.",
     "accessible": 1,
-    "lat": 40.767174914811,
-    "lng": -73.528533222087
+    "pos": [40.767174914811, -73.528533222087],
+    "services": ["4", "5", "10"]
   },
   {
     "id": 94,
     "name": "Hewlett",
     "description": "Franklin Avenue between Broadway and West Broadway.",
     "accessible": 1,
-    "lat": 40.636764323527,
-    "lng": -73.705138658734
+    "pos": [40.636764323527, -73.705138658734],
+    "services": ["7"]
   },
   {
     "id": 99,
     "name": "Island Park",
     "description": "Long Beach Road and Austin Boulevard.",
     "accessible": 1,
-    "lat": 40.601299060884,
-    "lng": -73.654742476888
+    "pos": [40.601299060884, -73.654742476888],
+    "services": ["6"]
   }
 ]
