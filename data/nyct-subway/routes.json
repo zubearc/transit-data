@@ -1,39 +1,39 @@
 [
   {
-    "id": 1,
-    "name": 1,
+    "id": "1",
+    "name": "1",
     "description": "Broadway - 7 Avenue Local",
     "type": 1,
     "color": "EE352E",
     "textColor": ""
   },
   {
-    "id": 2,
-    "name": 2,
-    "description": "7 Avenue Express",
-    "type": 1,
-    "color": "EE352E",
-    "textColor": " "
-  },
-  {
-    "id": 3,
-    "name": 3,
+    "id": "2",
+    "name": "2",
     "description": "7 Avenue Express",
     "type": 1,
     "color": "EE352E",
     "textColor": ""
   },
   {
-    "id": 4,
-    "name": 4,
+    "id": "3",
+    "name": "3",
+    "description": "7 Avenue Express",
+    "type": 1,
+    "color": "EE352E",
+    "textColor": ""
+  },
+  {
+    "id": "4",
+    "name": "4",
     "description": "Lexington Avenue Express",
     "type": 1,
     "color": "00933C",
     "textColor": ""
   },
   {
-    "id": 5,
-    "name": 5,
+    "id": "5",
+    "name": "5",
     "description": "Lexington Avenue Express",
     "type": 1,
     "color": "00933C",
@@ -48,8 +48,8 @@
     "textColor": ""
   },
   {
-    "id": 6,
-    "name": 6,
+    "id": "6",
+    "name": "6",
     "description": "Lexington Avenue Local",
     "type": 1,
     "color": "00933C",
@@ -64,8 +64,8 @@
     "textColor": ""
   },
   {
-    "id": 7,
-    "name": 7,
+    "id": "7",
+    "name": "7",
     "description": "Flushing Local",
     "type": 1,
     "color": "B933AD",
@@ -77,14 +77,6 @@
     "description": "Flushing Express",
     "type": 1,
     "color": "B933AD",
-    "textColor": ""
-  },
-  {
-    "id": "GS",
-    "name": "S",
-    "description": "42 St Shuttle",
-    "type": 1,
-    "color": "6D6E71",
     "textColor": ""
   },
   {
@@ -136,19 +128,19 @@
     "textColor": ""
   },
   {
-    "id": "FX",
-    "name": "FX",
-    "description": "Brooklyn F Express",
-    "type": 1,
-    "color": "FF6319",
-    "textColor": ""
-  },
-  {
     "id": "FS",
     "name": "S",
     "description": "Franklin Avenue Shuttle",
     "type": 1,
     "color": "",
+    "textColor": ""
+  },
+  {
+    "id": "FX",
+    "name": "FX",
+    "description": "Brooklyn F Express",
+    "type": 1,
+    "color": "FF6319",
     "textColor": ""
   },
   {
@@ -160,11 +152,27 @@
     "textColor": ""
   },
   {
+    "id": "GS",
+    "name": "S",
+    "description": "42 St Shuttle",
+    "type": 1,
+    "color": "6D6E71",
+    "textColor": ""
+  },
+  {
+    "id": "H",
+    "name": "S",
+    "description": "Rockaway Park Shuttle",
+    "type": 1,
+    "color": "",
+    "textColor": ""
+  },
+  {
     "id": "J",
     "name": "J",
     "description": "Nassau St Local",
     "type": 1,
-    "color": 996633,
+    "color": "996633",
     "textColor": ""
   },
   {
@@ -208,10 +216,10 @@
     "textColor": ""
   },
   {
-    "id": "H",
-    "name": "S",
-    "description": "Rockaway Park Shuttle",
-    "type": 1,
+    "id": "SI",
+    "name": "SIR",
+    "description": "Staten Island Railway",
+    "type": 2,
     "color": "",
     "textColor": ""
   },
@@ -228,15 +236,7 @@
     "name": "Z",
     "description": "Nassau St Express",
     "type": 1,
-    "color": 996633,
-    "textColor": ""
-  },
-  {
-    "id": "SI",
-    "name": "SIR",
-    "description": "Staten Island Railway",
-    "type": 2,
-    "color": "",
+    "color": "996633",
     "textColor": ""
   }
 ]

@@ -1,5 +1,5 @@
 [
-  {"id": 101, "name": "Van Cortlandt Park-242 St", "description": "", "pos": [40.889248, -73.898583], "services": []},
+  {"id": "101", "name": "Van Cortlandt Park-242 St", "description": "", "pos": [40.889248, -73.898583], "services": []},
   {
     "id": "101N",
     "name": "Van Cortlandt Park-242 St",
@@ -14,46 +14,46 @@
     "pos": [40.889248, -73.898583],
     "services": ["1"]
   },
-  {"id": 103, "name": "238 St", "description": "", "pos": [40.884667, -73.90087], "services": []},
+  {"id": "103", "name": "238 St", "description": "", "pos": [40.884667, -73.90087], "services": []},
   {"id": "103N", "name": "238 St", "description": "", "pos": [40.884667, -73.90087], "services": ["1"]},
   {"id": "103S", "name": "238 St", "description": "", "pos": [40.884667, -73.90087], "services": ["1"]},
-  {"id": 104, "name": "231 St", "description": "", "pos": [40.878856, -73.904834], "services": []},
+  {"id": "104", "name": "231 St", "description": "", "pos": [40.878856, -73.904834], "services": []},
   {"id": "104N", "name": "231 St", "description": "", "pos": [40.878856, -73.904834], "services": ["1"]},
   {"id": "104S", "name": "231 St", "description": "", "pos": [40.878856, -73.904834], "services": ["1"]},
-  {"id": 106, "name": "Marble Hill-225 St", "description": "", "pos": [40.874561, -73.909831], "services": []},
+  {"id": "106", "name": "Marble Hill-225 St", "description": "", "pos": [40.874561, -73.909831], "services": []},
   {"id": "106N", "name": "Marble Hill-225 St", "description": "", "pos": [40.874561, -73.909831], "services": ["1"]},
   {"id": "106S", "name": "Marble Hill-225 St", "description": "", "pos": [40.874561, -73.909831], "services": ["1"]},
-  {"id": 107, "name": "215 St", "description": "", "pos": [40.869444, -73.915279], "services": []},
+  {"id": "107", "name": "215 St", "description": "", "pos": [40.869444, -73.915279], "services": []},
   {"id": "107N", "name": "215 St", "description": "", "pos": [40.869444, -73.915279], "services": ["1"]},
   {"id": "107S", "name": "215 St", "description": "", "pos": [40.869444, -73.915279], "services": ["1"]},
-  {"id": 108, "name": "207 St", "description": "", "pos": [40.864621, -73.918822], "services": []},
+  {"id": "108", "name": "207 St", "description": "", "pos": [40.864621, -73.918822], "services": []},
   {"id": "108N", "name": "207 St", "description": "", "pos": [40.864621, -73.918822], "services": ["1"]},
   {"id": "108S", "name": "207 St", "description": "", "pos": [40.864621, -73.918822], "services": ["1"]},
-  {"id": 109, "name": "Dyckman St", "description": "", "pos": [40.860531, -73.925536], "services": []},
+  {"id": "109", "name": "Dyckman St", "description": "", "pos": [40.860531, -73.925536], "services": []},
   {"id": "109N", "name": "Dyckman St", "description": "", "pos": [40.860531, -73.925536], "services": ["1"]},
   {"id": "109S", "name": "Dyckman St", "description": "", "pos": [40.860531, -73.925536], "services": ["1"]},
-  {"id": 110, "name": "191 St", "description": "", "pos": [40.855225, -73.929412], "services": []},
+  {"id": "110", "name": "191 St", "description": "", "pos": [40.855225, -73.929412], "services": []},
   {"id": "110N", "name": "191 St", "description": "", "pos": [40.855225, -73.929412], "services": ["1"]},
   {"id": "110S", "name": "191 St", "description": "", "pos": [40.855225, -73.929412], "services": ["1"]},
-  {"id": 111, "name": "181 St", "description": "", "pos": [40.849505, -73.933596], "services": []},
+  {"id": "111", "name": "181 St", "description": "", "pos": [40.849505, -73.933596], "services": []},
   {"id": "111N", "name": "181 St", "description": "", "pos": [40.849505, -73.933596], "services": ["1"]},
   {"id": "111S", "name": "181 St", "description": "", "pos": [40.849505, -73.933596], "services": ["1"]},
-  {"id": 112, "name": "168 St-Washington Hts", "description": "", "pos": [40.840556, -73.940133], "services": []},
+  {"id": "112", "name": "168 St-Washington Hts", "description": "", "pos": [40.840556, -73.940133], "services": []},
   {"id": "112N", "name": "168 St-Washington Hts", "description": "", "pos": [40.840556, -73.940133], "services": ["1"]},
   {"id": "112S", "name": "168 St-Washington Hts", "description": "", "pos": [40.840556, -73.940133], "services": ["1"]},
-  {"id": 113, "name": "157 St", "description": "", "pos": [40.834041, -73.94489], "services": []},
+  {"id": "113", "name": "157 St", "description": "", "pos": [40.834041, -73.94489], "services": []},
   {"id": "113N", "name": "157 St", "description": "", "pos": [40.834041, -73.94489], "services": ["1"]},
   {"id": "113S", "name": "157 St", "description": "", "pos": [40.834041, -73.94489], "services": ["1"]},
-  {"id": 114, "name": "145 St", "description": "", "pos": [40.826551, -73.95036], "services": []},
+  {"id": "114", "name": "145 St", "description": "", "pos": [40.826551, -73.95036], "services": []},
   {"id": "114N", "name": "145 St", "description": "", "pos": [40.826551, -73.95036], "services": ["1"]},
   {"id": "114S", "name": "145 St", "description": "", "pos": [40.826551, -73.95036], "services": ["1"]},
-  {"id": 115, "name": "137 St-City College", "description": "", "pos": [40.822008, -73.953676], "services": []},
+  {"id": "115", "name": "137 St-City College", "description": "", "pos": [40.822008, -73.953676], "services": []},
   {"id": "115N", "name": "137 St-City College", "description": "", "pos": [40.822008, -73.953676], "services": ["1"]},
   {"id": "115S", "name": "137 St-City College", "description": "", "pos": [40.822008, -73.953676], "services": ["1"]},
-  {"id": 116, "name": "125 St", "description": "", "pos": [40.815581, -73.958372], "services": []},
+  {"id": "116", "name": "125 St", "description": "", "pos": [40.815581, -73.958372], "services": []},
   {"id": "116N", "name": "125 St", "description": "", "pos": [40.815581, -73.958372], "services": ["1"]},
   {"id": "116S", "name": "125 St", "description": "", "pos": [40.815581, -73.958372], "services": ["1"]},
-  {"id": 117, "name": "116 St-Columbia University", "description": "", "pos": [40.807722, -73.96411], "services": []},
+  {"id": "117", "name": "116 St-Columbia University", "description": "", "pos": [40.807722, -73.96411], "services": []},
   {
     "id": "117N",
     "name": "116 St-Columbia University",
@@ -68,7 +68,7 @@
     "pos": [40.807722, -73.96411],
     "services": ["1"]
   },
-  {"id": 118, "name": "Cathedral Pkwy (110 St)", "description": "", "pos": [40.803967, -73.966847], "services": []},
+  {"id": "118", "name": "Cathedral Pkwy (110 St)", "description": "", "pos": [40.803967, -73.966847], "services": []},
   {
     "id": "118N",
     "name": "Cathedral Pkwy (110 St)",
@@ -83,22 +83,22 @@
     "pos": [40.803967, -73.966847],
     "services": ["1"]
   },
-  {"id": 119, "name": "103 St", "description": "", "pos": [40.799446, -73.968379], "services": []},
+  {"id": "119", "name": "103 St", "description": "", "pos": [40.799446, -73.968379], "services": []},
   {"id": "119N", "name": "103 St", "description": "", "pos": [40.799446, -73.968379], "services": ["1"]},
   {"id": "119S", "name": "103 St", "description": "", "pos": [40.799446, -73.968379], "services": ["1"]},
-  {"id": 120, "name": "96 St", "description": "", "pos": [40.793919, -73.972323], "services": []},
+  {"id": "120", "name": "96 St", "description": "", "pos": [40.793919, -73.972323], "services": []},
   {"id": "120N", "name": "96 St", "description": "", "pos": [40.793919, -73.972323], "services": ["1", "2", "3"]},
   {"id": "120S", "name": "96 St", "description": "", "pos": [40.793919, -73.972323], "services": ["1", "2", "3"]},
-  {"id": 121, "name": "86 St", "description": "", "pos": [40.788644, -73.976218], "services": []},
+  {"id": "121", "name": "86 St", "description": "", "pos": [40.788644, -73.976218], "services": []},
   {"id": "121N", "name": "86 St", "description": "", "pos": [40.788644, -73.976218], "services": ["1", "2"]},
   {"id": "121S", "name": "86 St", "description": "", "pos": [40.788644, -73.976218], "services": ["1", "2"]},
-  {"id": 122, "name": "79 St", "description": "", "pos": [40.783934, -73.979917], "services": []},
+  {"id": "122", "name": "79 St", "description": "", "pos": [40.783934, -73.979917], "services": []},
   {"id": "122N", "name": "79 St", "description": "", "pos": [40.783934, -73.979917], "services": ["1", "2"]},
   {"id": "122S", "name": "79 St", "description": "", "pos": [40.783934, -73.979917], "services": ["1", "2"]},
-  {"id": 123, "name": "72 St", "description": "", "pos": [40.778453, -73.98197], "services": []},
+  {"id": "123", "name": "72 St", "description": "", "pos": [40.778453, -73.98197], "services": []},
   {"id": "123N", "name": "72 St", "description": "", "pos": [40.778453, -73.98197], "services": ["1", "2", "3"]},
   {"id": "123S", "name": "72 St", "description": "", "pos": [40.778453, -73.98197], "services": ["1", "2", "3"]},
-  {"id": 124, "name": "66 St-Lincoln Center", "description": "", "pos": [40.77344, -73.982209], "services": []},
+  {"id": "124", "name": "66 St-Lincoln Center", "description": "", "pos": [40.77344, -73.982209], "services": []},
   {
     "id": "124N",
     "name": "66 St-Lincoln Center",
@@ -113,7 +113,7 @@
     "pos": [40.77344, -73.982209],
     "services": ["1", "2"]
   },
-  {"id": 125, "name": "59 St-Columbus Circle", "description": "", "pos": [40.768247, -73.981929], "services": []},
+  {"id": "125", "name": "59 St-Columbus Circle", "description": "", "pos": [40.768247, -73.981929], "services": []},
   {
     "id": "125N",
     "name": "59 St-Columbus Circle",
@@ -128,10 +128,10 @@
     "pos": [40.768247, -73.981929],
     "services": ["1", "2"]
   },
-  {"id": 126, "name": "50 St", "description": "", "pos": [40.761728, -73.983849], "services": []},
+  {"id": "126", "name": "50 St", "description": "", "pos": [40.761728, -73.983849], "services": []},
   {"id": "126N", "name": "50 St", "description": "", "pos": [40.761728, -73.983849], "services": ["1", "2"]},
   {"id": "126S", "name": "50 St", "description": "", "pos": [40.761728, -73.983849], "services": ["1", "2"]},
-  {"id": 127, "name": "Times Sq-42 St", "description": "", "pos": [40.75529, -73.987495], "services": []},
+  {"id": "127", "name": "Times Sq-42 St", "description": "", "pos": [40.75529, -73.987495], "services": []},
   {
     "id": "127N",
     "name": "Times Sq-42 St",
@@ -146,7 +146,7 @@
     "pos": [40.75529, -73.987495],
     "services": ["1", "2", "3"]
   },
-  {"id": 128, "name": "34 St-Penn Station", "description": "", "pos": [40.750373, -73.991057], "services": []},
+  {"id": "128", "name": "34 St-Penn Station", "description": "", "pos": [40.750373, -73.991057], "services": []},
   {
     "id": "128N",
     "name": "34 St-Penn Station",
@@ -161,19 +161,25 @@
     "pos": [40.750373, -73.991057],
     "services": ["1", "2", "3"]
   },
-  {"id": 129, "name": "28 St", "description": "", "pos": [40.747215, -73.993365], "services": []},
+  {"id": "129", "name": "28 St", "description": "", "pos": [40.747215, -73.993365], "services": []},
   {"id": "129N", "name": "28 St", "description": "", "pos": [40.747215, -73.993365], "services": ["1", "2"]},
   {"id": "129S", "name": "28 St", "description": "", "pos": [40.747215, -73.993365], "services": ["1", "2"]},
-  {"id": 130, "name": "23 St", "description": "", "pos": [40.744081, -73.995657], "services": []},
+  {"id": "130", "name": "23 St", "description": "", "pos": [40.744081, -73.995657], "services": []},
   {"id": "130N", "name": "23 St", "description": "", "pos": [40.744081, -73.995657], "services": ["1", "2"]},
   {"id": "130S", "name": "23 St", "description": "", "pos": [40.744081, -73.995657], "services": ["1", "2"]},
-  {"id": 131, "name": "18 St", "description": "", "pos": [40.74104, -73.997871], "services": []},
+  {"id": "131", "name": "18 St", "description": "", "pos": [40.74104, -73.997871], "services": []},
   {"id": "131N", "name": "18 St", "description": "", "pos": [40.74104, -73.997871], "services": ["1", "2"]},
   {"id": "131S", "name": "18 St", "description": "", "pos": [40.74104, -73.997871], "services": ["1", "2"]},
-  {"id": 132, "name": "14 St", "description": "", "pos": [40.737826, -74.000201], "services": []},
+  {"id": "132", "name": "14 St", "description": "", "pos": [40.737826, -74.000201], "services": []},
   {"id": "132N", "name": "14 St", "description": "", "pos": [40.737826, -74.000201], "services": ["1", "2", "3"]},
   {"id": "132S", "name": "14 St", "description": "", "pos": [40.737826, -74.000201], "services": ["1", "2", "3"]},
-  {"id": 133, "name": "Christopher St-Sheridan Sq", "description": "", "pos": [40.733422, -74.002906], "services": []},
+  {
+    "id": "133",
+    "name": "Christopher St-Sheridan Sq",
+    "description": "",
+    "pos": [40.733422, -74.002906],
+    "services": []
+  },
   {
     "id": "133N",
     "name": "Christopher St-Sheridan Sq",
@@ -188,64 +194,70 @@
     "pos": [40.733422, -74.002906],
     "services": ["1", "2"]
   },
-  {"id": 134, "name": "Houston St", "description": "", "pos": [40.728251, -74.005367], "services": []},
+  {"id": "134", "name": "Houston St", "description": "", "pos": [40.728251, -74.005367], "services": []},
   {"id": "134N", "name": "Houston St", "description": "", "pos": [40.728251, -74.005367], "services": ["1", "2"]},
   {"id": "134S", "name": "Houston St", "description": "", "pos": [40.728251, -74.005367], "services": ["1", "2"]},
-  {"id": 135, "name": "Canal St", "description": "", "pos": [40.722854, -74.006277], "services": []},
+  {"id": "135", "name": "Canal St", "description": "", "pos": [40.722854, -74.006277], "services": []},
   {"id": "135N", "name": "Canal St", "description": "", "pos": [40.722854, -74.006277], "services": ["1", "2"]},
   {"id": "135S", "name": "Canal St", "description": "", "pos": [40.722854, -74.006277], "services": ["1", "2"]},
-  {"id": 136, "name": "Franklin St", "description": "", "pos": [40.719318, -74.006886], "services": []},
+  {"id": "136", "name": "Franklin St", "description": "", "pos": [40.719318, -74.006886], "services": []},
   {"id": "136N", "name": "Franklin St", "description": "", "pos": [40.719318, -74.006886], "services": ["1", "2"]},
   {"id": "136S", "name": "Franklin St", "description": "", "pos": [40.719318, -74.006886], "services": ["1", "2"]},
-  {"id": 137, "name": "Chambers St", "description": "", "pos": [40.715478, -74.009266], "services": []},
+  {"id": "137", "name": "Chambers St", "description": "", "pos": [40.715478, -74.009266], "services": []},
   {"id": "137N", "name": "Chambers St", "description": "", "pos": [40.715478, -74.009266], "services": ["1", "2", "3"]},
   {"id": "137S", "name": "Chambers St", "description": "", "pos": [40.715478, -74.009266], "services": ["1", "2", "3"]},
-  {"id": 138, "name": "WTC Cortlandt", "description": "", "pos": [40.711835, -74.012188], "services": []},
+  {"id": "138", "name": "WTC Cortlandt", "description": "", "pos": [40.711835, -74.012188], "services": []},
   {"id": "138N", "name": "WTC Cortlandt", "description": "", "pos": [40.711835, -74.012188], "services": ["1"]},
   {"id": "138S", "name": "WTC Cortlandt", "description": "", "pos": [40.711835, -74.012188], "services": ["1"]},
-  {"id": 139, "name": "Rector St", "description": "", "pos": [40.707513, -74.013783], "services": []},
+  {"id": "139", "name": "Rector St", "description": "", "pos": [40.707513, -74.013783], "services": []},
   {"id": "139N", "name": "Rector St", "description": "", "pos": [40.707513, -74.013783], "services": ["1"]},
   {"id": "139S", "name": "Rector St", "description": "", "pos": [40.707513, -74.013783], "services": ["1"]},
-  {"id": 140, "name": "South Ferry Loop", "description": "", "pos": [40.701411, -74.013205], "services": []},
+  {"id": "140", "name": "South Ferry Loop", "description": "", "pos": [40.701411, -74.013205], "services": []},
   {"id": "140N", "name": "South Ferry Loop", "description": "", "pos": [40.701411, -74.013205], "services": []},
   {"id": "140S", "name": "South Ferry Loop", "description": "", "pos": [40.701411, -74.013205], "services": []},
-  {"id": 142, "name": "South Ferry", "description": "", "pos": [40.702068, -74.013664], "services": []},
+  {"id": "142", "name": "South Ferry", "description": "", "pos": [40.702068, -74.013664], "services": []},
   {"id": "142N", "name": "South Ferry", "description": "", "pos": [40.702068, -74.013664], "services": ["1"]},
   {"id": "142S", "name": "South Ferry", "description": "", "pos": [40.702068, -74.013664], "services": ["1"]},
-  {"id": 201, "name": "Wakefield-241 St", "description": "", "pos": [40.903125, -73.85062], "services": []},
+  {"id": "201", "name": "Wakefield-241 St", "description": "", "pos": [40.903125, -73.85062], "services": []},
   {"id": "201N", "name": "Wakefield-241 St", "description": "", "pos": [40.903125, -73.85062], "services": ["2"]},
   {"id": "201S", "name": "Wakefield-241 St", "description": "", "pos": [40.903125, -73.85062], "services": ["2"]},
-  {"id": 204, "name": "Nereid Av", "description": "", "pos": [40.898379, -73.854376], "services": []},
+  {"id": "204", "name": "Nereid Av", "description": "", "pos": [40.898379, -73.854376], "services": []},
   {"id": "204N", "name": "Nereid Av", "description": "", "pos": [40.898379, -73.854376], "services": ["2", "5"]},
   {"id": "204S", "name": "Nereid Av", "description": "", "pos": [40.898379, -73.854376], "services": ["2", "5"]},
-  {"id": 205, "name": "233 St", "description": "", "pos": [40.893193, -73.857473], "services": []},
+  {"id": "205", "name": "233 St", "description": "", "pos": [40.893193, -73.857473], "services": []},
   {"id": "205N", "name": "233 St", "description": "", "pos": [40.893193, -73.857473], "services": ["2", "5"]},
   {"id": "205S", "name": "233 St", "description": "", "pos": [40.893193, -73.857473], "services": ["2", "5"]},
-  {"id": 206, "name": "225 St", "description": "", "pos": [40.888022, -73.860341], "services": []},
+  {"id": "206", "name": "225 St", "description": "", "pos": [40.888022, -73.860341], "services": []},
   {"id": "206N", "name": "225 St", "description": "", "pos": [40.888022, -73.860341], "services": ["2", "5"]},
   {"id": "206S", "name": "225 St", "description": "", "pos": [40.888022, -73.860341], "services": ["2", "5"]},
-  {"id": 207, "name": "219 St", "description": "", "pos": [40.883895, -73.862633], "services": []},
+  {"id": "207", "name": "219 St", "description": "", "pos": [40.883895, -73.862633], "services": []},
   {"id": "207N", "name": "219 St", "description": "", "pos": [40.883895, -73.862633], "services": ["2", "5"]},
   {"id": "207S", "name": "219 St", "description": "", "pos": [40.883895, -73.862633], "services": ["2", "5"]},
-  {"id": 208, "name": "Gun Hill Rd", "description": "", "pos": [40.87785, -73.866256], "services": []},
+  {"id": "208", "name": "Gun Hill Rd", "description": "", "pos": [40.87785, -73.866256], "services": []},
   {"id": "208N", "name": "Gun Hill Rd", "description": "", "pos": [40.87785, -73.866256], "services": ["2", "5"]},
   {"id": "208S", "name": "Gun Hill Rd", "description": "", "pos": [40.87785, -73.866256], "services": ["2", "5"]},
-  {"id": 209, "name": "Burke Av", "description": "", "pos": [40.871356, -73.867164], "services": []},
+  {"id": "209", "name": "Burke Av", "description": "", "pos": [40.871356, -73.867164], "services": []},
   {"id": "209N", "name": "Burke Av", "description": "", "pos": [40.871356, -73.867164], "services": ["2", "5"]},
   {"id": "209S", "name": "Burke Av", "description": "", "pos": [40.871356, -73.867164], "services": ["2", "5"]},
-  {"id": 210, "name": "Allerton Av", "description": "", "pos": [40.865462, -73.867352], "services": []},
+  {"id": "210", "name": "Allerton Av", "description": "", "pos": [40.865462, -73.867352], "services": []},
   {"id": "210N", "name": "Allerton Av", "description": "", "pos": [40.865462, -73.867352], "services": ["2", "5"]},
   {"id": "210S", "name": "Allerton Av", "description": "", "pos": [40.865462, -73.867352], "services": ["2", "5"]},
-  {"id": 211, "name": "Pelham Pkwy", "description": "", "pos": [40.857192, -73.867615], "services": []},
+  {"id": "211", "name": "Pelham Pkwy", "description": "", "pos": [40.857192, -73.867615], "services": []},
   {"id": "211N", "name": "Pelham Pkwy", "description": "", "pos": [40.857192, -73.867615], "services": ["2", "5"]},
   {"id": "211S", "name": "Pelham Pkwy", "description": "", "pos": [40.857192, -73.867615], "services": ["2", "5"]},
-  {"id": 212, "name": "Bronx Park East", "description": "", "pos": [40.848828, -73.868457], "services": []},
+  {"id": "212", "name": "Bronx Park East", "description": "", "pos": [40.848828, -73.868457], "services": []},
   {"id": "212N", "name": "Bronx Park East", "description": "", "pos": [40.848828, -73.868457], "services": ["2", "5"]},
   {"id": "212S", "name": "Bronx Park East", "description": "", "pos": [40.848828, -73.868457], "services": ["2", "5"]},
-  {"id": 213, "name": "E 180 St", "description": "", "pos": [40.841894, -73.873488], "services": []},
+  {"id": "213", "name": "E 180 St", "description": "", "pos": [40.841894, -73.873488], "services": []},
   {"id": "213N", "name": "E 180 St", "description": "", "pos": [40.841894, -73.873488], "services": ["2", "5"]},
   {"id": "213S", "name": "E 180 St", "description": "", "pos": [40.841894, -73.873488], "services": ["2", "5"]},
-  {"id": 214, "name": "West Farms Sq-E Tremont Av", "description": "", "pos": [40.840295, -73.880049], "services": []},
+  {
+    "id": "214",
+    "name": "West Farms Sq-E Tremont Av",
+    "description": "",
+    "pos": [40.840295, -73.880049],
+    "services": []
+  },
   {
     "id": "214N",
     "name": "West Farms Sq-E Tremont Av",
@@ -260,28 +272,28 @@
     "pos": [40.840295, -73.880049],
     "services": ["2", "5"]
   },
-  {"id": 215, "name": "174 St", "description": "", "pos": [40.837288, -73.887734], "services": []},
+  {"id": "215", "name": "174 St", "description": "", "pos": [40.837288, -73.887734], "services": []},
   {"id": "215N", "name": "174 St", "description": "", "pos": [40.837288, -73.887734], "services": ["2", "5"]},
   {"id": "215S", "name": "174 St", "description": "", "pos": [40.837288, -73.887734], "services": ["2", "5"]},
-  {"id": 216, "name": "Freeman St", "description": "", "pos": [40.829993, -73.891865], "services": []},
+  {"id": "216", "name": "Freeman St", "description": "", "pos": [40.829993, -73.891865], "services": []},
   {"id": "216N", "name": "Freeman St", "description": "", "pos": [40.829993, -73.891865], "services": ["2", "5"]},
   {"id": "216S", "name": "Freeman St", "description": "", "pos": [40.829993, -73.891865], "services": ["2", "5"]},
-  {"id": 217, "name": "Simpson St", "description": "", "pos": [40.824073, -73.893064], "services": []},
+  {"id": "217", "name": "Simpson St", "description": "", "pos": [40.824073, -73.893064], "services": []},
   {"id": "217N", "name": "Simpson St", "description": "", "pos": [40.824073, -73.893064], "services": ["2", "5"]},
   {"id": "217S", "name": "Simpson St", "description": "", "pos": [40.824073, -73.893064], "services": ["2", "5"]},
-  {"id": 218, "name": "Intervale Av", "description": "", "pos": [40.822181, -73.896736], "services": []},
+  {"id": "218", "name": "Intervale Av", "description": "", "pos": [40.822181, -73.896736], "services": []},
   {"id": "218N", "name": "Intervale Av", "description": "", "pos": [40.822181, -73.896736], "services": ["2", "5"]},
   {"id": "218S", "name": "Intervale Av", "description": "", "pos": [40.822181, -73.896736], "services": ["2", "5"]},
-  {"id": 219, "name": "Prospect Av", "description": "", "pos": [40.819585, -73.90177], "services": []},
+  {"id": "219", "name": "Prospect Av", "description": "", "pos": [40.819585, -73.90177], "services": []},
   {"id": "219N", "name": "Prospect Av", "description": "", "pos": [40.819585, -73.90177], "services": ["2", "5"]},
   {"id": "219S", "name": "Prospect Av", "description": "", "pos": [40.819585, -73.90177], "services": ["2", "5"]},
-  {"id": 220, "name": "Jackson Av", "description": "", "pos": [40.81649, -73.907807], "services": []},
+  {"id": "220", "name": "Jackson Av", "description": "", "pos": [40.81649, -73.907807], "services": []},
   {"id": "220N", "name": "Jackson Av", "description": "", "pos": [40.81649, -73.907807], "services": ["2", "5"]},
   {"id": "220S", "name": "Jackson Av", "description": "", "pos": [40.81649, -73.907807], "services": ["2", "5"]},
-  {"id": 221, "name": "3 Av-149 St", "description": "", "pos": [40.816109, -73.917757], "services": []},
+  {"id": "221", "name": "3 Av-149 St", "description": "", "pos": [40.816109, -73.917757], "services": []},
   {"id": "221N", "name": "3 Av-149 St", "description": "", "pos": [40.816109, -73.917757], "services": ["2", "5"]},
   {"id": "221S", "name": "3 Av-149 St", "description": "", "pos": [40.816109, -73.917757], "services": ["2", "5"]},
-  {"id": 222, "name": "149 St-Grand Concourse", "description": "", "pos": [40.81841, -73.926718], "services": []},
+  {"id": "222", "name": "149 St-Grand Concourse", "description": "", "pos": [40.81841, -73.926718], "services": []},
   {
     "id": "222N",
     "name": "149 St-Grand Concourse",
@@ -296,16 +308,22 @@
     "pos": [40.81841, -73.926718],
     "services": ["2", "5"]
   },
-  {"id": 224, "name": "135 St", "description": "", "pos": [40.814229, -73.94077], "services": []},
+  {"id": "224", "name": "135 St", "description": "", "pos": [40.814229, -73.94077], "services": []},
   {"id": "224N", "name": "135 St", "description": "", "pos": [40.814229, -73.94077], "services": ["2", "3"]},
   {"id": "224S", "name": "135 St", "description": "", "pos": [40.814229, -73.94077], "services": ["2", "3"]},
-  {"id": 225, "name": "125 St", "description": "", "pos": [40.807754, -73.945495], "services": []},
+  {"id": "225", "name": "125 St", "description": "", "pos": [40.807754, -73.945495], "services": []},
   {"id": "225N", "name": "125 St", "description": "", "pos": [40.807754, -73.945495], "services": ["2", "3"]},
   {"id": "225S", "name": "125 St", "description": "", "pos": [40.807754, -73.945495], "services": ["2", "3"]},
-  {"id": 226, "name": "116 St", "description": "", "pos": [40.802098, -73.949625], "services": []},
+  {"id": "226", "name": "116 St", "description": "", "pos": [40.802098, -73.949625], "services": []},
   {"id": "226N", "name": "116 St", "description": "", "pos": [40.802098, -73.949625], "services": ["2", "3"]},
   {"id": "226S", "name": "116 St", "description": "", "pos": [40.802098, -73.949625], "services": ["2", "3"]},
-  {"id": 227, "name": "Central Park North (110 St)", "description": "", "pos": [40.799075, -73.951822], "services": []},
+  {
+    "id": "227",
+    "name": "Central Park North (110 St)",
+    "description": "",
+    "pos": [40.799075, -73.951822],
+    "services": []
+  },
   {
     "id": "227N",
     "name": "Central Park North (110 St)",
@@ -320,25 +338,25 @@
     "pos": [40.799075, -73.951822],
     "services": ["2", "3"]
   },
-  {"id": 228, "name": "Park Place", "description": "", "pos": [40.713051, -74.008811], "services": []},
+  {"id": "228", "name": "Park Place", "description": "", "pos": [40.713051, -74.008811], "services": []},
   {"id": "228N", "name": "Park Place", "description": "", "pos": [40.713051, -74.008811], "services": ["2", "3"]},
   {"id": "228S", "name": "Park Place", "description": "", "pos": [40.713051, -74.008811], "services": ["2", "3"]},
-  {"id": 229, "name": "Fulton St", "description": "", "pos": [40.709416, -74.006571], "services": []},
+  {"id": "229", "name": "Fulton St", "description": "", "pos": [40.709416, -74.006571], "services": []},
   {"id": "229N", "name": "Fulton St", "description": "", "pos": [40.709416, -74.006571], "services": ["2", "3"]},
   {"id": "229S", "name": "Fulton St", "description": "", "pos": [40.709416, -74.006571], "services": ["2", "3"]},
-  {"id": 230, "name": "Wall St", "description": "", "pos": [40.706821, -74.0091], "services": []},
+  {"id": "230", "name": "Wall St", "description": "", "pos": [40.706821, -74.0091], "services": []},
   {"id": "230N", "name": "Wall St", "description": "", "pos": [40.706821, -74.0091], "services": ["2", "3"]},
   {"id": "230S", "name": "Wall St", "description": "", "pos": [40.706821, -74.0091], "services": ["2", "3"]},
-  {"id": 231, "name": "Clark St", "description": "", "pos": [40.697466, -73.993086], "services": []},
+  {"id": "231", "name": "Clark St", "description": "", "pos": [40.697466, -73.993086], "services": []},
   {"id": "231N", "name": "Clark St", "description": "", "pos": [40.697466, -73.993086], "services": ["2", "3"]},
   {"id": "231S", "name": "Clark St", "description": "", "pos": [40.697466, -73.993086], "services": ["2", "3"]},
-  {"id": 232, "name": "Borough Hall", "description": "", "pos": [40.693219, -73.989998], "services": []},
+  {"id": "232", "name": "Borough Hall", "description": "", "pos": [40.693219, -73.989998], "services": []},
   {"id": "232N", "name": "Borough Hall", "description": "", "pos": [40.693219, -73.989998], "services": ["2", "3"]},
   {"id": "232S", "name": "Borough Hall", "description": "", "pos": [40.693219, -73.989998], "services": ["2", "3"]},
-  {"id": 233, "name": "Hoyt St", "description": "", "pos": [40.690545, -73.985065], "services": []},
+  {"id": "233", "name": "Hoyt St", "description": "", "pos": [40.690545, -73.985065], "services": []},
   {"id": "233N", "name": "Hoyt St", "description": "", "pos": [40.690545, -73.985065], "services": ["2", "3"]},
   {"id": "233S", "name": "Hoyt St", "description": "", "pos": [40.690545, -73.985065], "services": ["2", "3"]},
-  {"id": 234, "name": "Nevins St", "description": "", "pos": [40.688246, -73.980492], "services": []},
+  {"id": "234", "name": "Nevins St", "description": "", "pos": [40.688246, -73.980492], "services": []},
   {
     "id": "234N",
     "name": "Nevins St",
@@ -353,7 +371,7 @@
     "pos": [40.688246, -73.980492],
     "services": ["2", "3", "4", "5"]
   },
-  {"id": 235, "name": "Atlantic Av-Barclays Ctr", "description": "", "pos": [40.684359, -73.977666], "services": []},
+  {"id": "235", "name": "Atlantic Av-Barclays Ctr", "description": "", "pos": [40.684359, -73.977666], "services": []},
   {
     "id": "235N",
     "name": "Atlantic Av-Barclays Ctr",
@@ -368,10 +386,10 @@
     "pos": [40.684359, -73.977666],
     "services": ["2", "3", "4", "5"]
   },
-  {"id": 236, "name": "Bergen St", "description": "", "pos": [40.680829, -73.975098], "services": []},
+  {"id": "236", "name": "Bergen St", "description": "", "pos": [40.680829, -73.975098], "services": []},
   {"id": "236N", "name": "Bergen St", "description": "", "pos": [40.680829, -73.975098], "services": ["2", "3", "4"]},
   {"id": "236S", "name": "Bergen St", "description": "", "pos": [40.680829, -73.975098], "services": ["2", "3", "4"]},
-  {"id": 237, "name": "Grand Army Plaza", "description": "", "pos": [40.675235, -73.971046], "services": []},
+  {"id": "237", "name": "Grand Army Plaza", "description": "", "pos": [40.675235, -73.971046], "services": []},
   {
     "id": "237N",
     "name": "Grand Army Plaza",
@@ -387,7 +405,7 @@
     "services": ["2", "3", "4"]
   },
   {
-    "id": 238,
+    "id": "238",
     "name": "Eastern Pkwy-Brooklyn Museum",
     "description": "",
     "pos": [40.671987, -73.964375],
@@ -408,7 +426,7 @@
     "services": ["2", "3", "4"]
   },
   {
-    "id": 239,
+    "id": "239",
     "name": "Franklin Av-Medgar Evers College",
     "description": "",
     "pos": [40.670682, -73.958131],
@@ -429,7 +447,7 @@
     "services": ["2", "3", "4", "5"]
   },
   {
-    "id": 241,
+    "id": "241",
     "name": "President St-Medgar Evers College",
     "description": "",
     "pos": [40.667883, -73.950683],
@@ -449,19 +467,19 @@
     "pos": [40.667883, -73.950683],
     "services": ["2", "5"]
   },
-  {"id": 242, "name": "Sterling St", "description": "", "pos": [40.662742, -73.95085], "services": []},
+  {"id": "242", "name": "Sterling St", "description": "", "pos": [40.662742, -73.95085], "services": []},
   {"id": "242N", "name": "Sterling St", "description": "", "pos": [40.662742, -73.95085], "services": ["2", "5"]},
   {"id": "242S", "name": "Sterling St", "description": "", "pos": [40.662742, -73.95085], "services": ["2", "5"]},
-  {"id": 243, "name": "Winthrop St", "description": "", "pos": [40.656652, -73.9502], "services": []},
+  {"id": "243", "name": "Winthrop St", "description": "", "pos": [40.656652, -73.9502], "services": []},
   {"id": "243N", "name": "Winthrop St", "description": "", "pos": [40.656652, -73.9502], "services": ["2", "5"]},
   {"id": "243S", "name": "Winthrop St", "description": "", "pos": [40.656652, -73.9502], "services": ["2", "5"]},
-  {"id": 244, "name": "Church Av", "description": "", "pos": [40.650843, -73.949575], "services": []},
+  {"id": "244", "name": "Church Av", "description": "", "pos": [40.650843, -73.949575], "services": []},
   {"id": "244N", "name": "Church Av", "description": "", "pos": [40.650843, -73.949575], "services": ["2", "5"]},
   {"id": "244S", "name": "Church Av", "description": "", "pos": [40.650843, -73.949575], "services": ["2", "5"]},
-  {"id": 245, "name": "Beverly Rd", "description": "", "pos": [40.645098, -73.948959], "services": []},
+  {"id": "245", "name": "Beverly Rd", "description": "", "pos": [40.645098, -73.948959], "services": []},
   {"id": "245N", "name": "Beverly Rd", "description": "", "pos": [40.645098, -73.948959], "services": ["2", "5"]},
   {"id": "245S", "name": "Beverly Rd", "description": "", "pos": [40.645098, -73.948959], "services": ["2", "5"]},
-  {"id": 246, "name": "Newkirk Av-Little Haiti", "description": "", "pos": [40.639967, -73.948411], "services": []},
+  {"id": "246", "name": "Newkirk Av-Little Haiti", "description": "", "pos": [40.639967, -73.948411], "services": []},
   {
     "id": "246N",
     "name": "Newkirk Av-Little Haiti",
@@ -477,7 +495,7 @@
     "services": ["2", "5"]
   },
   {
-    "id": 247,
+    "id": "247",
     "name": "Flatbush Av-Brooklyn College",
     "description": "",
     "pos": [40.632836, -73.947642],
@@ -497,7 +515,7 @@
     "pos": [40.632836, -73.947642],
     "services": ["2", "5"]
   },
-  {"id": 248, "name": "Nostrand Av", "description": "", "pos": [40.669847, -73.950466], "services": []},
+  {"id": "248", "name": "Nostrand Av", "description": "", "pos": [40.669847, -73.950466], "services": []},
   {
     "id": "248N",
     "name": "Nostrand Av",
@@ -506,7 +524,7 @@
     "services": ["2", "3", "4", "5"]
   },
   {"id": "248S", "name": "Nostrand Av", "description": "", "pos": [40.669847, -73.950466], "services": ["2", "3", "4"]},
-  {"id": 249, "name": "Kingston Av", "description": "", "pos": [40.669399, -73.942161], "services": []},
+  {"id": "249", "name": "Kingston Av", "description": "", "pos": [40.669399, -73.942161], "services": []},
   {
     "id": "249N",
     "name": "Kingston Av",
@@ -515,7 +533,7 @@
     "services": ["2", "3", "4", "5"]
   },
   {"id": "249S", "name": "Kingston Av", "description": "", "pos": [40.669399, -73.942161], "services": ["2", "3", "4"]},
-  {"id": 250, "name": "Crown Hts-Utica Av", "description": "", "pos": [40.668897, -73.932942], "services": []},
+  {"id": "250", "name": "Crown Hts-Utica Av", "description": "", "pos": [40.668897, -73.932942], "services": []},
   {
     "id": "250N",
     "name": "Crown Hts-Utica Av",
@@ -530,7 +548,7 @@
     "pos": [40.668897, -73.932942],
     "services": ["2", "3", "4", "5"]
   },
-  {"id": 251, "name": "Sutter Av-Rutland Rd", "description": "", "pos": [40.664717, -73.92261], "services": []},
+  {"id": "251", "name": "Sutter Av-Rutland Rd", "description": "", "pos": [40.664717, -73.92261], "services": []},
   {
     "id": "251N",
     "name": "Sutter Av-Rutland Rd",
@@ -545,7 +563,7 @@
     "pos": [40.664717, -73.92261],
     "services": ["2", "3", "4"]
   },
-  {"id": 252, "name": "Saratoga Av", "description": "", "pos": [40.661453, -73.916327], "services": []},
+  {"id": "252", "name": "Saratoga Av", "description": "", "pos": [40.661453, -73.916327], "services": []},
   {
     "id": "252N",
     "name": "Saratoga Av",
@@ -554,7 +572,7 @@
     "services": ["2", "3", "4", "5"]
   },
   {"id": "252S", "name": "Saratoga Av", "description": "", "pos": [40.661453, -73.916327], "services": ["2", "3", "4"]},
-  {"id": 253, "name": "Rockaway Av", "description": "", "pos": [40.662549, -73.908946], "services": []},
+  {"id": "253", "name": "Rockaway Av", "description": "", "pos": [40.662549, -73.908946], "services": []},
   {
     "id": "253N",
     "name": "Rockaway Av",
@@ -563,7 +581,7 @@
     "services": ["2", "3", "4", "5"]
   },
   {"id": "253S", "name": "Rockaway Av", "description": "", "pos": [40.662549, -73.908946], "services": ["2", "3", "4"]},
-  {"id": 254, "name": "Junius St", "description": "", "pos": [40.663515, -73.902447], "services": []},
+  {"id": "254", "name": "Junius St", "description": "", "pos": [40.663515, -73.902447], "services": []},
   {
     "id": "254N",
     "name": "Junius St",
@@ -572,7 +590,7 @@
     "services": ["2", "3", "4", "5"]
   },
   {"id": "254S", "name": "Junius St", "description": "", "pos": [40.663515, -73.902447], "services": ["2", "3", "4"]},
-  {"id": 255, "name": "Pennsylvania Av", "description": "", "pos": [40.664635, -73.894895], "services": []},
+  {"id": "255", "name": "Pennsylvania Av", "description": "", "pos": [40.664635, -73.894895], "services": []},
   {
     "id": "255N",
     "name": "Pennsylvania Av",
@@ -587,7 +605,7 @@
     "pos": [40.664635, -73.894895],
     "services": ["2", "3", "4"]
   },
-  {"id": 256, "name": "Van Siclen Av", "description": "", "pos": [40.665449, -73.889395], "services": []},
+  {"id": "256", "name": "Van Siclen Av", "description": "", "pos": [40.665449, -73.889395], "services": []},
   {
     "id": "256N",
     "name": "Van Siclen Av",
@@ -602,7 +620,7 @@
     "pos": [40.665449, -73.889395],
     "services": ["2", "3", "4"]
   },
-  {"id": 257, "name": "New Lots Av", "description": "", "pos": [40.666235, -73.884079], "services": []},
+  {"id": "257", "name": "New Lots Av", "description": "", "pos": [40.666235, -73.884079], "services": []},
   {
     "id": "257N",
     "name": "New Lots Av",
@@ -611,20 +629,20 @@
     "services": ["2", "3", "4", "5"]
   },
   {"id": "257S", "name": "New Lots Av", "description": "", "pos": [40.666235, -73.884079], "services": ["2", "3", "4"]},
-  {"id": 301, "name": "Harlem-148 St", "description": "", "pos": [40.82388, -73.93647], "services": []},
+  {"id": "301", "name": "Harlem-148 St", "description": "", "pos": [40.82388, -73.93647], "services": []},
   {"id": "301N", "name": "Harlem-148 St", "description": "", "pos": [40.82388, -73.93647], "services": ["3"]},
   {"id": "301S", "name": "Harlem-148 St", "description": "", "pos": [40.82388, -73.93647], "services": ["3"]},
-  {"id": 302, "name": "145 St", "description": "", "pos": [40.820421, -73.936245], "services": []},
+  {"id": "302", "name": "145 St", "description": "", "pos": [40.820421, -73.936245], "services": []},
   {"id": "302N", "name": "145 St", "description": "", "pos": [40.820421, -73.936245], "services": ["3"]},
   {"id": "302S", "name": "145 St", "description": "", "pos": [40.820421, -73.936245], "services": ["3"]},
-  {"id": 401, "name": "Woodlawn", "description": "", "pos": [40.886037, -73.878751], "services": []},
+  {"id": "401", "name": "Woodlawn", "description": "", "pos": [40.886037, -73.878751], "services": []},
   {"id": "401N", "name": "Woodlawn", "description": "", "pos": [40.886037, -73.878751], "services": ["4"]},
   {"id": "401S", "name": "Woodlawn", "description": "", "pos": [40.886037, -73.878751], "services": ["4"]},
-  {"id": 402, "name": "Mosholu Pkwy", "description": "", "pos": [40.87975, -73.884655], "services": []},
+  {"id": "402", "name": "Mosholu Pkwy", "description": "", "pos": [40.87975, -73.884655], "services": []},
   {"id": "402N", "name": "Mosholu Pkwy", "description": "", "pos": [40.87975, -73.884655], "services": ["4"]},
   {"id": "402S", "name": "Mosholu Pkwy", "description": "", "pos": [40.87975, -73.884655], "services": ["4"]},
   {
-    "id": 405,
+    "id": "405",
     "name": "Bedford Park Blvd-Lehman College",
     "description": "",
     "pos": [40.873412, -73.890064],
@@ -644,34 +662,34 @@
     "pos": [40.873412, -73.890064],
     "services": ["4"]
   },
-  {"id": 406, "name": "Kingsbridge Rd", "description": "", "pos": [40.86776, -73.897174], "services": []},
+  {"id": "406", "name": "Kingsbridge Rd", "description": "", "pos": [40.86776, -73.897174], "services": []},
   {"id": "406N", "name": "Kingsbridge Rd", "description": "", "pos": [40.86776, -73.897174], "services": ["4"]},
   {"id": "406S", "name": "Kingsbridge Rd", "description": "", "pos": [40.86776, -73.897174], "services": ["4"]},
-  {"id": 407, "name": "Fordham Rd", "description": "", "pos": [40.862803, -73.901034], "services": []},
+  {"id": "407", "name": "Fordham Rd", "description": "", "pos": [40.862803, -73.901034], "services": []},
   {"id": "407N", "name": "Fordham Rd", "description": "", "pos": [40.862803, -73.901034], "services": ["4"]},
   {"id": "407S", "name": "Fordham Rd", "description": "", "pos": [40.862803, -73.901034], "services": ["4"]},
-  {"id": 408, "name": "183 St", "description": "", "pos": [40.858407, -73.903879], "services": []},
+  {"id": "408", "name": "183 St", "description": "", "pos": [40.858407, -73.903879], "services": []},
   {"id": "408N", "name": "183 St", "description": "", "pos": [40.858407, -73.903879], "services": ["4"]},
   {"id": "408S", "name": "183 St", "description": "", "pos": [40.858407, -73.903879], "services": ["4"]},
-  {"id": 409, "name": "Burnside Av", "description": "", "pos": [40.853453, -73.907684], "services": []},
+  {"id": "409", "name": "Burnside Av", "description": "", "pos": [40.853453, -73.907684], "services": []},
   {"id": "409N", "name": "Burnside Av", "description": "", "pos": [40.853453, -73.907684], "services": ["4"]},
   {"id": "409S", "name": "Burnside Av", "description": "", "pos": [40.853453, -73.907684], "services": ["4"]},
-  {"id": 410, "name": "176 St", "description": "", "pos": [40.84848, -73.911794], "services": []},
+  {"id": "410", "name": "176 St", "description": "", "pos": [40.84848, -73.911794], "services": []},
   {"id": "410N", "name": "176 St", "description": "", "pos": [40.84848, -73.911794], "services": ["4"]},
   {"id": "410S", "name": "176 St", "description": "", "pos": [40.84848, -73.911794], "services": ["4"]},
-  {"id": 411, "name": "Mt Eden Av", "description": "", "pos": [40.844434, -73.914685], "services": []},
+  {"id": "411", "name": "Mt Eden Av", "description": "", "pos": [40.844434, -73.914685], "services": []},
   {"id": "411N", "name": "Mt Eden Av", "description": "", "pos": [40.844434, -73.914685], "services": ["4"]},
   {"id": "411S", "name": "Mt Eden Av", "description": "", "pos": [40.844434, -73.914685], "services": ["4"]},
-  {"id": 412, "name": "170 St", "description": "", "pos": [40.840075, -73.917791], "services": []},
+  {"id": "412", "name": "170 St", "description": "", "pos": [40.840075, -73.917791], "services": []},
   {"id": "412N", "name": "170 St", "description": "", "pos": [40.840075, -73.917791], "services": ["4"]},
   {"id": "412S", "name": "170 St", "description": "", "pos": [40.840075, -73.917791], "services": ["4"]},
-  {"id": 413, "name": "167 St", "description": "", "pos": [40.835537, -73.9214], "services": []},
+  {"id": "413", "name": "167 St", "description": "", "pos": [40.835537, -73.9214], "services": []},
   {"id": "413N", "name": "167 St", "description": "", "pos": [40.835537, -73.9214], "services": ["4"]},
   {"id": "413S", "name": "167 St", "description": "", "pos": [40.835537, -73.9214], "services": ["4"]},
-  {"id": 414, "name": "161 St-Yankee Stadium", "description": "", "pos": [40.827994, -73.925831], "services": []},
+  {"id": "414", "name": "161 St-Yankee Stadium", "description": "", "pos": [40.827994, -73.925831], "services": []},
   {"id": "414N", "name": "161 St-Yankee Stadium", "description": "", "pos": [40.827994, -73.925831], "services": ["4"]},
   {"id": "414S", "name": "161 St-Yankee Stadium", "description": "", "pos": [40.827994, -73.925831], "services": ["4"]},
-  {"id": 415, "name": "149 St-Grand Concourse", "description": "", "pos": [40.818375, -73.927351], "services": []},
+  {"id": "415", "name": "149 St-Grand Concourse", "description": "", "pos": [40.818375, -73.927351], "services": []},
   {
     "id": "415N",
     "name": "149 St-Grand Concourse",
@@ -686,7 +704,7 @@
     "pos": [40.818375, -73.927351],
     "services": ["4"]
   },
-  {"id": 416, "name": "138 St-Grand Concourse", "description": "", "pos": [40.813224, -73.929849], "services": []},
+  {"id": "416", "name": "138 St-Grand Concourse", "description": "", "pos": [40.813224, -73.929849], "services": []},
   {
     "id": "416N",
     "name": "138 St-Grand Concourse",
@@ -701,43 +719,49 @@
     "pos": [40.813224, -73.929849],
     "services": ["4", "5"]
   },
-  {"id": 418, "name": "Fulton St", "description": "", "pos": [40.710368, -74.009509], "services": []},
+  {"id": "418", "name": "Fulton St", "description": "", "pos": [40.710368, -74.009509], "services": []},
   {"id": "418N", "name": "Fulton St", "description": "", "pos": [40.710368, -74.009509], "services": ["4", "5"]},
   {"id": "418S", "name": "Fulton St", "description": "", "pos": [40.710368, -74.009509], "services": ["4", "5"]},
-  {"id": 419, "name": "Wall St", "description": "", "pos": [40.707557, -74.011862], "services": []},
+  {"id": "419", "name": "Wall St", "description": "", "pos": [40.707557, -74.011862], "services": []},
   {"id": "419N", "name": "Wall St", "description": "", "pos": [40.707557, -74.011862], "services": ["4", "5"]},
   {"id": "419S", "name": "Wall St", "description": "", "pos": [40.707557, -74.011862], "services": ["4", "5"]},
-  {"id": 420, "name": "Bowling Green", "description": "", "pos": [40.704817, -74.014065], "services": []},
+  {"id": "420", "name": "Bowling Green", "description": "", "pos": [40.704817, -74.014065], "services": []},
   {"id": "420N", "name": "Bowling Green", "description": "", "pos": [40.704817, -74.014065], "services": ["4", "5"]},
   {"id": "420S", "name": "Bowling Green", "description": "", "pos": [40.704817, -74.014065], "services": ["4", "5"]},
-  {"id": 423, "name": "Borough Hall", "description": "", "pos": [40.692404, -73.990151], "services": []},
+  {"id": "423", "name": "Borough Hall", "description": "", "pos": [40.692404, -73.990151], "services": []},
   {"id": "423N", "name": "Borough Hall", "description": "", "pos": [40.692404, -73.990151], "services": ["4", "5"]},
   {"id": "423S", "name": "Borough Hall", "description": "", "pos": [40.692404, -73.990151], "services": ["4", "5"]},
-  {"id": 501, "name": "Eastchester-Dyre Av", "description": "", "pos": [40.8883, -73.830834], "services": []},
+  {"id": "501", "name": "Eastchester-Dyre Av", "description": "", "pos": [40.8883, -73.830834], "services": []},
   {"id": "501N", "name": "Eastchester-Dyre Av", "description": "", "pos": [40.8883, -73.830834], "services": ["5"]},
   {"id": "501S", "name": "Eastchester-Dyre Av", "description": "", "pos": [40.8883, -73.830834], "services": ["5"]},
-  {"id": 502, "name": "Baychester Av", "description": "", "pos": [40.878663, -73.838591], "services": []},
+  {"id": "502", "name": "Baychester Av", "description": "", "pos": [40.878663, -73.838591], "services": []},
   {"id": "502N", "name": "Baychester Av", "description": "", "pos": [40.878663, -73.838591], "services": ["5"]},
   {"id": "502S", "name": "Baychester Av", "description": "", "pos": [40.878663, -73.838591], "services": ["5"]},
-  {"id": 503, "name": "Gun Hill Rd", "description": "", "pos": [40.869526, -73.846384], "services": []},
+  {"id": "503", "name": "Gun Hill Rd", "description": "", "pos": [40.869526, -73.846384], "services": []},
   {"id": "503N", "name": "Gun Hill Rd", "description": "", "pos": [40.869526, -73.846384], "services": ["5"]},
   {"id": "503S", "name": "Gun Hill Rd", "description": "", "pos": [40.869526, -73.846384], "services": ["5"]},
-  {"id": 504, "name": "Pelham Pkwy", "description": "", "pos": [40.858985, -73.855359], "services": []},
+  {"id": "504", "name": "Pelham Pkwy", "description": "", "pos": [40.858985, -73.855359], "services": []},
   {"id": "504N", "name": "Pelham Pkwy", "description": "", "pos": [40.858985, -73.855359], "services": ["5"]},
   {"id": "504S", "name": "Pelham Pkwy", "description": "", "pos": [40.858985, -73.855359], "services": ["5"]},
-  {"id": 505, "name": "Morris Park", "description": "", "pos": [40.854364, -73.860495], "services": []},
+  {"id": "505", "name": "Morris Park", "description": "", "pos": [40.854364, -73.860495], "services": []},
   {"id": "505N", "name": "Morris Park", "description": "", "pos": [40.854364, -73.860495], "services": ["5"]},
   {"id": "505S", "name": "Morris Park", "description": "", "pos": [40.854364, -73.860495], "services": ["5"]},
-  {"id": 601, "name": "Pelham Bay Park", "description": "", "pos": [40.852462, -73.828121], "services": []},
+  {"id": "601", "name": "Pelham Bay Park", "description": "", "pos": [40.852462, -73.828121], "services": []},
   {"id": "601N", "name": "Pelham Bay Park", "description": "", "pos": [40.852462, -73.828121], "services": ["6", "6X"]},
   {"id": "601S", "name": "Pelham Bay Park", "description": "", "pos": [40.852462, -73.828121], "services": ["6", "6X"]},
-  {"id": 602, "name": "Buhre Av", "description": "", "pos": [40.84681, -73.832569], "services": []},
+  {"id": "602", "name": "Buhre Av", "description": "", "pos": [40.84681, -73.832569], "services": []},
   {"id": "602N", "name": "Buhre Av", "description": "", "pos": [40.84681, -73.832569], "services": ["6", "6X"]},
   {"id": "602S", "name": "Buhre Av", "description": "", "pos": [40.84681, -73.832569], "services": ["6", "6X"]},
-  {"id": 603, "name": "Middletown Rd", "description": "", "pos": [40.843863, -73.836322], "services": []},
+  {"id": "603", "name": "Middletown Rd", "description": "", "pos": [40.843863, -73.836322], "services": []},
   {"id": "603N", "name": "Middletown Rd", "description": "", "pos": [40.843863, -73.836322], "services": ["6", "6X"]},
   {"id": "603S", "name": "Middletown Rd", "description": "", "pos": [40.843863, -73.836322], "services": ["6", "6X"]},
-  {"id": 604, "name": "Westchester Sq-E Tremont Av", "description": "", "pos": [40.839892, -73.842952], "services": []},
+  {
+    "id": "604",
+    "name": "Westchester Sq-E Tremont Av",
+    "description": "",
+    "pos": [40.839892, -73.842952],
+    "services": []
+  },
   {
     "id": "604N",
     "name": "Westchester Sq-E Tremont Av",
@@ -752,19 +776,19 @@
     "pos": [40.839892, -73.842952],
     "services": ["6", "6X"]
   },
-  {"id": 606, "name": "Zerega Av", "description": "", "pos": [40.836488, -73.847036], "services": []},
+  {"id": "606", "name": "Zerega Av", "description": "", "pos": [40.836488, -73.847036], "services": []},
   {"id": "606N", "name": "Zerega Av", "description": "", "pos": [40.836488, -73.847036], "services": ["6", "6X"]},
   {"id": "606S", "name": "Zerega Av", "description": "", "pos": [40.836488, -73.847036], "services": ["6", "6X"]},
-  {"id": 607, "name": "Castle Hill Av", "description": "", "pos": [40.834255, -73.851222], "services": []},
+  {"id": "607", "name": "Castle Hill Av", "description": "", "pos": [40.834255, -73.851222], "services": []},
   {"id": "607N", "name": "Castle Hill Av", "description": "", "pos": [40.834255, -73.851222], "services": ["6", "6X"]},
   {"id": "607S", "name": "Castle Hill Av", "description": "", "pos": [40.834255, -73.851222], "services": ["6", "6X"]},
-  {"id": 608, "name": "Parkchester", "description": "", "pos": [40.833226, -73.860816], "services": []},
+  {"id": "608", "name": "Parkchester", "description": "", "pos": [40.833226, -73.860816], "services": []},
   {"id": "608N", "name": "Parkchester", "description": "", "pos": [40.833226, -73.860816], "services": ["6", "6X"]},
   {"id": "608S", "name": "Parkchester", "description": "", "pos": [40.833226, -73.860816], "services": ["6", "6X"]},
-  {"id": 609, "name": "St Lawrence Av", "description": "", "pos": [40.831509, -73.867618], "services": []},
+  {"id": "609", "name": "St Lawrence Av", "description": "", "pos": [40.831509, -73.867618], "services": []},
   {"id": "609N", "name": "St Lawrence Av", "description": "", "pos": [40.831509, -73.867618], "services": ["6"]},
   {"id": "609S", "name": "St Lawrence Av", "description": "", "pos": [40.831509, -73.867618], "services": ["6", "6X"]},
-  {"id": 610, "name": "Morrison Av-Soundview", "description": "", "pos": [40.829521, -73.874516], "services": []},
+  {"id": "610", "name": "Morrison Av-Soundview", "description": "", "pos": [40.829521, -73.874516], "services": []},
   {"id": "610N", "name": "Morrison Av-Soundview", "description": "", "pos": [40.829521, -73.874516], "services": ["6"]},
   {
     "id": "610S",
@@ -773,34 +797,34 @@
     "pos": [40.829521, -73.874516],
     "services": ["6", "6X"]
   },
-  {"id": 611, "name": "Elder Av", "description": "", "pos": [40.828584, -73.879159], "services": []},
+  {"id": "611", "name": "Elder Av", "description": "", "pos": [40.828584, -73.879159], "services": []},
   {"id": "611N", "name": "Elder Av", "description": "", "pos": [40.828584, -73.879159], "services": ["6"]},
   {"id": "611S", "name": "Elder Av", "description": "", "pos": [40.828584, -73.879159], "services": ["6", "6X"]},
-  {"id": 612, "name": "Whitlock Av", "description": "", "pos": [40.826525, -73.886283], "services": []},
+  {"id": "612", "name": "Whitlock Av", "description": "", "pos": [40.826525, -73.886283], "services": []},
   {"id": "612N", "name": "Whitlock Av", "description": "", "pos": [40.826525, -73.886283], "services": ["6"]},
   {"id": "612S", "name": "Whitlock Av", "description": "", "pos": [40.826525, -73.886283], "services": ["6", "6X"]},
-  {"id": 613, "name": "Hunts Point Av", "description": "", "pos": [40.820948, -73.890549], "services": []},
+  {"id": "613", "name": "Hunts Point Av", "description": "", "pos": [40.820948, -73.890549], "services": []},
   {"id": "613N", "name": "Hunts Point Av", "description": "", "pos": [40.820948, -73.890549], "services": ["6", "6X"]},
   {"id": "613S", "name": "Hunts Point Av", "description": "", "pos": [40.820948, -73.890549], "services": ["6", "6X"]},
-  {"id": 614, "name": "Longwood Av", "description": "", "pos": [40.816104, -73.896435], "services": []},
+  {"id": "614", "name": "Longwood Av", "description": "", "pos": [40.816104, -73.896435], "services": []},
   {"id": "614N", "name": "Longwood Av", "description": "", "pos": [40.816104, -73.896435], "services": ["6"]},
   {"id": "614S", "name": "Longwood Av", "description": "", "pos": [40.816104, -73.896435], "services": ["6"]},
-  {"id": 615, "name": "E 149 St", "description": "", "pos": [40.812118, -73.904098], "services": []},
+  {"id": "615", "name": "E 149 St", "description": "", "pos": [40.812118, -73.904098], "services": []},
   {"id": "615N", "name": "E 149 St", "description": "", "pos": [40.812118, -73.904098], "services": ["6"]},
   {"id": "615S", "name": "E 149 St", "description": "", "pos": [40.812118, -73.904098], "services": ["6"]},
-  {"id": 616, "name": "E 143 St-St Mary's St", "description": "", "pos": [40.808719, -73.907657], "services": []},
+  {"id": "616", "name": "E 143 St-St Mary's St", "description": "", "pos": [40.808719, -73.907657], "services": []},
   {"id": "616N", "name": "E 143 St-St Mary's St", "description": "", "pos": [40.808719, -73.907657], "services": ["6"]},
   {"id": "616S", "name": "E 143 St-St Mary's St", "description": "", "pos": [40.808719, -73.907657], "services": ["6"]},
-  {"id": 617, "name": "Cypress Av", "description": "", "pos": [40.805368, -73.914042], "services": []},
+  {"id": "617", "name": "Cypress Av", "description": "", "pos": [40.805368, -73.914042], "services": []},
   {"id": "617N", "name": "Cypress Av", "description": "", "pos": [40.805368, -73.914042], "services": ["6"]},
   {"id": "617S", "name": "Cypress Av", "description": "", "pos": [40.805368, -73.914042], "services": ["6"]},
-  {"id": 618, "name": "Brook Av", "description": "", "pos": [40.807566, -73.91924], "services": []},
+  {"id": "618", "name": "Brook Av", "description": "", "pos": [40.807566, -73.91924], "services": []},
   {"id": "618N", "name": "Brook Av", "description": "", "pos": [40.807566, -73.91924], "services": ["6"]},
   {"id": "618S", "name": "Brook Av", "description": "", "pos": [40.807566, -73.91924], "services": ["6"]},
-  {"id": 619, "name": "3 Av-138 St", "description": "", "pos": [40.810476, -73.926138], "services": []},
+  {"id": "619", "name": "3 Av-138 St", "description": "", "pos": [40.810476, -73.926138], "services": []},
   {"id": "619N", "name": "3 Av-138 St", "description": "", "pos": [40.810476, -73.926138], "services": ["6", "6X"]},
   {"id": "619S", "name": "3 Av-138 St", "description": "", "pos": [40.810476, -73.926138], "services": ["6", "6X"]},
-  {"id": 621, "name": "125 St", "description": "", "pos": [40.804138, -73.937594], "services": []},
+  {"id": "621", "name": "125 St", "description": "", "pos": [40.804138, -73.937594], "services": []},
   {
     "id": "621N",
     "name": "125 St",
@@ -815,25 +839,25 @@
     "pos": [40.804138, -73.937594],
     "services": ["4", "5", "6", "6X"]
   },
-  {"id": 622, "name": "116 St", "description": "", "pos": [40.798629, -73.941617], "services": []},
+  {"id": "622", "name": "116 St", "description": "", "pos": [40.798629, -73.941617], "services": []},
   {"id": "622N", "name": "116 St", "description": "", "pos": [40.798629, -73.941617], "services": ["4", "6", "6X"]},
   {"id": "622S", "name": "116 St", "description": "", "pos": [40.798629, -73.941617], "services": ["4", "6", "6X"]},
-  {"id": 623, "name": "110 St", "description": "", "pos": [40.79502, -73.94425], "services": []},
+  {"id": "623", "name": "110 St", "description": "", "pos": [40.79502, -73.94425], "services": []},
   {"id": "623N", "name": "110 St", "description": "", "pos": [40.79502, -73.94425], "services": ["4", "6", "6X"]},
   {"id": "623S", "name": "110 St", "description": "", "pos": [40.79502, -73.94425], "services": ["4", "6", "6X"]},
-  {"id": 624, "name": "103 St", "description": "", "pos": [40.7906, -73.947478], "services": []},
+  {"id": "624", "name": "103 St", "description": "", "pos": [40.7906, -73.947478], "services": []},
   {"id": "624N", "name": "103 St", "description": "", "pos": [40.7906, -73.947478], "services": ["4", "6", "6X"]},
   {"id": "624S", "name": "103 St", "description": "", "pos": [40.7906, -73.947478], "services": ["4", "6", "6X"]},
-  {"id": 625, "name": "96 St", "description": "", "pos": [40.785672, -73.95107], "services": []},
+  {"id": "625", "name": "96 St", "description": "", "pos": [40.785672, -73.95107], "services": []},
   {"id": "625N", "name": "96 St", "description": "", "pos": [40.785672, -73.95107], "services": ["4", "6", "6X"]},
   {"id": "625S", "name": "96 St", "description": "", "pos": [40.785672, -73.95107], "services": ["4", "6", "6X"]},
-  {"id": 626, "name": "86 St", "description": "", "pos": [40.779492, -73.955589], "services": []},
+  {"id": "626", "name": "86 St", "description": "", "pos": [40.779492, -73.955589], "services": []},
   {"id": "626N", "name": "86 St", "description": "", "pos": [40.779492, -73.955589], "services": ["4", "5", "6", "6X"]},
   {"id": "626S", "name": "86 St", "description": "", "pos": [40.779492, -73.955589], "services": ["4", "5", "6", "6X"]},
-  {"id": 627, "name": "77 St", "description": "", "pos": [40.77362, -73.959874], "services": []},
+  {"id": "627", "name": "77 St", "description": "", "pos": [40.77362, -73.959874], "services": []},
   {"id": "627N", "name": "77 St", "description": "", "pos": [40.77362, -73.959874], "services": ["4", "6", "6X"]},
   {"id": "627S", "name": "77 St", "description": "", "pos": [40.77362, -73.959874], "services": ["4", "6", "6X"]},
-  {"id": 628, "name": "68 St-Hunter College", "description": "", "pos": [40.768141, -73.96387], "services": []},
+  {"id": "628", "name": "68 St-Hunter College", "description": "", "pos": [40.768141, -73.96387], "services": []},
   {
     "id": "628N",
     "name": "68 St-Hunter College",
@@ -848,13 +872,13 @@
     "pos": [40.768141, -73.96387],
     "services": ["4", "6", "6X"]
   },
-  {"id": 629, "name": "59 St", "description": "", "pos": [40.762526, -73.967967], "services": []},
+  {"id": "629", "name": "59 St", "description": "", "pos": [40.762526, -73.967967], "services": []},
   {"id": "629N", "name": "59 St", "description": "", "pos": [40.762526, -73.967967], "services": ["4", "5", "6", "6X"]},
   {"id": "629S", "name": "59 St", "description": "", "pos": [40.762526, -73.967967], "services": ["4", "5", "6", "6X"]},
-  {"id": 630, "name": "51 St", "description": "", "pos": [40.757107, -73.97192], "services": []},
+  {"id": "630", "name": "51 St", "description": "", "pos": [40.757107, -73.97192], "services": []},
   {"id": "630N", "name": "51 St", "description": "", "pos": [40.757107, -73.97192], "services": ["4", "6", "6X"]},
   {"id": "630S", "name": "51 St", "description": "", "pos": [40.757107, -73.97192], "services": ["4", "6", "6X"]},
-  {"id": 631, "name": "Grand Central-42 St", "description": "", "pos": [40.751776, -73.976848], "services": []},
+  {"id": "631", "name": "Grand Central-42 St", "description": "", "pos": [40.751776, -73.976848], "services": []},
   {
     "id": "631N",
     "name": "Grand Central-42 St",
@@ -869,16 +893,16 @@
     "pos": [40.751776, -73.976848],
     "services": ["4", "5", "6", "6X"]
   },
-  {"id": 632, "name": "33 St", "description": "", "pos": [40.746081, -73.982076], "services": []},
+  {"id": "632", "name": "33 St", "description": "", "pos": [40.746081, -73.982076], "services": []},
   {"id": "632N", "name": "33 St", "description": "", "pos": [40.746081, -73.982076], "services": ["4", "6", "6X"]},
   {"id": "632S", "name": "33 St", "description": "", "pos": [40.746081, -73.982076], "services": ["4", "6", "6X"]},
-  {"id": 633, "name": "28 St", "description": "", "pos": [40.74307, -73.984264], "services": []},
+  {"id": "633", "name": "28 St", "description": "", "pos": [40.74307, -73.984264], "services": []},
   {"id": "633N", "name": "28 St", "description": "", "pos": [40.74307, -73.984264], "services": ["4", "6", "6X"]},
   {"id": "633S", "name": "28 St", "description": "", "pos": [40.74307, -73.984264], "services": ["4", "6", "6X"]},
-  {"id": 634, "name": "23 St", "description": "", "pos": [40.739864, -73.986599], "services": []},
+  {"id": "634", "name": "23 St", "description": "", "pos": [40.739864, -73.986599], "services": []},
   {"id": "634N", "name": "23 St", "description": "", "pos": [40.739864, -73.986599], "services": ["4", "6", "6X"]},
   {"id": "634S", "name": "23 St", "description": "", "pos": [40.739864, -73.986599], "services": ["4", "6", "6X"]},
-  {"id": 635, "name": "14 St-Union Sq", "description": "", "pos": [40.734673, -73.989951], "services": []},
+  {"id": "635", "name": "14 St-Union Sq", "description": "", "pos": [40.734673, -73.989951], "services": []},
   {
     "id": "635N",
     "name": "14 St-Union Sq",
@@ -893,10 +917,10 @@
     "pos": [40.734673, -73.989951],
     "services": ["4", "5", "6", "6X"]
   },
-  {"id": 636, "name": "Astor Pl", "description": "", "pos": [40.730054, -73.99107], "services": []},
+  {"id": "636", "name": "Astor Pl", "description": "", "pos": [40.730054, -73.99107], "services": []},
   {"id": "636N", "name": "Astor Pl", "description": "", "pos": [40.730054, -73.99107], "services": ["4", "6", "6X"]},
   {"id": "636S", "name": "Astor Pl", "description": "", "pos": [40.730054, -73.99107], "services": ["4", "6", "6X"]},
-  {"id": 637, "name": "Bleecker St", "description": "", "pos": [40.725915, -73.994659], "services": []},
+  {"id": "637", "name": "Bleecker St", "description": "", "pos": [40.725915, -73.994659], "services": []},
   {
     "id": "637N",
     "name": "Bleecker St",
@@ -911,13 +935,13 @@
     "pos": [40.725915, -73.994659],
     "services": ["4", "6", "6X"]
   },
-  {"id": 638, "name": "Spring St", "description": "", "pos": [40.722301, -73.997141], "services": []},
+  {"id": "638", "name": "Spring St", "description": "", "pos": [40.722301, -73.997141], "services": []},
   {"id": "638N", "name": "Spring St", "description": "", "pos": [40.722301, -73.997141], "services": ["4", "6", "6X"]},
   {"id": "638S", "name": "Spring St", "description": "", "pos": [40.722301, -73.997141], "services": ["4", "6", "6X"]},
-  {"id": 639, "name": "Canal St", "description": "", "pos": [40.718803, -74.000193], "services": []},
+  {"id": "639", "name": "Canal St", "description": "", "pos": [40.718803, -74.000193], "services": []},
   {"id": "639N", "name": "Canal St", "description": "", "pos": [40.718803, -74.000193], "services": ["4", "6", "6X"]},
   {"id": "639S", "name": "Canal St", "description": "", "pos": [40.718803, -74.000193], "services": ["4", "6", "6X"]},
-  {"id": 640, "name": "Brooklyn Bridge-City Hall", "description": "", "pos": [40.713065, -74.004131], "services": []},
+  {"id": "640", "name": "Brooklyn Bridge-City Hall", "description": "", "pos": [40.713065, -74.004131], "services": []},
   {
     "id": "640N",
     "name": "Brooklyn Bridge-City Hall",
@@ -932,10 +956,10 @@
     "pos": [40.713065, -74.004131],
     "services": ["4", "5", "6", "6X"]
   },
-  {"id": 701, "name": "Flushing-Main St", "description": "", "pos": [40.7596, -73.83003], "services": []},
+  {"id": "701", "name": "Flushing-Main St", "description": "", "pos": [40.7596, -73.83003], "services": []},
   {"id": "701N", "name": "Flushing-Main St", "description": "", "pos": [40.7596, -73.83003], "services": ["7", "7X"]},
   {"id": "701S", "name": "Flushing-Main St", "description": "", "pos": [40.7596, -73.83003], "services": ["7", "7X"]},
-  {"id": 702, "name": "Mets-Willets Point", "description": "", "pos": [40.754622, -73.845625], "services": []},
+  {"id": "702", "name": "Mets-Willets Point", "description": "", "pos": [40.754622, -73.845625], "services": []},
   {
     "id": "702N",
     "name": "Mets-Willets Point",
@@ -950,43 +974,43 @@
     "pos": [40.754622, -73.845625],
     "services": ["7", "7X"]
   },
-  {"id": 705, "name": "111 St", "description": "", "pos": [40.75173, -73.855334], "services": []},
+  {"id": "705", "name": "111 St", "description": "", "pos": [40.75173, -73.855334], "services": []},
   {"id": "705N", "name": "111 St", "description": "", "pos": [40.75173, -73.855334], "services": ["7"]},
   {"id": "705S", "name": "111 St", "description": "", "pos": [40.75173, -73.855334], "services": ["7"]},
-  {"id": 706, "name": "103 St-Corona Plaza", "description": "", "pos": [40.749865, -73.8627], "services": []},
+  {"id": "706", "name": "103 St-Corona Plaza", "description": "", "pos": [40.749865, -73.8627], "services": []},
   {"id": "706N", "name": "103 St-Corona Plaza", "description": "", "pos": [40.749865, -73.8627], "services": ["7"]},
   {"id": "706S", "name": "103 St-Corona Plaza", "description": "", "pos": [40.749865, -73.8627], "services": ["7"]},
-  {"id": 707, "name": "Junction Blvd", "description": "", "pos": [40.749145, -73.869527], "services": []},
+  {"id": "707", "name": "Junction Blvd", "description": "", "pos": [40.749145, -73.869527], "services": []},
   {"id": "707N", "name": "Junction Blvd", "description": "", "pos": [40.749145, -73.869527], "services": ["7", "7X"]},
   {"id": "707S", "name": "Junction Blvd", "description": "", "pos": [40.749145, -73.869527], "services": ["7", "7X"]},
-  {"id": 708, "name": "90 St-Elmhurst Av", "description": "", "pos": [40.748408, -73.876613], "services": []},
+  {"id": "708", "name": "90 St-Elmhurst Av", "description": "", "pos": [40.748408, -73.876613], "services": []},
   {"id": "708N", "name": "90 St-Elmhurst Av", "description": "", "pos": [40.748408, -73.876613], "services": ["7"]},
   {"id": "708S", "name": "90 St-Elmhurst Av", "description": "", "pos": [40.748408, -73.876613], "services": ["7"]},
-  {"id": 709, "name": "82 St-Jackson Hts", "description": "", "pos": [40.747659, -73.883697], "services": []},
+  {"id": "709", "name": "82 St-Jackson Hts", "description": "", "pos": [40.747659, -73.883697], "services": []},
   {"id": "709N", "name": "82 St-Jackson Hts", "description": "", "pos": [40.747659, -73.883697], "services": ["7"]},
   {"id": "709S", "name": "82 St-Jackson Hts", "description": "", "pos": [40.747659, -73.883697], "services": ["7"]},
-  {"id": 710, "name": "74 St-Broadway", "description": "", "pos": [40.746848, -73.891394], "services": []},
-  {"id": "710N", "name": "74 St-Broadway", "description": "", "pos": [40.746848, -73.891394], "services": ["7"]},
-  {"id": "710S", "name": "74 St-Broadway", "description": "", "pos": [40.746848, -73.891394], "services": ["7"]},
-  {"id": 711, "name": "69 St", "description": "", "pos": [40.746325, -73.896403], "services": []},
-  {"id": "711N", "name": "69 St", "description": "", "pos": [40.746325, -73.896403], "services": ["7"]},
-  {"id": "711S", "name": "69 St", "description": "", "pos": [40.746325, -73.896403], "services": ["7"]},
-  {"id": 712, "name": "61 St-Woodside", "description": "", "pos": [40.74563, -73.902984], "services": []},
+  {"id": "710", "name": "74 St-Broadway", "description": "", "pos": [40.746848, -73.891394], "services": []},
+  {"id": "710N", "name": "74 St-Broadway", "description": "", "pos": [40.746848, -73.891394], "services": ["7", "7X"]},
+  {"id": "710S", "name": "74 St-Broadway", "description": "", "pos": [40.746848, -73.891394], "services": ["7", "7X"]},
+  {"id": "711", "name": "69 St", "description": "", "pos": [40.746325, -73.896403], "services": []},
+  {"id": "711N", "name": "69 St", "description": "", "pos": [40.746325, -73.896403], "services": ["7", "7X"]},
+  {"id": "711S", "name": "69 St", "description": "", "pos": [40.746325, -73.896403], "services": ["7", "7X"]},
+  {"id": "712", "name": "61 St-Woodside", "description": "", "pos": [40.74563, -73.902984], "services": []},
   {"id": "712N", "name": "61 St-Woodside", "description": "", "pos": [40.74563, -73.902984], "services": ["7", "7X"]},
   {"id": "712S", "name": "61 St-Woodside", "description": "", "pos": [40.74563, -73.902984], "services": ["7", "7X"]},
-  {"id": 713, "name": "52 St", "description": "", "pos": [40.744149, -73.912549], "services": []},
-  {"id": "713N", "name": "52 St", "description": "", "pos": [40.744149, -73.912549], "services": ["7"]},
-  {"id": "713S", "name": "52 St", "description": "", "pos": [40.744149, -73.912549], "services": ["7"]},
-  {"id": 714, "name": "46 St-Bliss St", "description": "", "pos": [40.743132, -73.918435], "services": []},
-  {"id": "714N", "name": "46 St-Bliss St", "description": "", "pos": [40.743132, -73.918435], "services": ["7"]},
-  {"id": "714S", "name": "46 St-Bliss St", "description": "", "pos": [40.743132, -73.918435], "services": ["7"]},
-  {"id": 715, "name": "40 St-Lowery St", "description": "", "pos": [40.743781, -73.924016], "services": []},
-  {"id": "715N", "name": "40 St-Lowery St", "description": "", "pos": [40.743781, -73.924016], "services": ["7"]},
-  {"id": "715S", "name": "40 St-Lowery St", "description": "", "pos": [40.743781, -73.924016], "services": ["7"]},
-  {"id": 716, "name": "33 St-Rawson St", "description": "", "pos": [40.744587, -73.930997], "services": []},
-  {"id": "716N", "name": "33 St-Rawson St", "description": "", "pos": [40.744587, -73.930997], "services": ["7"]},
-  {"id": "716S", "name": "33 St-Rawson St", "description": "", "pos": [40.744587, -73.930997], "services": ["7"]},
-  {"id": 718, "name": "Queensboro Plaza", "description": "", "pos": [40.750582, -73.940202], "services": []},
+  {"id": "713", "name": "52 St", "description": "", "pos": [40.744149, -73.912549], "services": []},
+  {"id": "713N", "name": "52 St", "description": "", "pos": [40.744149, -73.912549], "services": ["7", "7X"]},
+  {"id": "713S", "name": "52 St", "description": "", "pos": [40.744149, -73.912549], "services": ["7", "7X"]},
+  {"id": "714", "name": "46 St-Bliss St", "description": "", "pos": [40.743132, -73.918435], "services": []},
+  {"id": "714N", "name": "46 St-Bliss St", "description": "", "pos": [40.743132, -73.918435], "services": ["7", "7X"]},
+  {"id": "714S", "name": "46 St-Bliss St", "description": "", "pos": [40.743132, -73.918435], "services": ["7", "7X"]},
+  {"id": "715", "name": "40 St-Lowery St", "description": "", "pos": [40.743781, -73.924016], "services": []},
+  {"id": "715N", "name": "40 St-Lowery St", "description": "", "pos": [40.743781, -73.924016], "services": ["7", "7X"]},
+  {"id": "715S", "name": "40 St-Lowery St", "description": "", "pos": [40.743781, -73.924016], "services": ["7", "7X"]},
+  {"id": "716", "name": "33 St-Rawson St", "description": "", "pos": [40.744587, -73.930997], "services": []},
+  {"id": "716N", "name": "33 St-Rawson St", "description": "", "pos": [40.744587, -73.930997], "services": ["7", "7X"]},
+  {"id": "716S", "name": "33 St-Rawson St", "description": "", "pos": [40.744587, -73.930997], "services": ["7", "7X"]},
+  {"id": "718", "name": "Queensboro Plaza", "description": "", "pos": [40.750582, -73.940202], "services": []},
   {
     "id": "718N",
     "name": "Queensboro Plaza",
@@ -1001,10 +1025,10 @@
     "pos": [40.750582, -73.940202],
     "services": ["7", "7X"]
   },
-  {"id": 719, "name": "Court Sq", "description": "", "pos": [40.747023, -73.945264], "services": []},
+  {"id": "719", "name": "Court Sq", "description": "", "pos": [40.747023, -73.945264], "services": []},
   {"id": "719N", "name": "Court Sq", "description": "", "pos": [40.747023, -73.945264], "services": ["7", "7X"]},
   {"id": "719S", "name": "Court Sq", "description": "", "pos": [40.747023, -73.945264], "services": ["7", "7X"]},
-  {"id": 720, "name": "Hunters Point Av", "description": "", "pos": [40.742216, -73.948916], "services": []},
+  {"id": "720", "name": "Hunters Point Av", "description": "", "pos": [40.742216, -73.948916], "services": []},
   {
     "id": "720N",
     "name": "Hunters Point Av",
@@ -1019,7 +1043,7 @@
     "pos": [40.742216, -73.948916],
     "services": ["7", "7X"]
   },
-  {"id": 721, "name": "Vernon Blvd-Jackson Av", "description": "", "pos": [40.742626, -73.953581], "services": []},
+  {"id": "721", "name": "Vernon Blvd-Jackson Av", "description": "", "pos": [40.742626, -73.953581], "services": []},
   {
     "id": "721N",
     "name": "Vernon Blvd-Jackson Av",
@@ -1034,7 +1058,7 @@
     "pos": [40.742626, -73.953581],
     "services": ["7", "7X"]
   },
-  {"id": 723, "name": "Grand Central-42 St", "description": "", "pos": [40.751431, -73.976041], "services": []},
+  {"id": "723", "name": "Grand Central-42 St", "description": "", "pos": [40.751431, -73.976041], "services": []},
   {
     "id": "723N",
     "name": "Grand Central-42 St",
@@ -1049,13 +1073,13 @@
     "pos": [40.751431, -73.976041],
     "services": ["7", "7X"]
   },
-  {"id": 724, "name": "5 Av", "description": "", "pos": [40.753821, -73.981963], "services": []},
+  {"id": "724", "name": "5 Av", "description": "", "pos": [40.753821, -73.981963], "services": []},
   {"id": "724N", "name": "5 Av", "description": "", "pos": [40.753821, -73.981963], "services": ["7", "7X"]},
   {"id": "724S", "name": "5 Av", "description": "", "pos": [40.753821, -73.981963], "services": ["7", "7X"]},
-  {"id": 725, "name": "Times Sq-42 St", "description": "", "pos": [40.755477, -73.987691], "services": []},
+  {"id": "725", "name": "Times Sq-42 St", "description": "", "pos": [40.755477, -73.987691], "services": []},
   {"id": "725N", "name": "Times Sq-42 St", "description": "", "pos": [40.755477, -73.987691], "services": ["7", "7X"]},
   {"id": "725S", "name": "Times Sq-42 St", "description": "", "pos": [40.755477, -73.987691], "services": ["7", "7X"]},
-  {"id": 726, "name": "34 St-Hudson Yards", "description": "", "pos": [40.755882, -74.00191], "services": []},
+  {"id": "726", "name": "34 St-Hudson Yards", "description": "", "pos": [40.755882, -74.00191], "services": []},
   {
     "id": "726N",
     "name": "34 St-Hudson Yards",
@@ -1070,10 +1094,10 @@
     "pos": [40.755882, -74.00191],
     "services": ["7", "7X"]
   },
-  {"id": 901, "name": "Grand Central-42 St", "description": "", "pos": [40.752769, -73.979189], "services": []},
+  {"id": "901", "name": "Grand Central-42 St", "description": "", "pos": [40.752769, -73.979189], "services": []},
   {"id": "901N", "name": "Grand Central-42 St", "description": "", "pos": [40.752769, -73.979189], "services": ["GS"]},
   {"id": "901S", "name": "Grand Central-42 St", "description": "", "pos": [40.752769, -73.979189], "services": ["GS"]},
-  {"id": 902, "name": "Times Sq-42 St", "description": "", "pos": [40.755983, -73.986229], "services": []},
+  {"id": "902", "name": "Times Sq-42 St", "description": "", "pos": [40.755983, -73.986229], "services": []},
   {"id": "902N", "name": "Times Sq-42 St", "description": "", "pos": [40.755983, -73.986229], "services": ["GS"]},
   {"id": "902S", "name": "Times Sq-42 St", "description": "", "pos": [40.755983, -73.986229], "services": ["GS"]},
   {"id": "A02", "name": "Inwood-207 St", "description": "", "pos": [40.868072, -73.919899], "services": []},
@@ -1401,41 +1425,29 @@
     "services": ["A"]
   },
   {"id": "B04", "name": "21 St-Queensbridge", "description": "", "pos": [40.754203, -73.942836], "services": []},
-  {
-    "id": "B04N",
-    "name": "21 St-Queensbridge",
-    "description": "",
-    "pos": [40.754203, -73.942836],
-    "services": ["F", "FX"]
-  },
-  {
-    "id": "B04S",
-    "name": "21 St-Queensbridge",
-    "description": "",
-    "pos": [40.754203, -73.942836],
-    "services": ["F", "FX"]
-  },
+  {"id": "B04N", "name": "21 St-Queensbridge", "description": "", "pos": [40.754203, -73.942836], "services": ["F"]},
+  {"id": "B04S", "name": "21 St-Queensbridge", "description": "", "pos": [40.754203, -73.942836], "services": ["F"]},
   {"id": "B06", "name": "Roosevelt Island", "description": "", "pos": [40.759145, -73.95326], "services": []},
-  {"id": "B06N", "name": "Roosevelt Island", "description": "", "pos": [40.759145, -73.95326], "services": ["F", "FX"]},
-  {"id": "B06S", "name": "Roosevelt Island", "description": "", "pos": [40.759145, -73.95326], "services": ["F", "FX"]},
+  {"id": "B06N", "name": "Roosevelt Island", "description": "", "pos": [40.759145, -73.95326], "services": ["F"]},
+  {"id": "B06S", "name": "Roosevelt Island", "description": "", "pos": [40.759145, -73.95326], "services": ["F"]},
   {"id": "B08", "name": "Lexington Av/63 St", "description": "", "pos": [40.764629, -73.966113], "services": []},
   {
     "id": "B08N",
     "name": "Lexington Av/63 St",
     "description": "",
     "pos": [40.764629, -73.966113],
-    "services": ["F", "FX", "Q", "R"]
+    "services": ["Q", "F", "R"]
   },
   {
     "id": "B08S",
     "name": "Lexington Av/63 St",
     "description": "",
     "pos": [40.764629, -73.966113],
-    "services": ["F", "FX", "N", "Q"]
+    "services": ["N", "Q", "F"]
   },
   {"id": "B10", "name": "57 St", "description": "", "pos": [40.763972, -73.97745], "services": []},
-  {"id": "B10N", "name": "57 St", "description": "", "pos": [40.763972, -73.97745], "services": ["F", "FX"]},
-  {"id": "B10S", "name": "57 St", "description": "", "pos": [40.763972, -73.97745], "services": ["F", "FX"]},
+  {"id": "B10N", "name": "57 St", "description": "", "pos": [40.763972, -73.97745], "services": ["M"]},
+  {"id": "B10S", "name": "57 St", "description": "", "pos": [40.763972, -73.97745], "services": ["M"]},
   {"id": "B12", "name": "9 Av", "description": "", "pos": [40.646292, -73.994324], "services": []},
   {"id": "B12N", "name": "9 Av", "description": "", "pos": [40.646292, -73.994324], "services": ["D"]},
   {"id": "B12S", "name": "9 Av", "description": "", "pos": [40.646292, -73.994324], "services": ["D"]},
@@ -1541,14 +1553,14 @@
     "name": "47-50 Sts-Rockefeller Ctr",
     "description": "",
     "pos": [40.758663, -73.981329],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {
     "id": "D15S",
     "name": "47-50 Sts-Rockefeller Ctr",
     "description": "",
     "pos": [40.758663, -73.981329],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {"id": "D16", "name": "42 St-Bryant Pk", "description": "", "pos": [40.754222, -73.984569], "services": []},
   {
@@ -1556,14 +1568,14 @@
     "name": "42 St-Bryant Pk",
     "description": "",
     "pos": [40.754222, -73.984569],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {
     "id": "D16S",
     "name": "42 St-Bryant Pk",
     "description": "",
     "pos": [40.754222, -73.984569],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {"id": "D17", "name": "34 St-Herald Sq", "description": "", "pos": [40.749719, -73.987823], "services": []},
   {
@@ -1571,35 +1583,35 @@
     "name": "34 St-Herald Sq",
     "description": "",
     "pos": [40.749719, -73.987823],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {
     "id": "D17S",
     "name": "34 St-Herald Sq",
     "description": "",
     "pos": [40.749719, -73.987823],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {"id": "D18", "name": "23 St", "description": "", "pos": [40.742878, -73.992821], "services": []},
-  {"id": "D18N", "name": "23 St", "description": "", "pos": [40.742878, -73.992821], "services": ["F", "FX", "M"]},
-  {"id": "D18S", "name": "23 St", "description": "", "pos": [40.742878, -73.992821], "services": ["F", "FX", "M"]},
+  {"id": "D18N", "name": "23 St", "description": "", "pos": [40.742878, -73.992821], "services": ["M", "F", "FX"]},
+  {"id": "D18S", "name": "23 St", "description": "", "pos": [40.742878, -73.992821], "services": ["M", "F", "FX"]},
   {"id": "D19", "name": "14 St", "description": "", "pos": [40.738228, -73.996209], "services": []},
-  {"id": "D19N", "name": "14 St", "description": "", "pos": [40.738228, -73.996209], "services": ["F", "FX", "M"]},
-  {"id": "D19S", "name": "14 St", "description": "", "pos": [40.738228, -73.996209], "services": ["F", "FX", "M"]},
+  {"id": "D19N", "name": "14 St", "description": "", "pos": [40.738228, -73.996209], "services": ["M", "F", "FX"]},
+  {"id": "D19S", "name": "14 St", "description": "", "pos": [40.738228, -73.996209], "services": ["M", "F", "FX"]},
   {"id": "D20", "name": "W 4 St-Wash Sq", "description": "", "pos": [40.732338, -74.000495], "services": []},
   {
     "id": "D20N",
     "name": "W 4 St-Wash Sq",
     "description": "",
     "pos": [40.732338, -74.000495],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {
     "id": "D20S",
     "name": "W 4 St-Wash Sq",
     "description": "",
     "pos": [40.732338, -74.000495],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {"id": "D21", "name": "Broadway-Lafayette St", "description": "", "pos": [40.725297, -73.996204], "services": []},
   {
@@ -1607,14 +1619,14 @@
     "name": "Broadway-Lafayette St",
     "description": "",
     "pos": [40.725297, -73.996204],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {
     "id": "D21S",
     "name": "Broadway-Lafayette St",
     "description": "",
     "pos": [40.725297, -73.996204],
-    "services": ["B", "D", "F", "FX", "M"]
+    "services": ["B", "D", "M", "F", "FX"]
   },
   {"id": "D22", "name": "Grand St", "description": "", "pos": [40.718267, -73.993753], "services": []},
   {"id": "D22N", "name": "Grand St", "description": "", "pos": [40.718267, -73.993753], "services": ["B", "D"]},
@@ -1700,14 +1712,14 @@
     "name": "W 8 St-NY Aquarium",
     "description": "",
     "pos": [40.576127, -73.975939],
-    "services": ["F", "FX", "Q"]
+    "services": ["Q", "F", "FX"]
   },
   {
     "id": "D42S",
     "name": "W 8 St-NY Aquarium",
     "description": "",
     "pos": [40.576127, -73.975939],
-    "services": ["F", "FX", "Q"]
+    "services": ["Q", "F", "FX"]
   },
   {"id": "D43", "name": "Coney Island-Stillwell Av", "description": "", "pos": [40.577422, -73.981233], "services": []},
   {
@@ -1715,26 +1727,20 @@
     "name": "Coney Island-Stillwell Av",
     "description": "",
     "pos": [40.577422, -73.981233],
-    "services": ["D", "F", "FX", "N", "Q"]
+    "services": ["D", "N", "Q", "F", "FX"]
   },
   {
     "id": "D43S",
     "name": "Coney Island-Stillwell Av",
     "description": "",
     "pos": [40.577422, -73.981233],
-    "services": ["D", "F", "FX", "N", "Q"]
+    "services": ["D", "N", "Q", "F", "FX"]
   },
   {"id": "E01", "name": "World Trade Center", "description": "", "pos": [40.712582, -74.009781], "services": []},
   {"id": "E01N", "name": "World Trade Center", "description": "", "pos": [40.712582, -74.009781], "services": ["E"]},
   {"id": "E01S", "name": "World Trade Center", "description": "", "pos": [40.712582, -74.009781], "services": ["E"]},
   {"id": "F01", "name": "Jamaica-179 St", "description": "", "pos": [40.712646, -73.783817], "services": []},
-  {
-    "id": "F01N",
-    "name": "Jamaica-179 St",
-    "description": "",
-    "pos": [40.712646, -73.783817],
-    "services": ["E", "F", "FX"]
-  },
+  {"id": "F01N", "name": "Jamaica-179 St", "description": "", "pos": [40.712646, -73.783817], "services": ["F", "FX"]},
   {
     "id": "F01S",
     "name": "Jamaica-179 St",
@@ -1743,16 +1749,10 @@
     "services": ["E", "F", "FX"]
   },
   {"id": "F02", "name": "169 St", "description": "", "pos": [40.71047, -73.793604], "services": []},
-  {"id": "F02N", "name": "169 St", "description": "", "pos": [40.71047, -73.793604], "services": ["E", "F", "FX"]},
+  {"id": "F02N", "name": "169 St", "description": "", "pos": [40.71047, -73.793604], "services": ["F", "FX"]},
   {"id": "F02S", "name": "169 St", "description": "", "pos": [40.71047, -73.793604], "services": ["F", "FX"]},
   {"id": "F03", "name": "Parsons Blvd", "description": "", "pos": [40.707564, -73.803326], "services": []},
-  {
-    "id": "F03N",
-    "name": "Parsons Blvd",
-    "description": "",
-    "pos": [40.707564, -73.803326],
-    "services": ["E", "F", "FX"]
-  },
+  {"id": "F03N", "name": "Parsons Blvd", "description": "", "pos": [40.707564, -73.803326], "services": ["F", "FX"]},
   {
     "id": "F03S",
     "name": "Parsons Blvd",
@@ -1761,13 +1761,7 @@
     "services": ["E", "F", "FX"]
   },
   {"id": "F04", "name": "Sutphin Blvd", "description": "", "pos": [40.70546, -73.810708], "services": []},
-  {
-    "id": "F04N",
-    "name": "Sutphin Blvd",
-    "description": "",
-    "pos": [40.70546, -73.810708],
-    "services": ["E", "F", "FX"]
-  },
+  {"id": "F04N", "name": "Sutphin Blvd", "description": "", "pos": [40.70546, -73.810708], "services": ["F", "FX"]},
   {"id": "F04S", "name": "Sutphin Blvd", "description": "", "pos": [40.70546, -73.810708], "services": ["F", "FX"]},
   {"id": "F05", "name": "Briarwood", "description": "", "pos": [40.709179, -73.820574], "services": []},
   {"id": "F05N", "name": "Briarwood", "description": "", "pos": [40.709179, -73.820574], "services": ["E", "F", "FX"]},
@@ -1791,26 +1785,38 @@
   {"id": "F07N", "name": "75 Av", "description": "", "pos": [40.718331, -73.837324], "services": ["E", "F", "FX"]},
   {"id": "F07S", "name": "75 Av", "description": "", "pos": [40.718331, -73.837324], "services": ["E", "F", "FX"]},
   {"id": "F09", "name": "Court Sq-23 St", "description": "", "pos": [40.747846, -73.946], "services": []},
-  {"id": "F09N", "name": "Court Sq-23 St", "description": "", "pos": [40.747846, -73.946], "services": ["E", "M"]},
-  {"id": "F09S", "name": "Court Sq-23 St", "description": "", "pos": [40.747846, -73.946], "services": ["E", "M"]},
+  {
+    "id": "F09N",
+    "name": "Court Sq-23 St",
+    "description": "",
+    "pos": [40.747846, -73.946],
+    "services": ["E", "F", "FX"]
+  },
+  {
+    "id": "F09S",
+    "name": "Court Sq-23 St",
+    "description": "",
+    "pos": [40.747846, -73.946],
+    "services": ["E", "F", "FX"]
+  },
   {"id": "F11", "name": "Lexington Av/53 St", "description": "", "pos": [40.757552, -73.969055], "services": []},
   {
     "id": "F11N",
     "name": "Lexington Av/53 St",
     "description": "",
     "pos": [40.757552, -73.969055],
-    "services": ["E", "M"]
+    "services": ["E", "F", "FX"]
   },
   {
     "id": "F11S",
     "name": "Lexington Av/53 St",
     "description": "",
     "pos": [40.757552, -73.969055],
-    "services": ["E", "M"]
+    "services": ["E", "F", "FX"]
   },
   {"id": "F12", "name": "5 Av/53 St", "description": "", "pos": [40.760167, -73.975224], "services": []},
-  {"id": "F12N", "name": "5 Av/53 St", "description": "", "pos": [40.760167, -73.975224], "services": ["E", "M"]},
-  {"id": "F12S", "name": "5 Av/53 St", "description": "", "pos": [40.760167, -73.975224], "services": ["E", "M"]},
+  {"id": "F12N", "name": "5 Av/53 St", "description": "", "pos": [40.760167, -73.975224], "services": ["E", "F", "FX"]},
+  {"id": "F12S", "name": "5 Av/53 St", "description": "", "pos": [40.760167, -73.975224], "services": ["E", "F", "FX"]},
   {"id": "F14", "name": "2 Av", "description": "", "pos": [40.723402, -73.989938], "services": []},
   {"id": "F14N", "name": "2 Av", "description": "", "pos": [40.723402, -73.989938], "services": ["F", "FX"]},
   {"id": "F14S", "name": "2 Av", "description": "", "pos": [40.723402, -73.989938], "services": ["F", "FX"]},
@@ -1836,34 +1842,34 @@
   {"id": "F18N", "name": "York St", "description": "", "pos": [40.701397, -73.986751], "services": ["F", "FX"]},
   {"id": "F18S", "name": "York St", "description": "", "pos": [40.701397, -73.986751], "services": ["F", "FX"]},
   {"id": "F20", "name": "Bergen St", "description": "", "pos": [40.686145, -73.990862], "services": []},
-  {"id": "F20N", "name": "Bergen St", "description": "", "pos": [40.686145, -73.990862], "services": ["F", "G"]},
-  {"id": "F20S", "name": "Bergen St", "description": "", "pos": [40.686145, -73.990862], "services": ["F", "G"]},
+  {"id": "F20N", "name": "Bergen St", "description": "", "pos": [40.686145, -73.990862], "services": ["G", "F"]},
+  {"id": "F20S", "name": "Bergen St", "description": "", "pos": [40.686145, -73.990862], "services": ["G", "F"]},
   {"id": "F21", "name": "Carroll St", "description": "", "pos": [40.680303, -73.995048], "services": []},
-  {"id": "F21N", "name": "Carroll St", "description": "", "pos": [40.680303, -73.995048], "services": ["F", "G"]},
-  {"id": "F21S", "name": "Carroll St", "description": "", "pos": [40.680303, -73.995048], "services": ["F", "G"]},
+  {"id": "F21N", "name": "Carroll St", "description": "", "pos": [40.680303, -73.995048], "services": ["G", "F"]},
+  {"id": "F21S", "name": "Carroll St", "description": "", "pos": [40.680303, -73.995048], "services": ["G", "F"]},
   {"id": "F22", "name": "Smith-9 Sts", "description": "", "pos": [40.67358, -73.995959], "services": []},
-  {"id": "F22N", "name": "Smith-9 Sts", "description": "", "pos": [40.67358, -73.995959], "services": ["F", "G"]},
-  {"id": "F22S", "name": "Smith-9 Sts", "description": "", "pos": [40.67358, -73.995959], "services": ["F", "G"]},
+  {"id": "F22N", "name": "Smith-9 Sts", "description": "", "pos": [40.67358, -73.995959], "services": ["G", "F"]},
+  {"id": "F22S", "name": "Smith-9 Sts", "description": "", "pos": [40.67358, -73.995959], "services": ["G", "F"]},
   {"id": "F23", "name": "4 Av-9 St", "description": "", "pos": [40.670272, -73.989779], "services": []},
-  {"id": "F23N", "name": "4 Av-9 St", "description": "", "pos": [40.670272, -73.989779], "services": ["F", "G"]},
-  {"id": "F23S", "name": "4 Av-9 St", "description": "", "pos": [40.670272, -73.989779], "services": ["F", "G"]},
+  {"id": "F23N", "name": "4 Av-9 St", "description": "", "pos": [40.670272, -73.989779], "services": ["G", "F"]},
+  {"id": "F23S", "name": "4 Av-9 St", "description": "", "pos": [40.670272, -73.989779], "services": ["G", "F"]},
   {"id": "F24", "name": "7 Av", "description": "", "pos": [40.666271, -73.980305], "services": []},
-  {"id": "F24N", "name": "7 Av", "description": "", "pos": [40.666271, -73.980305], "services": ["F", "FX", "G"]},
-  {"id": "F24S", "name": "7 Av", "description": "", "pos": [40.666271, -73.980305], "services": ["F", "FX", "G"]},
+  {"id": "F24N", "name": "7 Av", "description": "", "pos": [40.666271, -73.980305], "services": ["G", "F", "FX"]},
+  {"id": "F24S", "name": "7 Av", "description": "", "pos": [40.666271, -73.980305], "services": ["G", "F", "FX"]},
   {"id": "F25", "name": "15 St-Prospect Park", "description": "", "pos": [40.660365, -73.979493], "services": []},
   {
     "id": "F25N",
     "name": "15 St-Prospect Park",
     "description": "",
     "pos": [40.660365, -73.979493],
-    "services": ["F", "G"]
+    "services": ["G", "F"]
   },
   {
     "id": "F25S",
     "name": "15 St-Prospect Park",
     "description": "",
     "pos": [40.660365, -73.979493],
-    "services": ["F", "G"]
+    "services": ["G", "F"]
   },
   {"id": "F26", "name": "Fort Hamilton Pkwy", "description": "", "pos": [40.650782, -73.975776], "services": []},
   {
@@ -1871,18 +1877,18 @@
     "name": "Fort Hamilton Pkwy",
     "description": "",
     "pos": [40.650782, -73.975776],
-    "services": ["F", "G"]
+    "services": ["G", "F"]
   },
   {
     "id": "F26S",
     "name": "Fort Hamilton Pkwy",
     "description": "",
     "pos": [40.650782, -73.975776],
-    "services": ["F", "G"]
+    "services": ["G", "F"]
   },
   {"id": "F27", "name": "Church Av", "description": "", "pos": [40.644041, -73.979678], "services": []},
-  {"id": "F27N", "name": "Church Av", "description": "", "pos": [40.644041, -73.979678], "services": ["F", "FX", "G"]},
-  {"id": "F27S", "name": "Church Av", "description": "", "pos": [40.644041, -73.979678], "services": ["F", "FX", "G"]},
+  {"id": "F27N", "name": "Church Av", "description": "", "pos": [40.644041, -73.979678], "services": ["G", "F", "FX"]},
+  {"id": "F27S", "name": "Church Av", "description": "", "pos": [40.644041, -73.979678], "services": ["G", "F", "FX"]},
   {"id": "F29", "name": "Ditmas Av", "description": "", "pos": [40.636119, -73.978172], "services": []},
   {"id": "F29N", "name": "Ditmas Av", "description": "", "pos": [40.636119, -73.978172], "services": ["F", "FX"]},
   {"id": "F29S", "name": "Ditmas Av", "description": "", "pos": [40.636119, -73.978172], "services": ["F", "FX"]},
@@ -1964,32 +1970,32 @@
     "name": "Forest Hills-71 Av",
     "description": "",
     "pos": [40.721691, -73.844521],
-    "services": ["E", "F", "FX", "M", "R"]
+    "services": ["E", "F", "R", "FX"]
   },
   {
     "id": "G08S",
     "name": "Forest Hills-71 Av",
     "description": "",
     "pos": [40.721691, -73.844521],
-    "services": ["E", "F", "FX", "M", "R"]
+    "services": ["E", "F", "R", "FX"]
   },
   {"id": "G09", "name": "67 Av", "description": "", "pos": [40.726523, -73.852719], "services": []},
-  {"id": "G09N", "name": "67 Av", "description": "", "pos": [40.726523, -73.852719], "services": ["E", "M", "R"]},
-  {"id": "G09S", "name": "67 Av", "description": "", "pos": [40.726523, -73.852719], "services": ["E", "M", "R"]},
+  {"id": "G09N", "name": "67 Av", "description": "", "pos": [40.726523, -73.852719], "services": ["E", "F", "R"]},
+  {"id": "G09S", "name": "67 Av", "description": "", "pos": [40.726523, -73.852719], "services": ["E", "F", "R"]},
   {"id": "G10", "name": "63 Dr-Rego Park", "description": "", "pos": [40.729846, -73.861604], "services": []},
   {
     "id": "G10N",
     "name": "63 Dr-Rego Park",
     "description": "",
     "pos": [40.729846, -73.861604],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {
     "id": "G10S",
     "name": "63 Dr-Rego Park",
     "description": "",
     "pos": [40.729846, -73.861604],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {"id": "G11", "name": "Woodhaven Blvd", "description": "", "pos": [40.733106, -73.869229], "services": []},
   {
@@ -1997,14 +2003,14 @@
     "name": "Woodhaven Blvd",
     "description": "",
     "pos": [40.733106, -73.869229],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {
     "id": "G11S",
     "name": "Woodhaven Blvd",
     "description": "",
     "pos": [40.733106, -73.869229],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {"id": "G12", "name": "Grand Av-Newtown", "description": "", "pos": [40.737015, -73.877223], "services": []},
   {
@@ -2012,74 +2018,74 @@
     "name": "Grand Av-Newtown",
     "description": "",
     "pos": [40.737015, -73.877223],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {
     "id": "G12S",
     "name": "Grand Av-Newtown",
     "description": "",
     "pos": [40.737015, -73.877223],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {"id": "G13", "name": "Elmhurst Av", "description": "", "pos": [40.742454, -73.882017], "services": []},
-  {"id": "G13N", "name": "Elmhurst Av", "description": "", "pos": [40.742454, -73.882017], "services": ["E", "M", "R"]},
-  {"id": "G13S", "name": "Elmhurst Av", "description": "", "pos": [40.742454, -73.882017], "services": ["E", "M", "R"]},
+  {"id": "G13N", "name": "Elmhurst Av", "description": "", "pos": [40.742454, -73.882017], "services": ["E", "F", "R"]},
+  {"id": "G13S", "name": "Elmhurst Av", "description": "", "pos": [40.742454, -73.882017], "services": ["E", "F", "R"]},
   {"id": "G14", "name": "Jackson Hts-Roosevelt Av", "description": "", "pos": [40.746644, -73.891338], "services": []},
   {
     "id": "G14N",
     "name": "Jackson Hts-Roosevelt Av",
     "description": "",
     "pos": [40.746644, -73.891338],
-    "services": ["E", "F", "FX", "M", "R"]
+    "services": ["E", "F", "R", "FX"]
   },
   {
     "id": "G14S",
     "name": "Jackson Hts-Roosevelt Av",
     "description": "",
     "pos": [40.746644, -73.891338],
-    "services": ["E", "F", "FX", "M", "R"]
+    "services": ["E", "F", "R", "FX"]
   },
   {"id": "G15", "name": "65 St", "description": "", "pos": [40.749669, -73.898453], "services": []},
-  {"id": "G15N", "name": "65 St", "description": "", "pos": [40.749669, -73.898453], "services": ["E", "M", "R"]},
-  {"id": "G15S", "name": "65 St", "description": "", "pos": [40.749669, -73.898453], "services": ["E", "M", "R"]},
+  {"id": "G15N", "name": "65 St", "description": "", "pos": [40.749669, -73.898453], "services": ["E", "F", "R"]},
+  {"id": "G15S", "name": "65 St", "description": "", "pos": [40.749669, -73.898453], "services": ["E", "F", "R"]},
   {"id": "G16", "name": "Northern Blvd", "description": "", "pos": [40.752885, -73.906006], "services": []},
   {
     "id": "G16N",
     "name": "Northern Blvd",
     "description": "",
     "pos": [40.752885, -73.906006],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {
     "id": "G16S",
     "name": "Northern Blvd",
     "description": "",
     "pos": [40.752885, -73.906006],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R"]
   },
   {"id": "G18", "name": "46 St", "description": "", "pos": [40.756312, -73.913333], "services": []},
-  {"id": "G18N", "name": "46 St", "description": "", "pos": [40.756312, -73.913333], "services": ["E", "M", "R"]},
-  {"id": "G18S", "name": "46 St", "description": "", "pos": [40.756312, -73.913333], "services": ["E", "M", "R"]},
+  {"id": "G18N", "name": "46 St", "description": "", "pos": [40.756312, -73.913333], "services": ["E", "F", "R"]},
+  {"id": "G18S", "name": "46 St", "description": "", "pos": [40.756312, -73.913333], "services": ["E", "F", "R"]},
   {"id": "G19", "name": "Steinway St", "description": "", "pos": [40.756879, -73.92074], "services": []},
-  {"id": "G19N", "name": "Steinway St", "description": "", "pos": [40.756879, -73.92074], "services": ["E", "M", "R"]},
-  {"id": "G19S", "name": "Steinway St", "description": "", "pos": [40.756879, -73.92074], "services": ["E", "M", "R"]},
+  {"id": "G19N", "name": "Steinway St", "description": "", "pos": [40.756879, -73.92074], "services": ["E", "F", "R"]},
+  {"id": "G19S", "name": "Steinway St", "description": "", "pos": [40.756879, -73.92074], "services": ["E", "F", "R"]},
   {"id": "G20", "name": "36 St", "description": "", "pos": [40.752039, -73.928781], "services": []},
-  {"id": "G20N", "name": "36 St", "description": "", "pos": [40.752039, -73.928781], "services": ["E", "M", "R"]},
-  {"id": "G20S", "name": "36 St", "description": "", "pos": [40.752039, -73.928781], "services": ["E", "M", "R"]},
+  {"id": "G20N", "name": "36 St", "description": "", "pos": [40.752039, -73.928781], "services": ["E", "F", "R"]},
+  {"id": "G20S", "name": "36 St", "description": "", "pos": [40.752039, -73.928781], "services": ["E", "F", "R"]},
   {"id": "G21", "name": "Queens Plaza", "description": "", "pos": [40.748973, -73.937243], "services": []},
   {
     "id": "G21N",
     "name": "Queens Plaza",
     "description": "",
     "pos": [40.748973, -73.937243],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R", "FX"]
   },
   {
     "id": "G21S",
     "name": "Queens Plaza",
     "description": "",
     "pos": [40.748973, -73.937243],
-    "services": ["E", "M", "R"]
+    "services": ["E", "F", "R", "FX"]
   },
   {"id": "G22", "name": "Court Sq", "description": "", "pos": [40.746554, -73.943832], "services": []},
   {"id": "G22N", "name": "Court Sq", "description": "", "pos": [40.746554, -73.943832], "services": ["G"]},
@@ -2546,50 +2552,50 @@
     "name": "Lexington Av/59 St",
     "description": "",
     "pos": [40.76266, -73.967258],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {
     "id": "R11S",
     "name": "Lexington Av/59 St",
     "description": "",
     "pos": [40.76266, -73.967258],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {"id": "R13", "name": "5 Av/59 St", "description": "", "pos": [40.764811, -73.973347], "services": []},
-  {"id": "R13N", "name": "5 Av/59 St", "description": "", "pos": [40.764811, -73.973347], "services": ["N", "W", "R"]},
-  {"id": "R13S", "name": "5 Av/59 St", "description": "", "pos": [40.764811, -73.973347], "services": ["N", "W", "R"]},
+  {"id": "R13N", "name": "5 Av/59 St", "description": "", "pos": [40.764811, -73.973347], "services": ["N", "R", "W"]},
+  {"id": "R13S", "name": "5 Av/59 St", "description": "", "pos": [40.764811, -73.973347], "services": ["N", "R", "W"]},
   {"id": "R14", "name": "57 St-7 Av", "description": "", "pos": [40.764664, -73.980658], "services": []},
   {
     "id": "R14N",
     "name": "57 St-7 Av",
     "description": "",
     "pos": [40.764664, -73.980658],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {
     "id": "R14S",
     "name": "57 St-7 Av",
     "description": "",
     "pos": [40.764664, -73.980658],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {"id": "R15", "name": "49 St", "description": "", "pos": [40.759901, -73.984139], "services": []},
-  {"id": "R15N", "name": "49 St", "description": "", "pos": [40.759901, -73.984139], "services": ["N", "Q", "W", "R"]},
-  {"id": "R15S", "name": "49 St", "description": "", "pos": [40.759901, -73.984139], "services": ["N", "Q", "W", "R"]},
+  {"id": "R15N", "name": "49 St", "description": "", "pos": [40.759901, -73.984139], "services": ["N", "Q", "R", "W"]},
+  {"id": "R15S", "name": "49 St", "description": "", "pos": [40.759901, -73.984139], "services": ["N", "Q", "R", "W"]},
   {"id": "R16", "name": "Times Sq-42 St", "description": "", "pos": [40.754672, -73.986754], "services": []},
   {
     "id": "R16N",
     "name": "Times Sq-42 St",
     "description": "",
     "pos": [40.754672, -73.986754],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {
     "id": "R16S",
     "name": "Times Sq-42 St",
     "description": "",
     "pos": [40.754672, -73.986754],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {"id": "R17", "name": "34 St-Herald Sq", "description": "", "pos": [40.749567, -73.98795], "services": []},
   {
@@ -2597,35 +2603,35 @@
     "name": "34 St-Herald Sq",
     "description": "",
     "pos": [40.749567, -73.98795],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {
     "id": "R17S",
     "name": "34 St-Herald Sq",
     "description": "",
     "pos": [40.749567, -73.98795],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {"id": "R18", "name": "28 St", "description": "", "pos": [40.745494, -73.988691], "services": []},
-  {"id": "R18N", "name": "28 St", "description": "", "pos": [40.745494, -73.988691], "services": ["N", "Q", "W", "R"]},
-  {"id": "R18S", "name": "28 St", "description": "", "pos": [40.745494, -73.988691], "services": ["N", "Q", "W", "R"]},
+  {"id": "R18N", "name": "28 St", "description": "", "pos": [40.745494, -73.988691], "services": ["N", "Q", "R", "W"]},
+  {"id": "R18S", "name": "28 St", "description": "", "pos": [40.745494, -73.988691], "services": ["N", "Q", "R", "W"]},
   {"id": "R19", "name": "23 St", "description": "", "pos": [40.741303, -73.989344], "services": []},
-  {"id": "R19N", "name": "23 St", "description": "", "pos": [40.741303, -73.989344], "services": ["N", "Q", "W", "R"]},
-  {"id": "R19S", "name": "23 St", "description": "", "pos": [40.741303, -73.989344], "services": ["N", "Q", "W", "R"]},
+  {"id": "R19N", "name": "23 St", "description": "", "pos": [40.741303, -73.989344], "services": ["N", "Q", "R", "W"]},
+  {"id": "R19S", "name": "23 St", "description": "", "pos": [40.741303, -73.989344], "services": ["N", "Q", "R", "W"]},
   {"id": "R20", "name": "14 St-Union Sq", "description": "", "pos": [40.735736, -73.990568], "services": []},
   {
     "id": "R20N",
     "name": "14 St-Union Sq",
     "description": "",
     "pos": [40.735736, -73.990568],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {
     "id": "R20S",
     "name": "14 St-Union Sq",
     "description": "",
     "pos": [40.735736, -73.990568],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {"id": "R21", "name": "8 St-NYU", "description": "", "pos": [40.730328, -73.992629], "services": []},
   {
@@ -2633,14 +2639,14 @@
     "name": "8 St-NYU",
     "description": "",
     "pos": [40.730328, -73.992629],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {
     "id": "R21S",
     "name": "8 St-NYU",
     "description": "",
     "pos": [40.730328, -73.992629],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {"id": "R22", "name": "Prince St", "description": "", "pos": [40.724329, -73.997702], "services": []},
   {
@@ -2648,71 +2654,71 @@
     "name": "Prince St",
     "description": "",
     "pos": [40.724329, -73.997702],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {
     "id": "R22S",
     "name": "Prince St",
     "description": "",
     "pos": [40.724329, -73.997702],
-    "services": ["N", "Q", "W", "R"]
+    "services": ["N", "Q", "R", "W"]
   },
   {"id": "R23", "name": "Canal St", "description": "", "pos": [40.719527, -74.001775], "services": []},
-  {"id": "R23N", "name": "Canal St", "description": "", "pos": [40.719527, -74.001775], "services": ["N", "W", "R"]},
-  {"id": "R23S", "name": "Canal St", "description": "", "pos": [40.719527, -74.001775], "services": ["N", "W", "R"]},
+  {"id": "R23N", "name": "Canal St", "description": "", "pos": [40.719527, -74.001775], "services": ["N", "R", "W"]},
+  {"id": "R23S", "name": "Canal St", "description": "", "pos": [40.719527, -74.001775], "services": ["N", "R", "W"]},
   {"id": "R24", "name": "City Hall", "description": "", "pos": [40.713282, -74.006978], "services": []},
-  {"id": "R24N", "name": "City Hall", "description": "", "pos": [40.713282, -74.006978], "services": ["N", "W", "R"]},
-  {"id": "R24S", "name": "City Hall", "description": "", "pos": [40.713282, -74.006978], "services": ["N", "W", "R"]},
+  {"id": "R24N", "name": "City Hall", "description": "", "pos": [40.713282, -74.006978], "services": ["N", "R", "W"]},
+  {"id": "R24S", "name": "City Hall", "description": "", "pos": [40.713282, -74.006978], "services": ["N", "R", "W"]},
   {"id": "R25", "name": "Cortlandt St", "description": "", "pos": [40.710668, -74.011029], "services": []},
   {
     "id": "R25N",
     "name": "Cortlandt St",
     "description": "",
     "pos": [40.710668, -74.011029],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {
     "id": "R25S",
     "name": "Cortlandt St",
     "description": "",
     "pos": [40.710668, -74.011029],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {"id": "R26", "name": "Rector St", "description": "", "pos": [40.70722, -74.013342], "services": []},
-  {"id": "R26N", "name": "Rector St", "description": "", "pos": [40.70722, -74.013342], "services": ["N", "W", "R"]},
-  {"id": "R26S", "name": "Rector St", "description": "", "pos": [40.70722, -74.013342], "services": ["N", "W", "R"]},
+  {"id": "R26N", "name": "Rector St", "description": "", "pos": [40.70722, -74.013342], "services": ["N", "R", "W"]},
+  {"id": "R26S", "name": "Rector St", "description": "", "pos": [40.70722, -74.013342], "services": ["N", "R", "W"]},
   {"id": "R27", "name": "Whitehall St-South Ferry", "description": "", "pos": [40.703087, -74.012994], "services": []},
   {
     "id": "R27N",
     "name": "Whitehall St-South Ferry",
     "description": "",
     "pos": [40.703087, -74.012994],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {
     "id": "R27S",
     "name": "Whitehall St-South Ferry",
     "description": "",
     "pos": [40.703087, -74.012994],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {"id": "R28", "name": "Court St", "description": "", "pos": [40.6941, -73.991777], "services": []},
-  {"id": "R28N", "name": "Court St", "description": "", "pos": [40.6941, -73.991777], "services": ["N", "W", "R"]},
-  {"id": "R28S", "name": "Court St", "description": "", "pos": [40.6941, -73.991777], "services": ["N", "W", "R"]},
+  {"id": "R28N", "name": "Court St", "description": "", "pos": [40.6941, -73.991777], "services": ["N", "R", "W"]},
+  {"id": "R28S", "name": "Court St", "description": "", "pos": [40.6941, -73.991777], "services": ["N", "R", "W"]},
   {"id": "R29", "name": "Jay St-MetroTech", "description": "", "pos": [40.69218, -73.985942], "services": []},
   {
     "id": "R29N",
     "name": "Jay St-MetroTech",
     "description": "",
     "pos": [40.69218, -73.985942],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {
     "id": "R29S",
     "name": "Jay St-MetroTech",
     "description": "",
     "pos": [40.69218, -73.985942],
-    "services": ["N", "W", "R"]
+    "services": ["N", "R", "W"]
   },
   {"id": "R30", "name": "DeKalb Av", "description": "", "pos": [40.690635, -73.981824], "services": []},
   {
@@ -2720,14 +2726,14 @@
     "name": "DeKalb Av",
     "description": "",
     "pos": [40.690635, -73.981824],
-    "services": ["B", "D", "N", "Q", "W", "R"]
+    "services": ["B", "D", "N", "Q", "R", "W"]
   },
   {
     "id": "R30S",
     "name": "DeKalb Av",
     "description": "",
     "pos": [40.690635, -73.981824],
-    "services": ["B", "D", "N", "Q", "W", "R"]
+    "services": ["B", "D", "N", "Q", "R", "W"]
   },
   {"id": "R31", "name": "Atlantic Av-Barclays Ctr", "description": "", "pos": [40.683666, -73.97881], "services": []},
   {
@@ -2735,14 +2741,14 @@
     "name": "Atlantic Av-Barclays Ctr",
     "description": "",
     "pos": [40.683666, -73.97881],
-    "services": ["D", "N", "Q", "W", "R"]
+    "services": ["D", "N", "Q", "R", "W"]
   },
   {
     "id": "R31S",
     "name": "Atlantic Av-Barclays Ctr",
     "description": "",
     "pos": [40.683666, -73.97881],
-    "services": ["D", "N", "W", "R"]
+    "services": ["D", "N", "R", "W"]
   },
   {"id": "R32", "name": "Union St", "description": "", "pos": [40.677316, -73.98311], "services": []},
   {
@@ -2750,14 +2756,14 @@
     "name": "Union St",
     "description": "",
     "pos": [40.677316, -73.98311],
-    "services": ["D", "N", "W", "R"]
+    "services": ["D", "N", "R", "W"]
   },
   {
     "id": "R32S",
     "name": "Union St",
     "description": "",
     "pos": [40.677316, -73.98311],
-    "services": ["D", "N", "W", "R"]
+    "services": ["D", "N", "R", "W"]
   },
   {"id": "R33", "name": "4 Av-9 St", "description": "", "pos": [40.670847, -73.988302], "services": []},
   {
@@ -2765,14 +2771,14 @@
     "name": "4 Av-9 St",
     "description": "",
     "pos": [40.670847, -73.988302],
-    "services": ["D", "N", "W", "R"]
+    "services": ["D", "N", "R", "W"]
   },
   {
     "id": "R33S",
     "name": "4 Av-9 St",
     "description": "",
     "pos": [40.670847, -73.988302],
-    "services": ["D", "N", "W", "R"]
+    "services": ["D", "N", "R", "W"]
   },
   {"id": "R34", "name": "Prospect Av", "description": "", "pos": [40.665414, -73.992872], "services": []},
   {
@@ -2780,36 +2786,36 @@
     "name": "Prospect Av",
     "description": "",
     "pos": [40.665414, -73.992872],
-    "services": ["D", "N", "W", "R"]
+    "services": ["D", "N", "R", "W"]
   },
   {
     "id": "R34S",
     "name": "Prospect Av",
     "description": "",
     "pos": [40.665414, -73.992872],
-    "services": ["D", "N", "W", "R"]
+    "services": ["D", "N", "R", "W"]
   },
   {"id": "R35", "name": "25 St", "description": "", "pos": [40.660397, -73.998091], "services": []},
-  {"id": "R35N", "name": "25 St", "description": "", "pos": [40.660397, -73.998091], "services": ["D", "N", "W", "R"]},
-  {"id": "R35S", "name": "25 St", "description": "", "pos": [40.660397, -73.998091], "services": ["D", "N", "W", "R"]},
+  {"id": "R35N", "name": "25 St", "description": "", "pos": [40.660397, -73.998091], "services": ["D", "N", "R", "W"]},
+  {"id": "R35S", "name": "25 St", "description": "", "pos": [40.660397, -73.998091], "services": ["D", "N", "R", "W"]},
   {"id": "R36", "name": "36 St", "description": "", "pos": [40.655144, -74.003549], "services": []},
   {
     "id": "R36N",
     "name": "36 St",
     "description": "",
     "pos": [40.655144, -74.003549],
-    "services": ["D", "N", "Q", "W", "R"]
+    "services": ["D", "N", "Q", "R", "W"]
   },
-  {"id": "R36S", "name": "36 St", "description": "", "pos": [40.655144, -74.003549], "services": ["D", "N", "W", "R"]},
+  {"id": "R36S", "name": "36 St", "description": "", "pos": [40.655144, -74.003549], "services": ["D", "N", "R", "W"]},
   {"id": "R39", "name": "45 St", "description": "", "pos": [40.648939, -74.010006], "services": []},
-  {"id": "R39N", "name": "45 St", "description": "", "pos": [40.648939, -74.010006], "services": ["N", "W", "R"]},
-  {"id": "R39S", "name": "45 St", "description": "", "pos": [40.648939, -74.010006], "services": ["N", "W", "R"]},
+  {"id": "R39N", "name": "45 St", "description": "", "pos": [40.648939, -74.010006], "services": ["N", "R", "W"]},
+  {"id": "R39S", "name": "45 St", "description": "", "pos": [40.648939, -74.010006], "services": ["N", "R", "W"]},
   {"id": "R40", "name": "53 St", "description": "", "pos": [40.645069, -74.014034], "services": []},
-  {"id": "R40N", "name": "53 St", "description": "", "pos": [40.645069, -74.014034], "services": ["N", "W", "R"]},
-  {"id": "R40S", "name": "53 St", "description": "", "pos": [40.645069, -74.014034], "services": ["N", "W", "R"]},
+  {"id": "R40N", "name": "53 St", "description": "", "pos": [40.645069, -74.014034], "services": ["N", "R", "W"]},
+  {"id": "R40S", "name": "53 St", "description": "", "pos": [40.645069, -74.014034], "services": ["N", "R", "W"]},
   {"id": "R41", "name": "59 St", "description": "", "pos": [40.641362, -74.017881], "services": []},
-  {"id": "R41N", "name": "59 St", "description": "", "pos": [40.641362, -74.017881], "services": ["N", "Q", "W", "R"]},
-  {"id": "R41S", "name": "59 St", "description": "", "pos": [40.641362, -74.017881], "services": ["N", "W", "R"]},
+  {"id": "R41N", "name": "59 St", "description": "", "pos": [40.641362, -74.017881], "services": ["N", "Q", "R", "W"]},
+  {"id": "R41S", "name": "59 St", "description": "", "pos": [40.641362, -74.017881], "services": ["N", "R", "W"]},
   {"id": "R42", "name": "Bay Ridge Av", "description": "", "pos": [40.634967, -74.023377], "services": []},
   {"id": "R42N", "name": "Bay Ridge Av", "description": "", "pos": [40.634967, -74.023377], "services": ["R"]},
   {"id": "R42S", "name": "Bay Ridge Av", "description": "", "pos": [40.634967, -74.023377], "services": ["R"]},

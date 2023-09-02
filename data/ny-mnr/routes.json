@@ -1,6 +1,6 @@
 [
   {
-    "id": 3,
+    "id": "3",
     "name": "",
     "description": "New Haven",
     "type": 2,
@@ -8,7 +8,7 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "",
     "description": "New Canaan",
     "type": 2,
@@ -16,7 +16,7 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "",
     "description": "Danbury",
     "type": 2,
@@ -24,7 +24,7 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "",
     "description": "Waterbury",
     "type": 2,
@@ -32,7 +32,7 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": 1,
+    "id": "1",
     "name": "",
     "description": "Hudson",
     "type": 2,
@@ -40,7 +40,7 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "",
     "description": "Harlem",
     "type": 2,

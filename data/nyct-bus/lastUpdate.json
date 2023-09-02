@@ -1,0 +1,27 @@
+{
+  "statenisland": {
+    "etag": "W/\"729c7e-64ef8b5c\"",
+    "lastModified": "Wed, 30 Aug 2023 18:33:00 GMT",
+    "obtainedOn": 1693640079407
+  },
+  "queens": {
+    "etag": "W/\"a1e5de-64ef8ae4\"",
+    "lastModified": "Wed, 30 Aug 2023 18:31:00 GMT",
+    "obtainedOn": 1693640074482
+  },
+  "manhattan": {
+    "etag": "W/\"94e1e2-64ef8ae4\"",
+    "lastModified": "Wed, 30 Aug 2023 18:31:00 GMT",
+    "obtainedOn": 1693640066930
+  },
+  "bronx": {
+    "etag": "W/\"951b3d-64ef8a30\"",
+    "lastModified": "Wed, 30 Aug 2023 18:28:00 GMT",
+    "obtainedOn": 1693640044302
+  },
+  "brooklyn": {
+    "etag": "W/\"13e5158-64ef8a30\"",
+    "lastModified": "Wed, 30 Aug 2023 18:28:00 GMT",
+    "obtainedOn": 1693640059590
+  }
+}

@@ -992,54 +992,6 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": "JBLAF",
-    "name": "JBLAF",
-    "description": "J/M Shuttle Bus-Broadway/Lafayette and Hewes St",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "L1227",
-    "name": "BJ-MW",
-    "description": "L Shuttle Bus-Broadway Junction and Myrtle-Wyckoff",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "L0719",
-    "name": "BEDLOOP",
-    "description": "L Shuttle Bus-Marcy Avenue and Lorimer Street",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "L0202",
-    "name": "MW-ML",
-    "description": "L Shuttle Bus-Myrtle-Wyckoff Avenue and Lorimer Street",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "F1",
-    "name": "F1",
-    "description": " CULVER LINK F Shuttle Bus-Church Avenue and McDonald Avenue",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "M191",
-    "name": "M191",
-    "description": "191 ST Shuttle Loop",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
     "id": "M1",
     "name": "M1",
     "description": "Harlem - East Village",
@@ -1704,30 +1656,6 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": "Q90",
-    "name": "Q90",
-    "description": "Q Shuttle Bus - Barclays Ctr - Prospect Park",
-    "type": 3,
-    "color": "00933C",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "Q92",
-    "name": "Q92",
-    "description": "7 Shuttle Bus - Times Square - Hudson Yards",
-    "type": 3,
-    "color": "00933C",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "Q93",
-    "name": "Q93",
-    "description": "7 Shuttle Bus - Queensboro Plz - Vernon Bl-Jackson Av",
-    "type": 3,
-    "color": "6CBE45",
-    "textColor": "FFFFFF"
-  },
-  {
     "id": "Q110",
     "name": "Q110",
     "description": "Floral Park - Jamaica",
@@ -2272,30 +2200,6 @@
     "textColor": "FFFFFF"
   },
   {
-    "id": "S96B1",
-    "name": "S96B1",
-    "description": "1 Shuttle Bus-Broadway/137St and Central Park West/110 St",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "S96B2",
-    "name": "S96B2",
-    "description": "2 Shuttle Bus-149 St/Grand Concourse and Central Park West/110 St",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
-    "id": "S96B3",
-    "name": "S96B3",
-    "description": "3 Shuttle Bus-148 St/3rd Av and Central Park West/110 St",
-    "type": 3,
-    "color": "EE352E",
-    "textColor": "FFFFFF"
-  },
-  {
     "id": "D99",
     "name": "D99",
     "description": "Stillwell Terminal - Bay 50 St",
@@ -2315,6 +2219,14 @@
     "id": "J90",
     "name": "J90",
     "description": "J Shuttle Bus - Crescent St - Jamaica Van Wyck Station ",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "B90",
+    "name": "B90",
+    "description": "F Shuttle Bus - Church Av - Stillwell Av",
     "type": 711,
     "color": "EE352E",
     "textColor": "FFFFFF"
@@ -2347,6 +2259,118 @@
     "id": "M90",
     "name": "M90",
     "description": "M Shuttle Bus - Metropolitan Av - Myrtle Av",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "Q90",
+    "name": "Q90",
+    "description": "Q Shuttle Bus - Barclays Ctr - Prospect Park",
+    "type": 711,
+    "color": "00933C",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "Q92",
+    "name": "Q92",
+    "description": "7 Shuttle Bus - Times Square - Hudson Yards",
+    "type": 711,
+    "color": "00933C",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "Q93",
+    "name": "Q93",
+    "description": "7 Shuttle Bus - Queensboro Plz - Vernon Bl-Jackson Av",
+    "type": 711,
+    "color": "6CBE45",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "Q94",
+    "name": "Q94",
+    "description": "F Shuttle Bus - Roosevelt Island - Queens Plaza",
+    "type": 711,
+    "color": "6CBE45",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "Q95",
+    "name": "Q95",
+    "description": "F Shuttle Bus - 21 St/Queensbridge  - Queens Plaza",
+    "type": 711,
+    "color": "6CBE45",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "JBLAF",
+    "name": "JBLAF",
+    "description": "J/M Shuttle Bus-Broadway/Lafayette and Hewes St",
+    "type": 3,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "L1227",
+    "name": "BJ-MW",
+    "description": "L Shuttle Bus-Broadway Junction and Myrtle-Wyckoff",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "L0719",
+    "name": "BEDLOOP",
+    "description": "L Shuttle Bus-Marcy Avenue and Lorimer Street",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "L0202",
+    "name": "MW-ML",
+    "description": "L Shuttle Bus-Myrtle-Wyckoff Avenue and Lorimer Street",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "F1",
+    "name": "F1",
+    "description": " CULVER LINK F Shuttle Bus-Church Avenue and McDonald Avenue",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "M191",
+    "name": "M191",
+    "description": "191 ST Shuttle Loop",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "S96B1",
+    "name": "S96B1",
+    "description": "1 Shuttle Bus-Broadway/137St and Central Park West/110 St",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "S96B2",
+    "name": "S96B2",
+    "description": "2 Shuttle Bus-149 St/Grand Concourse and Central Park West/110 St",
+    "type": 711,
+    "color": "EE352E",
+    "textColor": "FFFFFF"
+  },
+  {
+    "id": "S96B3",
+    "name": "S96B3",
+    "description": "3 Shuttle Bus-148 St/3rd Av and Central Park West/110 St",
     "type": 711,
     "color": "EE352E",
     "textColor": "FFFFFF"

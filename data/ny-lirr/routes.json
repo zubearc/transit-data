@@ -1,83 +1,95 @@
 [
   {
-    "id": 1,
+    "id": "1",
+    "name": "undefined",
     "description": "Babylon Branch",
     "type": 2,
     "color": "00985F",
     "textColor": "FFFFFF"
   },
   {
-    "id": 2,
+    "id": "2",
+    "name": "undefined",
     "description": "Hempstead Branch",
     "type": 2,
     "color": "CE8E00",
-    "textColor": 121212
+    "textColor": "121212"
   },
   {
-    "id": 3,
+    "id": "3",
+    "name": "undefined",
     "description": "Oyster Bay Branch",
     "type": 2,
     "color": "00AF3F",
     "textColor": "FFFFFF"
   },
   {
-    "id": 4,
+    "id": "4",
+    "name": "undefined",
     "description": "Ronkonkoma Branch",
     "type": 2,
     "color": "A626AA",
     "textColor": "FFFFFF"
   },
   {
-    "id": 5,
+    "id": "5",
+    "name": "undefined",
     "description": "Montauk Branch",
     "type": 2,
     "color": "00B2A9",
-    "textColor": 121212
+    "textColor": "121212"
   },
   {
-    "id": 6,
+    "id": "6",
+    "name": "undefined",
     "description": "Long Beach Branch",
     "type": 2,
     "color": "FF6319",
     "textColor": "FFFFFF"
   },
   {
-    "id": 7,
+    "id": "7",
+    "name": "undefined",
     "description": "Far Rockaway Branch",
     "type": 2,
     "color": "6E3219",
     "textColor": "FFFFFF"
   },
   {
-    "id": 8,
+    "id": "8",
+    "name": "undefined",
     "description": "West Hempstead Branch",
     "type": 2,
     "color": "00A1DE",
-    "textColor": 121212
+    "textColor": "121212"
   },
   {
-    "id": 9,
+    "id": "9",
+    "name": "undefined",
     "description": "Port Washington Branch",
     "type": 2,
     "color": "C60C30",
     "textColor": "FFFFFF"
   },
   {
-    "id": 10,
+    "id": "10",
+    "name": "undefined",
     "description": "Port Jefferson Branch",
     "type": 2,
     "color": "006EC7",
     "textColor": "FFFFFF"
   },
   {
-    "id": 11,
+    "id": "11",
+    "name": "undefined",
     "description": "Belmont Park",
     "type": 2,
     "color": "60269E",
     "textColor": "FFFFFF"
   },
   {
-    "id": 12,
+    "id": "12",
+    "name": "undefined",
     "description": "City Terminal Zone",
     "type": 2,
     "color": "4D5357",
