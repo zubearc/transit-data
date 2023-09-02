@@ -107,7 +107,7 @@ function makeOps (agency, region) {
 }
 
 function tripsJSON2TSV (json) {
-  const lines = []
+  const lines = ['#routeId\tsign\tshape\tdeparts\tstops']
   for (const routeId in json.trips) {
     for (const trip of json.trips[routeId]) {
       const departs = []
@@ -118,11 +118,11 @@ function tripsJSON2TSV (json) {
       for (const [stopId, secondsElapsedSinceLastArrival, loiterTime] of trip.stops) {
         stops.push(`${stopId},${secondsElapsedSinceLastArrival},${loiterTime || ''}`)
       }
-      lines.push([routeId, trip.sign, trip.shapeId, departs.join(';'), stops.join(';')].join('\t'))
+      lines.push([routeId, trip.sign, trip.shape, departs.join(';'), stops.join(';')].join('\t'))
     }
   }
 
-  const exceptions = []
+  const exceptions = ['#added\tremoved']
   for (const exception of json.exceptions) {
     exceptions.push(`${exception.added.join(',')}\t${exception.removed.join(',')}`)
   }
